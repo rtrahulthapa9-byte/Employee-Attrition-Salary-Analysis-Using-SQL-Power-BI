@@ -1,6 +1,6 @@
 # 📢 HR Analytics Dashboard Documentation
 
-
+![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/7e8418ea4a8653dbc526efefbfbbb7afe277ce49/Screenshot%202026-06-09%20163346.png)
 
 **👉 Overview**
 
