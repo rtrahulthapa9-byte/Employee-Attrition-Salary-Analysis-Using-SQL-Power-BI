@@ -1,10 +1,7 @@
 ![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/51cbda40d928cc504047b4ffb8b3d6f5abbe8274/Screenshot/HR%20Dashboard%20pdf_page-0001.jpg)
 # Employee Attrition & Salary Analysis
 #### Project Overview
-This project analyzes HR data covering 1,000 employees across 8 departments and 32 job roles, involving:
-* Database Creation — PostgreSQL
-* Business Analysis — 10 SQL queries answering key HR questions
-* Visualization — Interactive Power BI dashboard
+This project analyzes employee data covering 1,000 employees across 8 departments and 32 job roles. It involves database creation in PostgreSQL, business analysis through 10 SQL queries answering key organizational questions, and visualization through an interactive Power BI dashboard.
 
 #### Key Analysis Areas 
 * Analyze department-wise average salary to identify the highest and lowest paying departments
