@@ -173,7 +173,7 @@ GROUP BY Age_Range
 ###### Insight: The 31–40 age group has the highest attrition, followed by 41–50, while the 20–30 age group shows the lowest attrition  suggesting mid-career employees may be more prone to leaving than younger, early-career employees.
 
 #### Overall Takeaway
-#### Attrition risk is concentrated among below-average performers, early-tenure employees, and specific job roles (DevOps, Sales), while salary distribution varies more significantly within departments than at the company-wide level — pointing to potential internal pay equity concerns alongside targeted retention needs.
+Attrition risk is concentrated among below-average performers, early-tenure employees, and specific job roles (DevOps, Sales), while salary distribution varies more significantly within departments than at the company-wide level — pointing to potential internal pay equity concerns alongside targeted retention needs.
 
 
 
