@@ -124,6 +124,76 @@ ORDER BY AVG_Salary_Hike DESC
 ```
 ###### Insight: IT Manager received the highest average salary hike at 9.92%, while HR Executive received the lowest at 7.42% a gap of 2.5 percentage points between the top and bottom roles.
 
+##### Q6:What is the year-wise employee attrition trend — how many employees left each year,and what percentage of the total workforce did that represent?
+![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/f9a13b18151b21150522f36488a496a1164f73e5/Screenshot/6.png)
+
+```bash
+SELECT Year,
+       COUNT(*) FILTER (WHERE Attrition = 'Yes') AS Attrition_Count,
+       COUNT(*) AS Total_Employees,
+       ROUND(100.0 * COUNT(*) FILTER (WHERE Attrition = 'Yes') / COUNT(*), 2) AS Attrition_Rate_Percent
+FROM HR_Data
+GROUP BY Year
+ORDER BY Year;
+```
+
+###### Insight: Attrition peaked in 2022 at 17.81% and dropped to its lowest in 2023 at 11.72% a significant improvement of about 6 percentage points, suggesting retention efforts may have improved during that period.
+
+##### Q7:Which performance rating group has the highest attrition rate, and how does it compare across all rating levels?
+![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/f9a13b18151b21150522f36488a496a1164f73e5/Screenshot/7.png)
+```bash
+SELECT  
+      Performance_Rating,
+      Count(*) AS Total_Employee,
+      COUNT(*) FILTER (WHERE Attrition = 'Yes') AS Attrition_Count,
+	  ROUND(100.0 * COUNT(*) FILTER (WHERE Attrition = 'Yes')/COUNT(*),1) AS Attrition_Rate_Percent
+FROM HR_Data
+GROUP BY Performance_Rating
+ORDER BY  Attrition_Rate_Percent DESC
+```
+###### Insight: Attrition is highest among "Below Average" rated employees (46.2%), while "Average" rated employees have the lowest attrition rate (8.7%) — indicating lower performance is strongly linked to higher attrition.
+
+##### Q8: At what tenure stage (years at the company) do employees tend to leave the most?
+![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/f9a13b18151b21150522f36488a496a1164f73e5/Screenshot/8.png)
+```bash
+SELECT  
+     Years_At_Company,
+     COUNT(*) FILTER (WHERE Attrition = 'Yes') AS Attrition_Count
+FROM HR_Data
+GROUP BY Years_At_Company
+ORDER BY  Attrition_Count DESC
+```
+###### Insight: Employees with 2 years of tenure have the highest attrition count (43), followed by 3 years (36) and 0 years (34)showing early tenure is the most vulnerable period for attrition.
+
+##### Q9:Which job roles have the highest attrition, ranked from most to least ?
+![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/f9a13b18151b21150522f36488a496a1164f73e5/Screenshot/9.png)
+```bash
+WITH Attrition AS (
+SELECT
+     Job_Role,
+      COUNT(*) FILTER (WHERE Attrition = 'Yes') AS Attrition_Count
+FROM HR_Data
+GROUP BY Job_Role
+)
+SELECT Job_Role,  Attrition_Count,
+dense_rank() OVER (Order by Attrition_Count desc) AS dnrnk
+FROM Attrition
+ORDER BY dnrnk
+```
+##### Insights:DevOps Engineer has the highest attrition (rank 1), followed by Sales Executive (rank 2) and Sales Manager (rank 3)
+
+##### Q10:Which age group experiences the highest employee attrition?
+![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/f9a13b18151b21150522f36488a496a1164f73e5/Screenshot/10.png)
+```bash
+SELECT 
+      Age_Range,
+	  COUNT(*) FILTER (WHERE Attrition = 'Yes') AS Attrition_Count
+FROM HR_Data
+GROUP BY Age_Range
+```
+###### Insight: The 31–40 age group has the highest attrition, followed by 41–50, while the 20–30 age group shows the lowest attrition  suggesting mid-career employees may be more prone to leaving than younger, early-career employees.
+
+
 
 
 
