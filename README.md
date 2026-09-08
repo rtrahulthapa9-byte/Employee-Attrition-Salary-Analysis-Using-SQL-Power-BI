@@ -61,6 +61,7 @@ To analyze employee attrition patterns and workforce trends across departments, 
 
 ### 10 Business Questions Answered Using SQL 
 ##### What is the average salary in each department, and which departments pay the highest & lowest on average?
+
 ```bash
 SELECT 
      Department, round(AVG(Salary),2) as avg_salary 
