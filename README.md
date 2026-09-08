@@ -73,6 +73,7 @@ ORDER BY avg_salary DESC;
 ###### Insights:The Engineering department receives the highest average salary, while the Customer Support department has the lowest indicating a significant pay gap across departments that may warrant review.
 
 ##### Q2:How much % employees earn more than the company-wide average salary?
+![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/4cf0a69a4d4289d26969c8c1a45bbbc8921c7c9d/Screenshot/Q2.png)
 
 ```bash
 SELECT 
@@ -80,5 +81,51 @@ SELECT
 	  FROM HR_Data)) / COUNT(*), 1) AS Employee_Percent
 FROM HR_Data
 ```
-
 ###### Insights: 448 out of 1000 employees (44.8%) earn more than the company-wide average salary.
+
+##### Q3:Who is the highest-paid employee in each department?
+![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/4cf0a69a4d4289d26969c8c1a45bbbc8921c7c9d/Screenshot/Q3.png)
+
+```bash
+SELECT   
+     DISTINCT ON (Dept_ID) Dept_ID,Department, Full_Name, Salary
+FROM 
+    HR_Data
+ORDER BY 
+       Dept_ID, Salary DESC;
+```
+###### Insights: There are 8 employees who are the highest earners within their respective departments one top earner identified per department.
+
+##### Q4:How many employees earn more than their own department's average salary?
+![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/4cf0a69a4d4289d26969c8c1a45bbbc8921c7c9d/Screenshot/Q4.png)
+```bash
+WITH Dept_avg AS (
+    SELECT Department, ROUND(AVG(Salary), 2) AS avg_salary
+    FROM HR_Data
+    GROUP BY Department
+)
+SELECT 
+     COUNT(*) AS Employees_Above_Dept_Avg
+FROM HR_Data h1
+    JOIN Dept_avg d2 ON d2.Department = h1.Department
+WHERE h1.Salary > d2.avg_salary;
+```
+###### Insights:514 employees earn more than their own department's average salary indicating a large portion of the workforce is compensated above their department's typical pay level
+
+
+##### Q5:What is the average salary hike percentage for each job role, and which roles received the highest & lowest average hikes?
+![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/4cf0a69a4d4289d26969c8c1a45bbbc8921c7c9d/Screenshot/Q5.png)
+```bash
+SELECT  
+     Job_Role, Round(AVG(Salary_Hike_Percent),2) AS AVG_Salary_Hike 
+FROM HR_Data
+GROUP BY Job_Role
+ORDER BY AVG_Salary_Hike DESC
+```
+###### Insight: IT Manager received the highest average salary hike at 9.92%, while HR Executive received the lowest at 7.42% a gap of 2.5 percentage points between the top and bottom roles.
+
+
+
+
+
+
