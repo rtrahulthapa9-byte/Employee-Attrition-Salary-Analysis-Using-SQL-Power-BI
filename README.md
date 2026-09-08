@@ -1,61 +1,41 @@
-# 📢 HR Analytics Dashboard
-
-![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/7e8418ea4a8653dbc526efefbfbbb7afe277ce49/Screenshot%202026-06-09%20163346.png)
-
-**👉 Overview**
-
-The HR Analytics Dashboard is an interactive internal tool that gives HR teams a clear view of workforce health. Built in Excel, it consolidates employee data across departments, salary, attrition, gender, job satisfaction, and work-life balance — turning raw HR data into actionable insights for smarter decision-making.
-
-**👉 Goal**
-
-To analyze employee attrition patterns and workforce trends across departments, helping HR teams and management identify key risk areas, understand compensation distribution, and take data-driven steps to improve employee retention and overall organizational health.
-
-**👉 Key Highlights**
-
-🔸 Imported dataset from Kaggle and performed thorough data cleaning and transformation using Power Query 
-
-🔸 Resolved inconsistencies, corrected data types, handled missing/null values, and standardized column formats for accuracy 
-
-🔸 Extracted and created a dedicated Year column to analyse year-wise attrition trend analysis.
-
-🔸 Built dynamic slicers for Department, Gender, Employment Type, and Attrition for flexible filtering.
-
-🔸 Designed KPI cards to display Total Employees, Attrition Rate, Active Employees, Employees Left, and Average Salary at a glance.
-
-🔸 Created multiple visualizations like bar charts, line graphs, and pie charts — to represent distribution and trends clearly.
-
-**👉 Key Insights**
-
-🔸 Overall attrition stands at 14% with 141 employees left out of 1000.
-
-🔸 Bonus engineering leads in average salary (₹1,05,665) and bonus (₹11,719).
-
-🔸 Workforce is 54% Male, 41% Female, 5% Undisclosed.
-
-🔸 Satisfaction peaks at level 4 (220 employees) but drops at level 5.
-
-🔸 Balance score 5 has the highest count (201 employees).
-
-🔸 Attrition was highest in 2022 (44) and has shown a declining trend.
-
-🔸 Engineering and Sales show higher attrition visually.
+# 📢 Employee Attrition & Salary Analysis
 
 
-**👉 Recommendation**
+#### Project Overview
+This project analyzes HR data covering 1,000 employees across 8 departments and 32 job roles, involving:
 
-🔸 Ask leaving employees why they quit and fix those issues.
+* Database Creation — PostgreSQL
 
-🔸 Give Customer Support & Sales better rewards and growth opportunities.
+* Business Analysis — 10 SQL queries answering key HR questions
 
-🔸 Check if Customer Support and HR employees are paid fairly.
+* Visualization — Interactive Power BI dashboard
 
-🔸 Try to hire more women, especially in technical roles.
+#### Key Analysis Areas 
+* Analyze department-wise average salary to identify the highest and lowest paying departments
+* Identify employees earning above the company-wide average salary
+* Identify employees earning above their own department's average salary
+* Determine the highest-paid employee within each department
+* Analyze salary hike percentage trends across job roles
+* Track year-wise attrition trends to identify improving or worsening retention
+* Examine the relationship between performance ratings and attrition
+* Identify the tenure stage at which employees are most likely to leave
+* Rank job roles by attrition to highlight high-risk roles
+* Analyze attrition patterns across age groups
 
-🔸 Talk to employees to find out what stops them from feeling fully satisfied.
-
-🔸 Keep flexible work options as employees find them helpful.
-
-🔸 Current approach is working — keep it up.
+#### Tool I Used:
+* PostgreSQL
+* Power Bi+DAX
+#### SQL Concepts Used
+* Aggregate Functions – AVG(), COUNT(), ROUND()
+* GROUP BY – summarizing data by Department, Job Role, Year, etc.
+* ORDER BY – sorting results ascending/descending
+* Subqueries – scalar (company-wide avg) and correlated (department-wise avg)
+* CTEs (WITH clause) – precomputing department averages and attrition counts
+* JOINs – combining HR_Data with CTE results
+* Window Functions – DISTINCT ON, DENSE_RANK() OVER (ORDER BY ...)
+* Conditional Aggregation – COUNT(*) FILTER (WHERE ...)
+* Calculated Metrics – percentage calculations using 100.0 * for float division
+* Aliasing – column aliases (AS) and table aliases (h1, h2)
 
 
 
@@ -193,7 +173,8 @@ GROUP BY Age_Range
 ```
 ###### Insight: The 31–40 age group has the highest attrition, followed by 41–50, while the 20–30 age group shows the lowest attrition  suggesting mid-career employees may be more prone to leaving than younger, early-career employees.
 
-
+#### Overall Takeaway
+#### Attrition risk is concentrated among below-average performers, early-tenure employees, and specific job roles (DevOps, Sales), while salary distribution varies more significantly within departments than at the company-wide level — pointing to potential internal pay equity concerns alongside targeted retention needs.
 
 
 
