@@ -3,11 +3,8 @@
 
 #### Project Overview
 This project analyzes HR data covering 1,000 employees across 8 departments and 32 job roles, involving:
-
 * Database Creation — PostgreSQL
-
 * Business Analysis — 10 SQL queries answering key HR questions
-
 * Visualization — Interactive Power BI dashboard
 
 #### Key Analysis Areas 
