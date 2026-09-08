@@ -61,7 +61,8 @@ To analyze employee attrition patterns and workforce trends across departments, 
 
 ### 10 Business Questions Answered Using SQL 
 ##### What is the average salary in each department, and which departments pay the highest & lowest on average?
-![Alt text]([Screenshot/Screenshot 2026-09-08 133617.png](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/d7ee9ffe3aa83b4d9cd9cd12bd745044d0b2b7f5/Screenshot/Screenshot%202026-09-08%20133617.png))
+![Image](Screenshot/Screenshot 2026-09-08 133617.png](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/d7ee9ffe3aa83b4d9cd9cd12bd745044d0b2b7f5/Screenshot/Screenshot%202026-09-08%20133617.png)
+
 ```bash
 SELECT 
      Department, round(AVG(Salary),2) as avg_salary 
