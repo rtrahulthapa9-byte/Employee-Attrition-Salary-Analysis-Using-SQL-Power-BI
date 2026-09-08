@@ -1,4 +1,4 @@
-![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/e909f539c067538681ad41762e23254d7878b1f3/Screenshot/Screenshot%202026-09-08%20193115.png)
+![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/51cbda40d928cc504047b4ffb8b3d6f5abbe8274/Screenshot/HR%20Dashboard%20pdf_page-0001.jpg)
 # Employee Attrition & Salary Analysis
 #### Project Overview
 This project analyzes HR data covering 1,000 employees across 8 departments and 32 job roles, involving:
