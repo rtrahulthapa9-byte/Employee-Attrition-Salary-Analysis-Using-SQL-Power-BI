@@ -59,10 +59,10 @@ To analyze employee attrition patterns and workforce trends across departments, 
 
 
 
-** I frame 10 business question to analyze the data 
-****What is the average salary in each department, and which departments pay the highest & lowest on average?
+### I frame 10 business question to analyze the data 
+##### What is the average salary in each department, and which departments pay the highest & lowest on average?
 ```bash
-select
+SELECT
      Department, ROUND(AVG(Salary),2) as avg_salary FROM HR_Data
 GROUP BY
        Department
