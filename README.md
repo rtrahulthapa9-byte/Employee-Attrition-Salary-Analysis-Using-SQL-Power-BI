@@ -59,7 +59,7 @@ To analyze employee attrition patterns and workforce trends across departments, 
 
 
 
-### I frame 10 business question to analyze the data 
+### Answering 10 Business Questions on Salary Distribution & Employee Attrition
 ##### What is the average salary in each department, and which departments pay the highest & lowest on average?
 ```bash
 SELECT
