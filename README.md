@@ -1,7 +1,5 @@
-# 📢 Employee Attrition & Salary Analysis
-
-
-
+![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/e909f539c067538681ad41762e23254d7878b1f3/Screenshot/Screenshot%202026-09-08%20193115.png)
+# Employee Attrition & Salary Analysis
 #### Project Overview
 This project analyzes HR data covering 1,000 employees across 8 departments and 32 job roles, involving:
 * Database Creation — PostgreSQL
