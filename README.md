@@ -1,6 +1,7 @@
 # 📢 Employee Attrition & Salary Analysis
 
 
+
 #### Project Overview
 This project analyzes HR data covering 1,000 employees across 8 departments and 32 job roles, involving:
 * Database Creation — PostgreSQL
@@ -22,19 +23,25 @@ This project analyzes HR data covering 1,000 employees across 8 departments and 
 #### Tool I Used:
 * PostgreSQL
 * Power Bi+DAX
+  
 #### SQL Concepts Used
-* Aggregate Functions – AVG(), COUNT(), ROUND()
-* GROUP BY – summarizing data by Department, Job Role, Year, etc.
-* ORDER BY – sorting results ascending/descending
-* Subqueries – scalar (company-wide avg) and correlated (department-wise avg)
-* CTEs (WITH clause) – precomputing department averages and attrition counts
-* JOINs – combining HR_Data with CTE results
-* Window Functions – DISTINCT ON, DENSE_RANK() OVER (ORDER BY ...)
-* Conditional Aggregation – COUNT(*) FILTER (WHERE ...)
-* Calculated Metrics – percentage calculations using 100.0 * for float division
-* Aliasing – column aliases (AS) and table aliases (h1, h2)
+* Aggregate Functions: AVG(), COUNT(), ROUND()
+* Grouping & Sorting: GROUP BY, ORDER BY
+* Subqueries: Scalar & Correlated
+* CTEs (WITH clause): Precomputing department averages and attrition counts
+* Joins: Combining HR_Data with CTE results
+* Window Functions: DISTINCT ON, DENSE_RANK() OVER (ORDER BY ...)
+* Conditional Aggregation: COUNT(*) FILTER (WHERE ...)
+* Calculated Metrics: Percentage calculations using 100.0 * for float division
+* Aliasing: Column aliases (AS) and table aliases (h1, h2)
 
-
+#### DAX Functions used
+* Aggregation Functions: SUM,AVERAGE & COUNTROWS
+* Filter Function: Filter & ALL
+* Context Function: Calculate
+* Logical Function: Switch
+* Mathematical Function: Divide
+* Measure and Calculated column
 
 ### 10 Business Questions Answered Using SQL 
 ##### Q1: What is the average salary in each department, and which departments pay the highest & lowest on average?
