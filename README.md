@@ -60,7 +60,7 @@ To analyze employee attrition patterns and workforce trends across departments, 
 
 
 ### 10 Business Questions Answered Using SQL 
-##### What is the average salary in each department, and which departments pay the highest & lowest on average?
+##### Q1: What is the average salary in each department, and which departments pay the highest & lowest on average?
 ![Image](https://github.com/rtrahulthapa9-byte/HR-Analytics-Dashboard-Excel/blob/1348eb9b1e8e10a602679ce27379ee38af069a18/Screenshot/Screenshot%202026-09-08%20133617.png)
 
 ```bash
@@ -72,4 +72,13 @@ ORDER BY avg_salary DESC;
 ```
 ###### Insights:The Engineering department receives the highest average salary, while the Customer Support department has the lowest indicating a significant pay gap across departments that may warrant review.
 
+##### Q2:How much % employees earn more than the company-wide average salary?
 
+```bash
+SELECT 
+      ROUND(100.0 * COUNT(*) FILTER (WHERE Salary>(SELECT round(AVG(Salary),2) AS avg_salary 
+	  FROM HR_Data)) / COUNT(*), 1) AS Employee_Percent
+FROM HR_Data
+```
+
+###### Insights: 448 out of 1000 employees (44.8%) earn more than the company-wide average salary.
