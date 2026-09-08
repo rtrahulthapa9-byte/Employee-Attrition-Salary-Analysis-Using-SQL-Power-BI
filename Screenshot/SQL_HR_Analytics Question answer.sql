@@ -1,0 +1,230 @@
+Create table HR_Data(
+    Employee_ID           VARCHAR(20),
+    Full_Name             VARCHAR(100),
+    Age                   INT,          
+    Gender                VARCHAR(50),
+    Education             VARCHAR(50),
+    City                  VARCHAR(50),
+    Department            VARCHAR(50),
+    Job_Role              VARCHAR(50),
+    Employment_Type       VARCHAR(20),
+    Join_Date             DATE,
+    Year                  INT,
+    Years_At_Company      INT,
+    Years_Experience      INT,
+    Performance_Rating    VARCHAR(50),
+    Job_Satisfaction      INT,             
+    Work_Life_Balance     INT,             
+    Overtime              VARCHAR(3),      
+    Leaves_Taken          INT,  
+	Training_Hours        INT,
+    Salary                INT,
+    Bonus                 INT,
+    Salary_Hike_Percent   DECIMAL(4,2), 
+    Attrition             VARCHAR(3)
+);
+
+
+
+Select * from HR_Data
+
+
+/* Q1:What is the average salary in each department, and which departments pay the highest & lowest on average?
+
+Insight: The Engineering department receives the highest average salary, while the Customer Support department has the lowest
+indicating a significant pay gap across departments that may warrant review.*/
+
+SELECT 
+     Department, round(AVG(Salary),2) as avg_salary 
+FROM HR_Data
+GROUP BY Department
+ORDER BY avg_salary DESC;
+
+
+/*Q2:How much % employees earn more than the company-wide average salary?
+
+Insights: 448 out of 1000 employees (X%) earn more than the company-wide average salary.*/
+
+SELECT 
+      ROUND(100.0 * COUNT(*) FILTER (WHERE Salary>(SELECT round(AVG(Salary),2) AS avg_salary 
+	  FROM HR_Data)) / COUNT(*), 1) AS Employee_Percent
+FROM HR_Data
+
+
+
+
+/*Q3:Who is the highest-paid employee in each department?
+
+Insights: There are 8 employees who are the highest earners 
+within their respective departments one top earner identified per department.*/
+
+SELECT   
+     DISTINCT ON (Dept_ID) Dept_ID,Department, Full_Name, Salary
+FROM 
+    HR_Data
+ORDER BY 
+       Dept_ID, Salary DESC;
+
+
+	   
+/*Q4:How many employees earn more than their own department's average salary?
+
+Insights:514 employees earn more than their own department's average salary 
+indicating a large portion of the workforce is compensated above their department's typical pay level*/
+
+WITH Dept_avg AS (
+    SELECT Department, ROUND(AVG(Salary), 2) AS avg_salary
+    FROM HR_Data
+    GROUP BY Department
+)
+SELECT 
+     COUNT(*) AS Employees_Above_Dept_Avg
+FROM HR_Data h1
+    JOIN Dept_avg d2 ON d2.Department = h1.Department
+WHERE h1.Salary > d2.avg_salary;
+
+
+/*Q5:What is the average salary hike percentage for each job role, and which roles received the highest & lowest average hikes?
+
+Insight: IT Manager received the highest average salary hike at 9.92%, while HR Executive received the lowest at 7.42% 
+a gap of 2.5 percentage points between the top and bottom roles. */
+
+SELECT  
+     Job_Role, Round(AVG(Salary_Hike_Percent),2) AS AVG_Salary_Hike 
+FROM HR_Data
+GROUP BY Job_Role
+ORDER BY AVG_Salary_Hike DESC
+
+
+
+/*
+Q6:What is the year-wise employee attrition trend — how many employees left each year,
+and what percentage of the total workforce did that represent?
+
+Insight: Attrition peaked in 2022 at 17.81% and dropped to its lowest in 2023 at 11.72% 
+a significant improvement of about 6 percentage points, suggesting retention efforts may have improved during that period.
+*/
+
+
+SELECT Year,
+       COUNT(*) FILTER (WHERE Attrition = 'Yes') AS Attrition_Count,
+       COUNT(*) AS Total_Employees,
+       ROUND(100.0 * COUNT(*) FILTER (WHERE Attrition = 'Yes') / COUNT(*), 2) AS Attrition_Rate_Percent
+FROM HR_Data
+GROUP BY Year
+ORDER BY Year;
+
+
+/*
+Q7:Which performance rating group has the highest attrition rate, and how does it compare across all rating levels?
+
+Insight: Attrition is highest among "Below Average" rated employees (46.2%), 
+while "Average" rated employees have the lowest attrition rate (8.7%) — indicating lower performance is strongly linked to higher attrition.
+*/
+
+SELECT  
+      Performance_Rating,
+      Count(*) AS Total_Employee,
+      COUNT(*) FILTER (WHERE Attrition = 'Yes') AS Attrition_Count,
+	  ROUND(100.0 * COUNT(*) FILTER (WHERE Attrition = 'Yes')/COUNT(*),1) AS Attrition_Rate_Percent
+FROM HR_Data
+GROUP BY Performance_Rating
+ORDER BY  Attrition_Rate_Percent DESC
+
+
+		
+
+/* Q8: At what tenure stage (years at the company) do employees tend to leave the most
+
+Insight: Employees with 2 years of tenure have the highest attrition count (43), followed by 3 years (36) and 0 years (34)
+showing early tenure is the most vulnerable period for attrition.
+*/
+SELECT  
+     Years_At_Company,
+     COUNT(*) FILTER (WHERE Attrition = 'Yes') AS Attrition_Count
+FROM HR_Data
+GROUP BY Years_At_Company
+ORDER BY  Attrition_Count DESC
+
+
+/*Q9:Which job roles have the highest attrition, ranked from most to least (with ties sharing the same rank)?
+
+Insights:DevOps Engineer has the highest attrition (rank 1), followed by Sales Executive (rank 2) and Sales Manager (rank 3)
+
+*/
+
+WITH Attrition AS (
+SELECT Job_Role,
+COUNT(*) FILTER (WHERE Attrition = 'Yes') AS Attrition_Count
+FROM HR_Data
+GROUP BY Job_Role
+)
+SELECT Job_Role,  Attrition_Count,
+dense_rank() OVER (Order by Attrition_Count desc) AS dnrnk
+FROM Attrition
+ORDER BY dnrnk
+
+
+/*Q10:Which age range experiences the highest employee attrition?
+
+Insight: The 31–40 age group has the highest attrition, followed by 41–50, while the 20–30 age group 
+shows the lowest attrition — suggesting mid-career employees may be more prone to leaving than younger, early-career employees.
+
+*/
+
+SELECT 
+      Age_Range,
+	  COUNT(*) FILTER (WHERE Attrition = 'Yes') AS Attrition_Count
+FROM HR_Data
+GROUP BY Age_Range
+
+
+
+--------------------------------------------------------------
+ALTER TABLE HR_Data
+ADD COLUMN Age_Range VARCHAR(20);
+
+UPDATE HR_Data
+SET Age_Range = CASE 
+    WHEN Age BETWEEN 20 AND 30 THEN '20-30'
+    WHEN Age BETWEEN 31 AND 40 THEN '31-40'
+    WHEN Age BETWEEN 41 AND 50 THEN '41-50'
+    ELSE '50+'
+END;
+
+
+----------------------------
+ALTER TABLE HR_Data
+ADD Column Dept_ID INT;
+
+SELECT distinct (Department ) from HR_Data
+
+UPDATE HR_Data
+SET Dept_ID = CASE Department
+    WHEN 'Operations'        THEN 101
+    WHEN 'Finance'            THEN 102
+    WHEN 'HR'                 THEN 103
+    WHEN 'Sales'               THEN 104
+    WHEN 'Engineering'         THEN 105
+    WHEN 'IT'                  THEN 106
+    WHEN 'Customer Support'    THEN 107
+    WHEN 'Marketing'           THEN 108
+    ELSE NULL
+END;
+
+---------------------------------------------------------------------------------------
+--Which employees (ID and name) earn more than the company-wide average salary?
+--Stand by
+SELECT Employee_ID, Full_Name FROM HR_Data
+WHERE Salary>(SELECT round(AVG(Salary),2) AS avg_salary FROM HR_Data)
+
+
+--alternate of Question 5
+SELECT h1.Full_Name, h1.Salary, h1.Dept_ID
+FROM HR_Data h1
+WHERE h1.Salary > (
+    SELECT AVG(h2.Salary)
+    FROM HR_Data h2
+    WHERE h2.Dept_ID = h1.Dept_ID
+)
+----------------------------------------------------------------------------------------------
