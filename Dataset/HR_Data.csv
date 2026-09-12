@@ -1,0 +1,1001 @@
+﻿Employee_ID,Full_Name,Age,Gender,Education,City,Department,Job_Role,Employment_Type,Join_Date,Year,Years_At_Company,Years_Experience,Performance_Rating,Job_Satisfaction,Work_Life_Balance,Overtime,Leaves_Taken,Training_Hours,Salary,Bonus,Salary_Hike_Percent,Attrition
+EMP1001,Riley Rodriguez,34,Undisclosed,High School,Philadelphia,Finance,Financial Analyst,Full-Time,13 January 2023,2023,1,9,Good,2,5,Yes,6,8,109014,13900,10.7,No
+EMP1002,Margaret Wilson,27,Female,Bachelor's,Chicago,Sales,Sales Manager,Full-Time,25 June 2022,2022,2,5,Below Average,2,5,No,10,2,54482,1700,12.6,Yes
+EMP1003,Robert Lopez,32,Male,Bachelor's,Dallas,Engineering,Senior Engineer,Full-Time,04 September 2024,2024,0,3,Good,1,1,Yes,15,51,117453,11900,9,No
+EMP1004,Jessica Lopez,35,Female,Bachelor's,Phoenix,Engineering,DevOps Engineer,Full-Time,03 February 2024,2024,0,11,Good,5,4,No,3,14,106046,13200,11.5,No
+EMP1005,Mark Brown,43,Male,Bachelor's,San Diego,Operations,Operations Manager,Full-Time,27 June 2024,2024,0,15,Good,1,1,No,13,12,51231,5700,6.1,No
+EMP1006,Sarah Smith,41,Female,Diploma,Los Angeles,Finance,Accountant,Full-Time,04 November 2023,2023,1,14,Good,2,2,No,21,61,104170,14600,3.6,No
+EMP1007,Elizabeth Wilson,34,Female,PhD,San Jose,Customer Support,Support Lead,Contract,25 February 2023,2023,1,9,Good,3,1,No,5,34,62694,8300,10.5,No
+EMP1008,Elizabeth Smith,36,Female,Bachelor's,Chicago,Sales,Account Manager,Full-Time,19 March 2022,2022,2,13,Below Average,3,5,No,19,10,86495,2200,9.4,Yes
+EMP1009,Matthew Martinez,38,Male,Master's,Los Angeles,Engineering,Software Engineer,Full-Time,03 November 2021,2021,3,9,Good,5,4,No,16,39,133656,15500,5.6,No
+EMP1010,Charles Smith,31,Male,PhD,Houston,Sales,Sales Executive,Full-Time,10 April 2021,2021,3,7,Good,3,1,No,12,5,63969,6200,12,No
+EMP1011,Mark Johnson,47,Male,Master's,San Diego,Engineering,DevOps Engineer,Part-Time,14 October 2023,2023,1,19,Good,3,1,No,13,13,124747,14400,14.6,No
+EMP1012,Richard Rodriguez,37,Male,Bachelor's,Philadelphia,Marketing,Marketing Manager,Full-Time,28 July 2021,2021,3,10,Excellent,2,2,No,3,18,56018,11800,9.4,No
+EMP1013,Charles Williams,45,Male,PhD,Philadelphia,Sales,Account Manager,Part-Time,25 March 2021,2021,3,16,Good,3,2,No,14,8,94799,12200,13.6,No
+EMP1014,William Gonzalez,42,Male,Bachelor's,Los Angeles,Sales,Business Development Rep,Full-Time,02 October 2023,2023,1,12,Good,5,4,No,14,74,75260,7400,13,Yes
+EMP1015,Matthew Martinez,46,Male,Bachelor's,Chicago,Finance,Financial Analyst,Full-Time,20 June 2022,2022,2,16,Good,4,4,Yes,16,66,59054,8000,13,No
+EMP1016,Mark Jones,33,Male,PhD,San Jose,Marketing,Marketing Manager,Part-Time,25 July 2024,2024,0,11,Good,3,1,Yes,18,18,87421,9800,9.7,No
+EMP1017,Christopher Lopez,29,Male,Master's,Dallas,Engineering,Tech Lead,Full-Time,20 March 2024,2024,0,3,Average,4,5,No,11,2,113054,8500,12.9,No
+EMP1018,Michael Garcia,29,Male,Bachelor's,San Jose,HR,Recruiter,Full-Time,08 April 2024,2024,0,5,Good,4,2,No,5,23,46628,5700,11.9,No
+EMP1019,Mary Miller,37,Female,Master's,Houston,Operations,Operations Manager,Full-Time,24 November 2023,2023,1,8,Good,5,4,No,14,36,74420,8000,14.6,No
+EMP1020,Richard Williams,31,Male,Master's,Chicago,Sales,Business Development Rep,Full-Time,05 October 2022,2022,2,9,Good,5,2,Yes,13,11,69327,7000,13.2,No
+EMP1021,Sandra Garcia,43,Female,Bachelor's,Chicago,Operations,Operations Manager,Full-Time,02 July 2021,2021,3,13,Below Average,3,4,No,22,17,70307,2000,3.3,No
+EMP1022,James Anderson,31,Male,Master's,Houston,Finance,Controller,Full-Time,09 January 2021,2021,3,7,Good,5,4,Yes,2,14,102660,11900,12.3,No
+EMP1023,Mary Hernandez,38,Female,Bachelor's,Los Angeles,Engineering,DevOps Engineer,Contract,05 December 2022,2022,2,10,Good,5,5,No,16,70,116244,13500,11,Yes
+EMP1024,Joseph Smith,28,Male,PhD,Chicago,Sales,Sales Executive,Full-Time,09 June 2024,2024,0,1,Good,5,3,No,20,22,67596,8600,4.2,No
+EMP1025,Avery Hernandez,37,Undisclosed,Bachelor's,Dallas,IT,Systems Administrator,Full-Time,03 March 2022,2022,2,15,Average,1,2,No,9,45,57870,4700,6.8,No
+EMP1026,Elizabeth Jones,42,Female,Diploma,Phoenix,Engineering,Software Engineer,Part-Time,14 June 2021,2021,3,13,Good,4,1,No,13,77,120678,12700,11.3,No
+EMP1027,Elizabeth Johnson,36,Female,Bachelor's,Philadelphia,Sales,Sales Manager,Full-Time,22 June 2021,2021,3,10,Good,4,3,No,20,7,92032,11900,7.2,Yes
+EMP1028,Susan Garcia,49,Female,Bachelor's,Chicago,Sales,Sales Executive,Full-Time,05 January 2022,2022,2,20,Good,3,3,Yes,14,9,49406,6300,7.3,No
+EMP1029,Susan Garcia,25,Female,Master's,San Diego,Operations,Operations Manager,Full-Time,04 April 2023,2023,1,1,Below Average,2,1,No,14,22,70361,1800,12.3,No
+EMP1030,Riley Hernandez,48,Undisclosed,Bachelor's,Dallas,HR,L&D Specialist,Full-Time,03 December 2023,2023,1,18,Average,2,2,No,7,63,59657,4500,14.1,No
+EMP1031,Charles Garcia,43,Male,Bachelor's,Philadelphia,Operations,Operations Analyst,Full-Time,05 September 2024,2024,0,20,Below Average,4,4,Yes,21,66,71093,2300,9.3,No
+EMP1032,Anthony Gonzalez,39,Male,PhD,Dallas,Finance,Accountant,Part-Time,14 March 2022,2022,2,17,Excellent,1,3,No,6,70,88954,15400,6.9,No
+EMP1033,William Martinez,30,Male,Bachelor's,New York,Marketing,Content Strategist,Full-Time,21 September 2021,2021,3,6,Average,5,3,No,20,26,85925,6300,13.1,No
+EMP1034,Mary Davis,41,Female,PhD,San Diego,IT,Systems Administrator,Full-Time,10 November 2023,2023,1,16,Good,5,2,No,10,40,99891,11800,11.3,No
+EMP1035,Taylor Gonzalez,31,Undisclosed,Bachelor's,San Jose,Engineering,Tech Lead,Full-Time,18 September 2023,2023,1,4,Good,2,3,No,18,40,86059,9300,4.2,No
+EMP1036,Jessica Rodriguez,38,Female,Bachelor's,San Diego,HR,HR Manager,Full-Time,10 August 2024,2024,0,16,Good,4,3,Yes,17,1,65771,9400,5.6,No
+EMP1037,Mark Jones,30,Male,Bachelor's,Phoenix,Operations,Operations Analyst,Part-Time,12 July 2023,2023,1,2,Excellent,5,5,No,3,16,81819,16700,3.9,No
+EMP1038,Matthew Garcia,50,Male,Bachelor's,San Jose,HR,HR Executive,Part-Time,07 March 2023,2023,1,20,Excellent,2,3,No,19,40,42638,7300,7,No
+EMP1039,Charles Lopez,47,Male,Master's,San Antonio,Customer Support,Support Lead,Full-Time,11 October 2023,2023,1,17,Good,1,5,Yes,15,33,58223,6900,3.2,No
+EMP1040,Karen Davis,48,Female,Bachelor's,Chicago,HR,HR Manager,Full-Time,21 September 2022,2022,2,20,Excellent,2,4,No,16,78,55872,13200,4.3,Yes
+EMP1041,Nancy Lopez,42,Female,Master's,Dallas,Finance,Controller,Full-Time,05 December 2021,2021,3,17,Good,3,5,No,15,24,98399,11200,14.5,No
+EMP1042,William Brown,36,Male,Bachelor's,Dallas,Sales,Sales Manager,Full-Time,23 May 2023,2023,1,7,Good,4,3,No,24,18,67859,9600,11.7,No
+EMP1043,Daniel Johnson,38,Male,Bachelor's,Dallas,Engineering,Tech Lead,Full-Time,21 August 2023,2023,1,9,Below Average,2,1,Yes,3,52,105537,3400,4.6,No
+EMP1044,Patricia Hernandez,34,Female,Master's,Los Angeles,Engineering,Tech Lead,Full-Time,18 January 2022,2022,2,6,Good,2,5,No,23,4,132350,14000,14.6,No
+EMP1045,Anthony Williams,40,Male,Diploma,Phoenix,Sales,Sales Manager,Full-Time,26 July 2021,2021,3,16,Average,5,5,No,15,17,63970,3600,9.8,No
+EMP1046,Matthew Johnson,41,Male,Master's,San Antonio,Engineering,DevOps Engineer,Part-Time,24 March 2023,2023,1,15,Average,5,3,Yes,2,51,71846,5600,9.8,No
+EMP1047,Robert Davis,37,Male,Bachelor's,Philadelphia,Sales,Sales Executive,Full-Time,01 April 2023,2023,1,9,Good,1,1,Yes,14,39,94398,10600,10,No
+EMP1048,Thomas Anderson,37,Male,Master's,San Diego,Engineering,Senior Engineer,Full-Time,04 December 2023,2023,1,10,Below Average,2,2,No,21,76,98721,2900,8.5,No
+EMP1049,Sarah Lopez,26,Female,PhD,Houston,Finance,Financial Analyst,Full-Time,19 February 2023,2023,1,4,Good,4,1,No,16,57,88127,10700,5,No
+EMP1050,Thomas Miller,47,Male,Master's,New York,Engineering,Software Engineer,Full-Time,02 October 2024,2024,0,18,Average,1,5,No,1,8,110392,7400,12.8,No
+EMP1051,Richard Williams,41,Male,High School,Dallas,Engineering,DevOps Engineer,Full-Time,24 November 2022,2022,2,14,Good,3,1,No,5,68,120132,16800,7.5,Yes
+EMP1052,Nancy Brown,45,Female,Bachelor's,Los Angeles,Engineering,DevOps Engineer,Full-Time,10 January 2021,2021,3,15,Average,4,5,No,24,2,119712,7500,7.2,No
+EMP1053,John Martinez,27,Male,Master's,Phoenix,Engineering,Senior Engineer,Full-Time,20 August 2021,2021,3,2,Good,5,3,Yes,18,76,122725,15000,12.1,No
+EMP1054,Mark Williams,31,Male,Master's,Philadelphia,IT,IT Manager,Contract,10 July 2022,2022,2,9,Average,4,5,No,10,53,93775,7600,10.5,No
+EMP1055,Richard Williams,34,Male,Diploma,Chicago,Finance,Controller,Full-Time,28 April 2024,2024,0,8,Average,3,2,No,10,10,64460,5300,9.7,No
+EMP1056,Patricia Rodriguez,35,Female,Diploma,Philadelphia,HR,L&D Specialist,Full-Time,09 January 2022,2022,2,13,Average,1,2,Yes,6,15,52331,3800,11.1,No
+EMP1057,Nancy Martinez,45,Female,PhD,San Diego,Sales,Business Development Rep,Full-Time,08 July 2022,2022,2,18,Good,4,3,No,6,47,69947,8900,6.7,No
+EMP1058,Charles Wilson,27,Male,Master's,Houston,Finance,Accountant,Full-Time,05 December 2022,2022,2,1,Good,3,3,No,24,62,93275,10800,4.8,No
+EMP1059,Daniel Gonzalez,47,Male,Bachelor's,New York,Sales,Business Development Rep,Full-Time,05 March 2023,2023,1,18,Below Average,4,2,No,20,29,80529,2900,9.3,Yes
+EMP1060,Mary Brown,49,Female,Master's,Phoenix,Engineering,Software Engineer,Full-Time,02 June 2024,2024,0,20,Excellent,4,2,Yes,3,12,72061,14700,3.1,No
+EMP1061,Charles Rodriguez,36,Male,Bachelor's,Los Angeles,IT,Network Engineer,Full-Time,09 June 2023,2023,1,13,Good,1,1,No,12,48,81609,8800,11.4,No
+EMP1062,Mary Hernandez,32,Female,PhD,New York,Finance,Controller,Full-Time,06 December 2021,2021,3,3,Average,5,4,No,8,5,97264,7000,13.3,Yes
+EMP1063,Barbara Anderson,33,Female,High School,San Jose,HR,HR Executive,Full-Time,28 March 2021,2021,3,11,Excellent,4,5,Yes,10,49,78471,17700,12.9,No
+EMP1064,Nancy Lopez,34,Female,Bachelor's,Philadelphia,Finance,Finance Manager,Full-Time,24 September 2021,2021,3,12,Average,3,4,No,15,29,70213,4600,12.2,No
+EMP1065,Susan Miller,36,Female,PhD,Chicago,Operations,Supply Chain Analyst,Full-Time,19 November 2022,2022,2,13,Average,3,3,No,3,11,64357,4900,4,No
+EMP1066,Jessica Garcia,27,Female,Bachelor's,San Jose,Operations,Operations Analyst,Full-Time,05 February 2023,2023,1,3,Good,4,1,Yes,9,52,81502,9400,3.3,No
+EMP1067,Nancy Anderson,34,Female,Bachelor's,San Diego,Engineering,DevOps Engineer,Full-Time,17 October 2022,2022,2,6,Good,3,3,No,7,80,105247,12600,3.8,No
+EMP1068,Linda Davis,29,Female,Bachelor's,San Jose,Sales,Business Development Rep,Full-Time,10 March 2021,2021,3,1,Good,3,5,No,22,25,85644,11800,8.3,No
+EMP1069,Richard Garcia,41,Male,Bachelor's,Dallas,Engineering,DevOps Engineer,Full-Time,23 December 2023,2023,1,16,Average,5,1,No,23,59,106739,7200,4.4,No
+EMP1070,William Wilson,40,Male,Master's,San Jose,Engineering,Senior Engineer,Full-Time,22 July 2021,2021,3,16,Good,4,5,No,16,53,101722,10500,8.1,No
+EMP1071,Elizabeth Lopez,35,Female,Bachelor's,San Antonio,Engineering,Software Engineer,Full-Time,25 February 2021,2021,3,8,Good,1,3,No,7,65,75806,9600,10.8,No
+EMP1072,Richard Davis,39,Male,Bachelor's,Houston,IT,Network Engineer,Full-Time,01 June 2022,2022,2,16,Excellent,3,4,No,3,56,60626,14300,4.7,No
+EMP1073,William Smith,34,Male,Master's,San Diego,Customer Support,Support Analyst,Full-Time,28 January 2021,2021,3,11,Below Average,4,2,No,5,55,40385,1300,9.2,No
+EMP1074,Charles Anderson,42,Male,Bachelor's,Dallas,Engineering,DevOps Engineer,Full-Time,19 August 2022,2022,2,14,Good,3,2,Yes,14,14,98153,13000,12.7,Yes
+EMP1075,Jessica Rodriguez,48,Female,Master's,San Jose,Finance,Accountant,Full-Time,13 October 2023,2023,1,20,Good,2,3,No,3,30,77801,9200,5.1,No
+EMP1076,David Lopez,38,Male,Master's,Dallas,Engineering,Tech Lead,Full-Time,13 September 2022,2022,2,14,Excellent,3,2,No,5,40,125448,26400,11.3,No
+EMP1077,Margaret Garcia,35,Female,High School,Chicago,Customer Support,Support Analyst,Full-Time,05 August 2021,2021,3,7,Average,1,2,No,9,4,51562,3500,8.9,No
+EMP1078,William Williams,46,Male,Master's,New York,Marketing,Content Strategist,Full-Time,24 October 2024,2024,0,16,Excellent,4,5,No,6,54,82533,18300,12.9,No
+EMP1079,Lisa Gonzalez,31,Female,Bachelor's,San Jose,Engineering,Software Engineer,Full-Time,28 May 2022,2022,2,2,Good,5,4,No,5,78,81401,11700,12.3,No
+EMP1080,Margaret Brown,44,Female,Master's,Los Angeles,Engineering,Senior Engineer,Full-Time,12 October 2021,2021,3,18,Good,4,1,No,8,16,92069,12000,6.5,No
+EMP1081,Daniel Garcia,40,Male,Master's,San Antonio,HR,HR Manager,Full-Time,13 November 2022,2022,2,16,Good,3,3,No,14,62,57610,6600,3.9,No
+EMP1082,Margaret Gonzalez,35,Female,PhD,Philadelphia,Engineering,Tech Lead,Full-Time,15 December 2021,2021,3,12,Good,2,5,No,15,43,122129,14200,5.5,No
+EMP1083,Christopher Gonzalez,35,Male,Master's,Phoenix,HR,HR Executive,Full-Time,04 January 2024,2024,0,6,Good,3,3,Yes,2,47,68036,8800,4.6,No
+EMP1084,Christopher Jones,26,Male,Bachelor's,Philadelphia,Customer Support,Support Lead,Part-Time,21 July 2022,2022,2,3,Excellent,4,2,Yes,15,9,50624,10500,9.2,No
+EMP1085,Daniel Gonzalez,38,Male,Bachelor's,Chicago,Engineering,Senior Engineer,Full-Time,11 February 2021,2021,3,12,Good,2,2,No,13,78,87451,11200,3.8,No
+EMP1086,Patricia Anderson,32,Female,Bachelor's,San Jose,Engineering,DevOps Engineer,Full-Time,25 March 2021,2021,3,4,Good,3,1,No,21,38,126280,13000,6.3,Yes
+EMP1087,Thomas Brown,27,Male,Master's,Philadelphia,IT,Network Engineer,Contract,21 May 2024,2024,0,2,Good,2,4,Yes,18,53,62388,7900,3.9,No
+EMP1088,Jennifer Gonzalez,42,Female,Bachelor's,Dallas,Marketing,Content Strategist,Full-Time,01 February 2024,2024,0,19,Excellent,4,4,No,2,68,59138,9700,12.5,No
+EMP1089,William Johnson,39,Male,Master's,New York,Sales,Sales Manager,Full-Time,18 March 2022,2022,2,11,Average,4,1,No,14,78,87587,5100,11.4,No
+EMP1090,Daniel Hernandez,27,Male,Bachelor's,Phoenix,Sales,Sales Executive,Full-Time,01 February 2022,2022,2,5,Good,1,1,Yes,10,54,67721,9000,11.6,No
+EMP1091,Barbara Lopez,44,Female,Bachelor's,Los Angeles,Sales,Account Manager,Full-Time,15 August 2021,2021,3,17,Excellent,5,1,No,1,1,82151,14200,12.3,No
+EMP1092,David Miller,32,Male,PhD,San Jose,HR,HR Manager,Full-Time,28 March 2022,2022,2,2,Good,5,1,No,5,28,67483,7300,14,No
+EMP1093,Patricia Anderson,37,Female,Bachelor's,San Diego,Operations,Operations Analyst,Full-Time,25 May 2024,2024,0,10,Excellent,4,2,No,23,69,74933,13200,9.8,No
+EMP1094,Mark Miller,34,Male,High School,Houston,Engineering,Senior Engineer,Full-Time,18 April 2021,2021,3,12,Average,1,2,Yes,22,35,70191,4700,11.9,No
+EMP1095,Michael Anderson,38,Male,Master's,Chicago,Sales,Sales Executive,Full-Time,12 December 2024,2024,0,15,Excellent,3,3,No,12,41,78123,17600,3.9,No
+EMP1096,Michael Johnson,42,Male,Bachelor's,San Diego,Engineering,Tech Lead,Full-Time,25 March 2022,2022,2,19,Good,3,1,No,2,20,91544,10200,4.4,No
+EMP1097,Nancy Martinez,35,Female,Bachelor's,Chicago,IT,IT Manager,Full-Time,27 April 2021,2021,3,11,Below Average,4,4,No,17,70,71267,2000,3.6,Yes
+EMP1098,John Gonzalez,27,Male,Bachelor's,Los Angeles,Marketing,Marketing Manager,Full-Time,01 February 2022,2022,2,2,Good,1,2,Yes,20,56,71252,9000,10.7,No
+EMP1099,Anthony Wilson,37,Male,Bachelor's,Philadelphia,IT,Network Engineer,Full-Time,02 February 2023,2023,1,15,Good,2,3,No,8,57,92610,12100,9,No
+EMP1100,Charles Martinez,44,Male,Diploma,Dallas,Customer Support,Support Lead,Full-Time,10 November 2022,2022,2,16,Excellent,5,1,No,12,45,50696,9200,4.6,No
+EMP1101,Jessica Garcia,28,Female,Bachelor's,Philadelphia,Sales,Business Development Rep,Full-Time,09 July 2023,2023,1,6,Excellent,2,2,No,3,31,59353,13300,6.4,No
+EMP1102,Anthony Gonzalez,40,Male,Diploma,New York,Finance,Finance Manager,Full-Time,19 April 2021,2021,3,13,Excellent,3,5,No,18,18,66384,13800,12.7,No
+EMP1103,Betty Anderson,35,Female,Bachelor's,Houston,Finance,Finance Manager,Part-Time,10 September 2024,2024,0,6,Good,3,2,No,10,7,58681,6200,9.3,Yes
+EMP1104,Daniel Anderson,44,Male,High School,Chicago,Marketing,Marketing Analyst,Full-Time,28 February 2022,2022,2,17,Average,4,4,No,20,40,69483,5200,10,No
+EMP1105,Sarah Lopez,43,Female,Bachelor's,San Jose,Engineering,Senior Engineer,Full-Time,22 April 2023,2023,1,19,Excellent,5,3,No,19,28,108602,23700,14.4,No
+EMP1106,Jennifer Garcia,35,Female,Master's,Houston,Finance,Financial Analyst,Full-Time,12 April 2021,2021,3,11,Average,1,3,Yes,8,13,60814,4500,11.8,No
+EMP1107,Joseph Lopez,44,Male,Bachelor's,Chicago,Sales,Sales Executive,Full-Time,14 March 2024,2024,0,16,Excellent,1,3,No,0,40,69598,13800,13.4,No
+EMP1108,Patricia Garcia,33,Female,Diploma,Chicago,Engineering,Tech Lead,Full-Time,06 July 2022,2022,2,3,Good,4,2,No,1,12,82203,11800,13.7,No
+EMP1109,Michael Miller,35,Male,Bachelor's,Phoenix,Marketing,Content Strategist,Part-Time,10 November 2023,2023,1,10,Good,5,4,No,6,12,70749,9600,4.8,No
+EMP1110,Christopher Jones,30,Male,PhD,San Antonio,IT,IT Analyst,Full-Time,28 August 2021,2021,3,4,Good,4,1,Yes,8,56,85863,11000,4.1,No
+EMP1111,Anthony Jones,27,Male,Master's,Dallas,Customer Support,Support Analyst,Full-Time,25 March 2021,2021,3,4,Good,5,4,No,18,30,61482,8800,10.1,No
+EMP1112,Richard Anderson,41,Male,Bachelor's,San Antonio,Engineering,DevOps Engineer,Full-Time,19 September 2021,2021,3,17,Excellent,4,2,Yes,20,18,128856,30800,14.7,No
+EMP1113,Daniel Anderson,46,Male,Master's,San Antonio,Marketing,Content Strategist,Full-Time,13 February 2021,2021,3,18,Good,2,2,No,18,75,63101,8800,3.1,No
+EMP1114,Karen Gonzalez,45,Female,Diploma,Chicago,Sales,Sales Executive,Full-Time,28 May 2021,2021,3,18,Good,4,1,Yes,12,42,62310,7400,10.3,Yes
+EMP1115,Joseph Anderson,37,Male,Bachelor's,San Diego,Customer Support,Support Lead,Full-Time,01 June 2023,2023,1,11,Good,3,3,Yes,23,53,62618,8100,4.2,No
+EMP1116,Michael Anderson,44,Male,PhD,Dallas,Customer Support,Support Executive,Part-Time,16 December 2024,2024,0,17,Average,1,2,No,6,25,51884,3000,11.5,No
+EMP1117,Joseph Smith,36,Male,PhD,San Diego,Engineering,Software Engineer,Full-Time,07 December 2023,2023,1,9,Good,4,5,No,17,44,136207,19100,11.2,No
+EMP1118,Mark Jones,35,Male,Bachelor's,San Antonio,Finance,Accountant,Full-Time,01 May 2021,2021,3,13,Average,1,4,Yes,4,22,92503,5700,5.7,No
+EMP1119,Charles Gonzalez,37,Male,Diploma,San Jose,HR,HR Executive,Full-Time,23 December 2023,2023,1,9,Good,5,3,No,17,76,62853,6700,6.6,No
+EMP1120,John Davis,37,Male,Bachelor's,San Jose,Sales,Account Manager,Full-Time,09 June 2021,2021,3,11,Below Average,3,2,Yes,23,3,91602,2900,5.3,No
+EMP1121,Casey Anderson,27,Undisclosed,Bachelor's,Phoenix,Operations,Logistics Coordinator,Part-Time,13 July 2024,2024,0,2,Average,5,2,No,9,12,59572,4400,8.7,No
+EMP1122,William Lopez,28,Male,Bachelor's,Los Angeles,Marketing,SEO Specialist,Full-Time,11 November 2022,2022,2,3,Good,5,5,No,19,9,65125,9000,7.5,No
+EMP1123,Sarah Johnson,36,Female,Diploma,San Diego,Operations,Logistics Coordinator,Full-Time,10 September 2024,2024,0,14,Excellent,2,1,No,15,42,54881,9700,7.9,No
+EMP1124,James Smith,30,Male,Master's,New York,Marketing,Marketing Manager,Full-Time,07 May 2024,2024,0,6,Excellent,2,3,No,0,41,50769,9900,8.2,No
+EMP1125,James Hernandez,38,Male,Bachelor's,San Diego,Sales,Sales Manager,Full-Time,23 April 2022,2022,2,12,Good,5,5,No,10,55,70136,7800,3.8,Yes
+EMP1126,Mark Davis,35,Male,Bachelor's,New York,Engineering,Senior Engineer,Full-Time,06 April 2023,2023,1,13,Good,3,5,No,19,6,87197,8500,9.1,No
+EMP1127,Lisa Wilson,32,Female,Bachelor's,Phoenix,Sales,Sales Executive,Full-Time,23 January 2021,2021,3,4,Good,1,5,No,8,79,53099,6300,4.8,No
+EMP1128,Mark Johnson,33,Male,Bachelor's,Chicago,Customer Support,Support Lead,Full-Time,04 May 2021,2021,3,4,Average,4,2,No,22,61,41545,3300,14.7,No
+EMP1129,James Hernandez,48,Male,Bachelor's,San Diego,Customer Support,Customer Success Manager,Contract,27 February 2021,2021,3,19,Average,3,3,No,14,6,37951,2200,11.7,No
+EMP1130,Margaret Smith,39,Female,Master's,Philadelphia,Operations,Operations Analyst,Full-Time,26 June 2023,2023,1,11,Average,4,5,No,8,11,51225,4100,3.1,No
+EMP1131,Jennifer Johnson,37,Female,Master's,New York,Engineering,Tech Lead,Contract,15 July 2024,2024,0,9,Average,2,1,No,13,75,132684,9800,12.6,No
+EMP1132,Lisa Davis,34,Female,Diploma,New York,Sales,Business Development Rep,Full-Time,13 October 2022,2022,2,12,Below Average,3,1,No,22,67,92662,2400,14,Yes
+EMP1133,Riley Rodriguez,37,Undisclosed,Bachelor's,New York,Customer Support,Support Lead,Full-Time,22 July 2021,2021,3,8,Good,2,5,No,15,63,57160,5900,12.9,No
+EMP1134,Joseph Garcia,32,Male,Bachelor's,Los Angeles,IT,Network Engineer,Part-Time,09 June 2022,2022,2,2,Good,4,3,No,3,63,97160,13100,3.9,No
+EMP1135,Richard Smith,46,Male,Diploma,Houston,Sales,Sales Executive,Part-Time,26 February 2021,2021,3,20,Good,3,5,Yes,24,79,81853,10500,14.4,No
+EMP1136,Elizabeth Lopez,30,Female,Bachelor's,Chicago,Marketing,SEO Specialist,Part-Time,04 February 2024,2024,0,8,Below Average,4,1,Yes,8,78,86527,2400,9.3,Yes
+EMP1137,Mark Wilson,34,Male,Bachelor's,San Diego,Sales,Sales Manager,Full-Time,15 April 2024,2024,0,7,Excellent,5,2,No,15,0,72162,15200,11.1,No
+EMP1138,Susan Wilson,30,Female,Master's,San Antonio,Operations,Operations Analyst,Contract,25 September 2024,2024,0,6,Excellent,2,3,No,12,43,53413,11400,10.3,No
+EMP1139,Robert Williams,43,Male,PhD,San Jose,Operations,Supply Chain Analyst,Full-Time,23 October 2024,2024,0,17,Average,3,2,Yes,22,22,80901,6100,14.2,No
+EMP1140,Betty Garcia,44,Female,Bachelor's,Houston,Sales,Account Manager,Full-Time,19 October 2024,2024,0,14,Average,2,3,No,21,32,72681,5100,3.3,No
+EMP1141,Nancy Gonzalez,40,Female,Bachelor's,Dallas,Marketing,Marketing Manager,Full-Time,25 April 2023,2023,1,18,Excellent,5,3,No,22,6,74661,17100,11.9,No
+EMP1142,Matthew Hernandez,27,Male,Bachelor's,Dallas,Marketing,SEO Specialist,Full-Time,02 September 2023,2023,1,1,Average,2,2,No,9,57,74036,6000,11.5,No
+EMP1143,Jordan Williams,32,Undisclosed,Bachelor's,Chicago,Engineering,Senior Engineer,Full-Time,17 December 2022,2022,2,4,Good,3,5,No,1,80,106583,10900,10,No
+EMP1144,Charles Rodriguez,41,Male,Bachelor's,Philadelphia,Customer Support,Customer Success Manager,Full-Time,26 February 2023,2023,1,11,Good,2,3,No,10,46,41025,5500,4.9,No
+EMP1145,Matthew Martinez,24,Male,Master's,Philadelphia,Engineering,Tech Lead,Full-Time,27 September 2024,2024,0,1,Good,1,4,Yes,8,69,128414,16300,14,No
+EMP1146,Thomas Wilson,46,Male,Master's,Dallas,Engineering,Tech Lead,Full-Time,26 September 2023,2023,1,17,Average,1,2,Yes,21,80,108854,6700,9.2,No
+EMP1147,Susan Wilson,37,Female,Master's,Phoenix,Marketing,Marketing Manager,Full-Time,18 April 2021,2021,3,14,Excellent,5,2,Yes,8,52,55076,12000,3.5,Yes
+EMP1148,Richard Miller,34,Male,Bachelor's,Dallas,Finance,Controller,Full-Time,13 January 2023,2023,1,4,Good,3,5,Yes,2,36,102204,13500,10,No
+EMP1149,Anthony Hernandez,43,Male,Bachelor's,Philadelphia,Engineering,DevOps Engineer,Contract,06 August 2021,2021,3,18,Average,1,5,Yes,17,18,121248,9700,6.5,No
+EMP1150,Charles Martinez,29,Male,Bachelor's,San Jose,Engineering,Software Engineer,Part-Time,18 September 2024,2024,0,3,Good,2,1,Yes,5,72,115069,16000,13.2,No
+EMP1151,Sandra Rodriguez,29,Female,Master's,Houston,IT,IT Analyst,Full-Time,18 November 2024,2024,0,3,Excellent,5,1,Yes,6,40,71429,15600,8.8,No
+EMP1152,Charles Hernandez,32,Male,PhD,Phoenix,Finance,Controller,Part-Time,19 December 2023,2023,1,5,Excellent,2,3,No,15,59,83069,15400,12.4,No
+EMP1153,William Davis,43,Male,PhD,New York,Engineering,DevOps Engineer,Part-Time,21 March 2021,2021,3,20,Average,1,5,No,18,51,88350,5400,11.8,No
+EMP1154,Sarah Jones,32,Female,Bachelor's,Dallas,Marketing,Marketing Manager,Full-Time,25 November 2024,2024,0,5,Average,2,5,No,21,21,83640,5400,8.6,No
+EMP1155,Robert Martinez,43,Male,Bachelor's,Philadelphia,Sales,Sales Manager,Full-Time,24 December 2022,2022,2,16,Good,4,1,Yes,1,41,94903,9400,7.4,Yes
+EMP1156,Sarah Hernandez,49,Female,Master's,San Antonio,Engineering,Software Engineer,Contract,09 December 2023,2023,1,19,Average,2,5,No,12,45,119369,7900,10.8,No
+EMP1157,Joseph Anderson,39,Male,Bachelor's,Los Angeles,Engineering,Tech Lead,Full-Time,05 September 2021,2021,3,15,Good,4,3,No,23,14,137441,14600,5.2,No
+EMP1158,Jessica Brown,36,Female,Bachelor's,New York,HR,L&D Specialist,Full-Time,27 November 2022,2022,2,14,Good,2,5,No,12,76,48381,5000,10.6,Yes
+EMP1159,Nancy Hernandez,44,Female,Diploma,San Jose,Engineering,Software Engineer,Full-Time,07 February 2023,2023,1,15,Good,3,2,No,23,43,92356,10700,4.7,No
+EMP1160,Patricia Brown,26,Female,Bachelor's,San Jose,Engineering,DevOps Engineer,Full-Time,05 July 2024,2024,0,4,Average,5,5,No,24,15,136107,10800,10.3,No
+EMP1161,Robert Anderson,44,Male,Bachelor's,Philadelphia,Sales,Sales Executive,Full-Time,21 November 2021,2021,3,14,Average,5,1,No,13,17,47846,3300,14.3,No
+EMP1162,Michael Anderson,46,Male,Bachelor's,Houston,Finance,Accountant,Full-Time,20 May 2021,2021,3,18,Average,3,4,Yes,11,13,55358,4300,9.9,No
+EMP1163,Charles Jones,46,Male,Master's,Dallas,Engineering,Senior Engineer,Full-Time,14 September 2023,2023,1,19,Average,3,5,No,11,50,122095,8300,12.4,No
+EMP1164,Lisa Johnson,29,Female,Bachelor's,San Antonio,Customer Support,Support Lead,Contract,26 August 2022,2022,2,6,Average,1,1,Yes,4,60,48125,3800,10.4,No
+EMP1165,William Brown,30,Male,Diploma,Chicago,Customer Support,Support Analyst,Full-Time,20 February 2023,2023,1,2,Good,4,1,No,6,66,48128,5800,11.5,No
+EMP1166,Matthew Martinez,29,Male,Bachelor's,San Antonio,Sales,Account Manager,Full-Time,06 October 2022,2022,2,2,Below Average,5,1,No,23,8,45018,1100,6.3,Yes
+EMP1167,Nancy Wilson,34,Female,Master's,Dallas,Engineering,Software Engineer,Full-Time,27 June 2023,2023,1,9,Good,3,3,No,3,65,95496,11000,3.1,No
+EMP1168,Margaret Gonzalez,42,Female,PhD,San Diego,Finance,Accountant,Full-Time,15 December 2023,2023,1,13,Good,1,4,No,20,28,104641,13900,11.2,No
+EMP1169,Susan Garcia,34,Female,Bachelor's,Philadelphia,Engineering,Senior Engineer,Full-Time,27 December 2021,2021,3,9,Average,5,3,No,5,24,122288,9700,3.9,No
+EMP1170,Linda Lopez,33,Female,PhD,San Diego,Sales,Business Development Rep,Full-Time,07 May 2022,2022,2,8,Good,5,1,No,15,47,85540,11400,4.4,Yes
+EMP1171,Mark Anderson,43,Male,Bachelor's,Dallas,IT,IT Manager,Full-Time,06 August 2023,2023,1,17,Good,2,4,No,3,66,104163,10300,12.6,No
+EMP1172,James Smith,31,Male,Bachelor's,Chicago,HR,L&D Specialist,Full-Time,19 July 2022,2022,2,4,Excellent,2,4,No,22,47,57019,10300,6.2,No
+EMP1173,Barbara Davis,44,Female,PhD,Chicago,Marketing,Content Strategist,Full-Time,05 October 2022,2022,2,19,Average,1,2,No,13,63,62691,4500,13.3,No
+EMP1174,Quinn Rodriguez,39,Undisclosed,Diploma,Los Angeles,Operations,Operations Manager,Full-Time,10 August 2023,2023,1,9,Good,3,3,No,11,46,48126,6200,3.7,No
+EMP1175,Richard Johnson,37,Male,Bachelor's,San Antonio,Operations,Supply Chain Analyst,Full-Time,20 November 2023,2023,1,7,Good,4,2,No,5,43,63652,8200,8.8,No
+EMP1176,Karen Miller,36,Female,Bachelor's,Philadelphia,Sales,Business Development Rep,Full-Time,06 February 2021,2021,3,11,Good,5,4,No,13,21,87795,9600,10.7,No
+EMP1177,Jennifer Lopez,28,Female,Bachelor's,Dallas,Sales,Sales Manager,Full-Time,09 November 2022,2022,2,3,Excellent,1,1,No,8,79,51750,12200,8.7,Yes
+EMP1178,Mark Anderson,34,Male,Bachelor's,Philadelphia,Engineering,Senior Engineer,Part-Time,08 May 2024,2024,0,8,Excellent,4,5,No,8,70,86569,19700,3.3,No
+EMP1179,Daniel Rodriguez,43,Male,Master's,Philadelphia,Engineering,DevOps Engineer,Full-Time,20 October 2022,2022,2,15,Good,2,3,No,0,0,139964,15800,9.5,No
+EMP1180,Joseph Rodriguez,42,Male,Bachelor's,Dallas,Marketing,Marketing Manager,Full-Time,16 December 2021,2021,3,16,Average,2,2,Yes,22,49,73209,5300,12.6,No
+EMP1181,John Miller,46,Male,Bachelor's,Los Angeles,Finance,Controller,Full-Time,25 September 2022,2022,2,20,Good,5,4,Yes,8,79,103688,11300,5.3,Yes
+EMP1182,James Williams,29,Male,Bachelor's,Philadelphia,Finance,Controller,Full-Time,01 September 2021,2021,3,6,Average,4,3,No,14,4,63194,4800,5.8,No
+EMP1183,Matthew Williams,36,Male,Master's,Houston,IT,IT Manager,Full-Time,25 May 2021,2021,3,13,Excellent,4,2,Yes,23,4,66901,15200,12.8,No
+EMP1184,Matthew Johnson,37,Male,Bachelor's,Houston,Sales,Sales Manager,Full-Time,13 August 2022,2022,2,10,Excellent,1,2,No,3,30,92725,21800,9.3,No
+EMP1185,Robert Gonzalez,38,Male,Bachelor's,Houston,Engineering,DevOps Engineer,Full-Time,04 October 2023,2023,1,13,Good,1,5,No,10,80,75504,9800,11.3,No
+EMP1186,Christopher Williams,35,Male,High School,Chicago,Engineering,Software Engineer,Full-Time,16 March 2021,2021,3,8,Average,1,4,No,22,56,115523,7900,5.3,No
+EMP1187,Jessica Brown,40,Female,Bachelor's,Phoenix,Customer Support,Customer Success Manager,Full-Time,12 September 2022,2022,2,11,Good,4,1,No,24,64,62241,8500,4.9,No
+EMP1188,Sandra Smith,34,Female,Master's,San Antonio,Engineering,DevOps Engineer,Full-Time,08 October 2023,2023,1,11,Excellent,1,1,Yes,16,8,120789,25900,12.2,No
+EMP1189,Jennifer Williams,41,Female,Bachelor's,New York,Sales,Sales Executive,Full-Time,04 April 2021,2021,3,16,Good,5,1,No,0,26,82421,9400,8.9,No
+EMP1190,Margaret Johnson,42,Female,Master's,Los Angeles,Engineering,DevOps Engineer,Part-Time,02 November 2024,2024,0,12,Average,1,2,No,16,12,124519,9700,3.7,No
+EMP1191,Sarah Miller,32,Female,Master's,San Antonio,Engineering,Software Engineer,Part-Time,17 April 2022,2022,2,8,Average,2,2,No,17,51,124419,9600,9.9,No
+EMP1192,Sarah Martinez,45,Female,PhD,Houston,Engineering,Tech Lead,Full-Time,11 June 2024,2024,0,18,Average,5,3,No,11,57,124046,8400,11.7,No
+EMP1193,Mary Lopez,31,Female,Bachelor's,Phoenix,Engineering,DevOps Engineer,Contract,20 May 2021,2021,3,1,Excellent,5,5,No,18,73,109562,26200,5.6,No
+EMP1194,Joseph Garcia,37,Male,Bachelor's,Philadelphia,Customer Support,Support Lead,Full-Time,09 March 2022,2022,2,12,Good,2,4,Yes,22,73,61577,7600,9.8,No
+EMP1195,Barbara Smith,29,Female,Bachelor's,San Jose,Engineering,Software Engineer,Contract,25 February 2024,2024,0,2,Good,4,1,No,9,67,126925,17500,13.4,No
+EMP1196,Charles Williams,32,Male,Bachelor's,San Antonio,Customer Support,Support Executive,Full-Time,23 September 2023,2023,1,8,Below Average,3,1,No,15,73,58972,2100,12,Yes
+EMP1197,Barbara Johnson,29,Female,Master's,Houston,HR,HR Executive,Full-Time,14 September 2024,2024,0,5,Good,3,4,No,10,73,52983,6700,5.4,No
+EMP1198,Richard Miller,38,Male,Master's,San Jose,Sales,Sales Executive,Full-Time,07 June 2023,2023,1,11,Average,1,2,No,6,47,46586,2800,7.2,No
+EMP1199,Margaret Johnson,32,Female,Diploma,Houston,IT,Network Engineer,Full-Time,02 December 2021,2021,3,8,Excellent,2,2,Yes,17,66,73853,15900,4.3,No
+EMP1200,Karen Lopez,29,Female,Master's,Phoenix,Operations,Supply Chain Analyst,Full-Time,23 December 2022,2022,2,1,Good,1,1,No,12,34,88484,9600,3.7,No
+EMP1201,Mary Jones,40,Female,Diploma,New York,IT,IT Manager,Full-Time,13 April 2024,2024,0,17,Average,5,3,No,10,62,86762,6200,5.2,No
+EMP1202,Mary Garcia,35,Female,High School,New York,Customer Support,Support Analyst,Contract,21 June 2023,2023,1,10,Good,3,2,No,4,43,51425,5100,6.1,No
+EMP1203,Patricia Lopez,45,Female,Bachelor's,Houston,Operations,Logistics Coordinator,Full-Time,22 September 2024,2024,0,20,Excellent,5,5,No,21,25,82545,19600,13.9,No
+EMP1204,Daniel Anderson,29,Male,Bachelor's,New York,Sales,Sales Manager,Full-Time,25 July 2022,2022,2,5,Good,4,4,Yes,9,56,81525,10600,5.2,No
+EMP1205,Michael Johnson,46,Male,Master's,San Diego,Marketing,Content Strategist,Full-Time,01 March 2022,2022,2,20,Good,5,4,No,22,47,85131,9100,11.2,No
+EMP1206,Jessica Davis,30,Female,Bachelor's,Chicago,Engineering,Senior Engineer,Contract,07 March 2022,2022,2,8,Below Average,4,5,Yes,15,41,71967,2500,5.7,No
+EMP1207,Susan Miller,40,Female,Bachelor's,New York,Engineering,DevOps Engineer,Part-Time,24 October 2021,2021,3,13,Good,2,5,No,17,50,138843,18000,3.5,No
+EMP1208,Sarah Gonzalez,43,Female,Diploma,Chicago,Sales,Sales Executive,Full-Time,10 April 2021,2021,3,15,Good,4,1,No,23,64,63737,7400,10.4,Yes
+EMP1209,Charles Anderson,40,Male,Bachelor's,Chicago,Engineering,Software Engineer,Full-Time,14 July 2022,2022,2,11,Good,1,1,Yes,3,57,129464,16900,5.4,No
+EMP1210,Daniel Miller,35,Male,PhD,New York,IT,IT Manager,Full-Time,18 July 2022,2022,2,13,Good,3,4,Yes,9,80,76967,9800,4.8,No
+EMP1211,Robert Brown,31,Male,Master's,San Diego,Engineering,Senior Engineer,Full-Time,25 October 2021,2021,3,9,Good,4,1,No,19,76,135358,13000,13.6,No
+EMP1212,Thomas Jones,27,Male,Master's,Los Angeles,Operations,Operations Analyst,Full-Time,06 January 2022,2022,2,5,Excellent,4,2,No,5,36,47406,7700,9.9,No
+EMP1213,Reese Garcia,37,Undisclosed,Bachelor's,Los Angeles,Marketing,Marketing Manager,Full-Time,25 February 2021,2021,3,10,Average,3,3,No,16,52,69834,5400,13.1,Yes
+EMP1214,Karen Smith,40,Female,Master's,Chicago,Engineering,Senior Engineer,Full-Time,24 October 2021,2021,3,17,Good,4,5,No,23,80,107642,14700,6.1,No
+EMP1215,Robert Anderson,29,Male,Bachelor's,San Antonio,IT,Systems Administrator,Full-Time,10 December 2022,2022,2,7,Good,3,5,No,20,27,85466,8700,13.2,No
+EMP1216,Nancy Jones,40,Female,Master's,Chicago,IT,IT Analyst,Full-Time,10 February 2023,2023,1,10,Excellent,3,4,No,15,4,55401,10300,7.8,No
+EMP1217,Christopher Davis,36,Male,PhD,Philadelphia,HR,HR Manager,Full-Time,26 August 2023,2023,1,14,Good,3,1,No,4,35,59617,7700,9.7,Yes
+EMP1218,Richard Hernandez,37,Male,Master's,San Diego,Finance,Financial Analyst,Part-Time,20 October 2022,2022,2,13,Average,3,4,No,9,27,106271,8000,6.8,Yes
+EMP1219,David Gonzalez,45,Male,Bachelor's,Philadelphia,Sales,Account Manager,Full-Time,03 April 2021,2021,3,15,Below Average,1,5,No,21,16,76631,2000,7.1,No
+EMP1220,Jessica Miller,25,Female,Bachelor's,Houston,Engineering,Senior Engineer,Full-Time,10 January 2021,2021,3,2,Excellent,2,3,No,8,68,76047,16800,11.9,Yes
+EMP1221,Lisa Johnson,32,Female,Bachelor's,Phoenix,IT,IT Manager,Full-Time,06 March 2023,2023,1,9,Good,2,1,Yes,9,78,95825,9700,9.5,No
+EMP1222,Mary Williams,25,Female,Bachelor's,San Diego,HR,Recruiter,Full-Time,22 August 2021,2021,3,2,Good,3,3,No,6,68,45643,4800,10.2,No
+EMP1223,Avery Martinez,38,Undisclosed,Master's,San Jose,Marketing,Marketing Analyst,Full-Time,27 February 2022,2022,2,15,Good,3,4,Yes,5,42,89857,11900,8.6,No
+EMP1224,James Johnson,45,Male,PhD,Los Angeles,Operations,Supply Chain Analyst,Full-Time,12 February 2024,2024,0,16,Average,1,3,No,17,59,63498,4600,4.5,No
+EMP1225,Linda Martinez,44,Female,Bachelor's,Dallas,Sales,Business Development Rep,Full-Time,06 September 2022,2022,2,16,Average,2,1,No,23,73,58647,4300,12.4,No
+EMP1226,Charles Davis,39,Male,Bachelor's,San Diego,HR,L&D Specialist,Full-Time,04 September 2023,2023,1,15,Excellent,1,1,No,6,17,66594,11200,12.8,No
+EMP1227,Lisa Williams,42,Female,Bachelor's,San Antonio,Marketing,Marketing Analyst,Full-Time,10 September 2024,2024,0,13,Average,3,1,No,18,1,89663,5800,12.5,No
+EMP1228,Margaret Jones,24,Female,Master's,San Jose,Customer Support,Support Analyst,Full-Time,18 June 2021,2021,3,2,Below Average,3,4,No,12,48,61894,1600,6.4,Yes
+EMP1229,Lisa Williams,46,Female,PhD,Los Angeles,Sales,Business Development Rep,Full-Time,07 March 2024,2024,0,18,Average,2,4,Yes,21,55,68611,4100,15,No
+EMP1230,Christopher Gonzalez,48,Male,Master's,San Jose,IT,Network Engineer,Full-Time,26 August 2024,2024,0,20,Good,4,2,Yes,22,64,84779,10400,8.4,No
+EMP1231,Thomas Martinez,48,Male,Master's,Phoenix,Sales,Account Manager,Full-Time,02 January 2023,2023,1,19,Good,1,5,No,19,11,52416,7500,4,No
+EMP1232,Daniel Hernandez,44,Male,Master's,Philadelphia,Sales,Sales Manager,Full-Time,21 November 2021,2021,3,18,Good,3,3,No,5,4,67514,6500,8.4,No
+EMP1233,Karen Jones,43,Female,Master's,Phoenix,HR,Recruiter,Full-Time,16 November 2021,2021,3,19,Average,5,3,No,8,32,59120,4300,6.4,Yes
+EMP1234,Karen Williams,36,Female,Bachelor's,Chicago,Finance,Financial Analyst,Full-Time,15 November 2022,2022,2,12,Good,2,4,No,24,52,100925,10600,9.3,Yes
+EMP1235,Joseph Lopez,34,Male,Master's,Dallas,Engineering,DevOps Engineer,Full-Time,19 April 2022,2022,2,12,Excellent,4,4,No,8,18,85203,16800,8.7,No
+EMP1236,Mark Gonzalez,41,Male,Master's,Phoenix,Sales,Business Development Rep,Full-Time,22 July 2024,2024,0,11,Excellent,3,1,No,8,74,47688,9700,7.2,No
+EMP1237,Christopher Lopez,44,Male,Master's,New York,Customer Support,Support Analyst,Full-Time,22 December 2022,2022,2,19,Average,5,1,No,21,57,57207,3500,9.6,No
+EMP1238,William Jones,43,Male,Bachelor's,Chicago,Engineering,Tech Lead,Full-Time,01 January 2022,2022,3,20,Below Average,5,2,No,3,23,98419,3100,11.5,Yes
+EMP1239,Christopher Anderson,37,Male,Master's,New York,HR,Recruiter,Full-Time,15 November 2021,2021,3,9,Good,3,2,No,14,8,61194,8200,6.3,Yes
+EMP1240,Morgan Martinez,39,Undisclosed,Bachelor's,Los Angeles,HR,L&D Specialist,Full-Time,21 March 2024,2024,0,16,Good,3,4,Yes,0,63,68262,8700,14,No
+EMP1241,Mary Anderson,33,Female,Master's,Los Angeles,Engineering,Senior Engineer,Full-Time,13 November 2021,2021,3,9,Good,1,4,No,22,61,121292,14600,14.3,No
+EMP1242,Sandra Garcia,35,Female,Master's,Phoenix,HR,HR Executive,Full-Time,10 November 2023,2023,1,13,Good,2,5,No,1,49,45941,6300,7.1,No
+EMP1243,Richard Anderson,41,Male,Bachelor's,Houston,Marketing,Marketing Manager,Full-Time,23 November 2021,2021,3,12,Good,1,5,No,20,39,86470,9100,3.4,Yes
+EMP1244,Margaret Gonzalez,33,Female,Bachelor's,Dallas,IT,Systems Administrator,Full-Time,02 January 2024,2024,0,11,Excellent,5,2,No,2,4,102252,17300,12.7,No
+EMP1245,James Davis,27,Male,Bachelor's,Los Angeles,Engineering,Senior Engineer,Full-Time,23 April 2021,2021,3,5,Below Average,5,5,Yes,7,8,76548,2600,4.2,No
+EMP1246,Matthew Wilson,49,Male,Bachelor's,Phoenix,Finance,Finance Manager,Full-Time,04 June 2024,2024,0,19,Below Average,4,2,Yes,22,47,109816,2900,3.5,Yes
+EMP1247,Mark Martinez,48,Male,PhD,San Jose,Engineering,Senior Engineer,Part-Time,04 March 2021,2021,3,20,Average,4,4,No,22,16,72048,4200,3.1,No
+EMP1248,William Rodriguez,28,Male,Master's,Dallas,Engineering,Senior Engineer,Full-Time,08 July 2024,2024,0,6,Good,1,5,No,3,79,135521,13600,12.9,No
+EMP1249,Sarah Rodriguez,33,Female,Bachelor's,New York,Finance,Accountant,Full-Time,25 August 2022,2022,2,7,Average,3,3,Yes,6,55,62384,4700,14.6,No
+EMP1250,Matthew Anderson,32,Male,Bachelor's,Philadelphia,Engineering,Tech Lead,Full-Time,04 January 2024,2024,0,2,Good,3,2,No,24,14,73809,7500,13.7,No
+EMP1251,Michael Lopez,31,Male,Master's,Philadelphia,Engineering,Tech Lead,Full-Time,13 April 2024,2024,0,8,Excellent,2,3,Yes,8,25,133492,26000,5.6,No
+EMP1252,Daniel Martinez,33,Male,Master's,San Jose,Operations,Supply Chain Analyst,Contract,05 May 2021,2021,3,4,Average,5,5,No,7,11,56219,3500,6.5,No
+EMP1253,Jessica Wilson,41,Female,Bachelor's,San Jose,Sales,Business Development Rep,Contract,16 October 2022,2022,2,15,Average,5,1,No,13,5,73056,4600,6.9,No
+EMP1254,Quinn Smith,39,Undisclosed,Master's,Philadelphia,Marketing,Marketing Analyst,Full-Time,13 September 2024,2024,0,16,Excellent,1,1,Yes,15,39,60762,13400,11.3,No
+EMP1255,Margaret Martinez,33,Female,Bachelor's,Philadelphia,IT,Network Engineer,Full-Time,15 August 2021,2021,3,5,Good,3,4,No,24,34,79275,10300,3,No
+EMP1256,Patricia Martinez,44,Female,Diploma,Los Angeles,IT,Network Engineer,Full-Time,02 December 2023,2023,1,17,Good,2,2,No,10,30,62272,7400,3.5,No
+EMP1257,Nancy Gonzalez,35,Female,Bachelor's,Dallas,Sales,Sales Executive,Full-Time,25 December 2022,2022,2,8,Good,1,4,No,22,68,62521,7300,3.7,No
+EMP1258,David Gonzalez,26,Male,Bachelor's,San Diego,Engineering,Tech Lead,Full-Time,15 April 2021,2021,3,3,Good,2,5,No,20,2,93437,13300,4.3,No
+EMP1259,Christopher Rodriguez,43,Male,Master's,Philadelphia,Engineering,Tech Lead,Full-Time,12 August 2022,2022,2,14,Good,3,3,No,15,75,72815,7200,13.5,No
+EMP1260,Charles Williams,34,Male,Master's,Chicago,IT,Systems Administrator,Full-Time,26 March 2023,2023,1,9,Average,3,2,Yes,5,19,73883,4200,7.2,No
+EMP1261,James Garcia,36,Male,Bachelor's,Chicago,Customer Support,Support Lead,Full-Time,09 August 2022,2022,2,12,Excellent,1,1,No,12,63,58171,10800,7.1,No
+EMP1262,Sandra Garcia,48,Female,Bachelor's,Chicago,Customer Support,Support Lead,Full-Time,24 January 2022,2022,2,18,Good,4,3,No,22,14,58116,8100,14.6,No
+EMP1263,Jennifer Hernandez,38,Female,Bachelor's,Phoenix,Engineering,DevOps Engineer,Full-Time,01 May 2021,2021,3,13,Good,1,5,No,14,11,82121,10300,5.3,No
+EMP1264,David Martinez,37,Male,Master's,Dallas,Sales,Business Development Rep,Full-Time,12 November 2021,2021,3,13,Good,4,4,No,14,36,73025,8300,6.4,No
+EMP1265,Sandra Miller,42,Female,Bachelor's,San Antonio,Operations,Operations Manager,Full-Time,27 March 2024,2024,0,19,Good,4,3,No,13,22,64872,8900,14.8,Yes
+EMP1266,Betty Anderson,39,Female,Master's,Houston,Finance,Controller,Full-Time,06 April 2022,2022,2,13,Average,1,2,No,8,38,57767,3700,10,No
+EMP1267,Christopher Anderson,41,Male,Bachelor's,San Antonio,HR,L&D Specialist,Part-Time,06 July 2023,2023,1,16,Good,4,1,No,11,65,58167,8300,10.2,No
+EMP1268,Jennifer Martinez,39,Female,Bachelor's,Dallas,IT,IT Analyst,Full-Time,11 March 2021,2021,3,15,Good,1,5,Yes,6,80,58466,6800,13.9,No
+EMP1269,Karen Gonzalez,37,Female,Bachelor's,Dallas,Finance,Finance Manager,Full-Time,11 September 2022,2022,2,11,Average,4,4,Yes,10,20,100741,5900,10,No
+EMP1270,Thomas Brown,47,Male,Master's,New York,Sales,Sales Executive,Full-Time,20 September 2022,2022,2,17,Average,3,3,No,4,56,91023,5400,8.5,Yes
+EMP1271,William Smith,30,Male,Bachelor's,San Diego,Operations,Supply Chain Analyst,Full-Time,05 April 2021,2021,3,5,Excellent,1,2,Yes,3,4,58752,9800,11.3,No
+EMP1272,Mark Jones,24,Male,PhD,Phoenix,Engineering,Software Engineer,Contract,10 February 2021,2021,3,1,Good,3,3,Yes,5,64,96922,10200,11,Yes
+EMP1273,John Johnson,33,Male,Bachelor's,San Diego,Finance,Finance Manager,Full-Time,07 September 2021,2021,3,7,Good,5,2,No,14,13,104415,14900,4.2,No
+EMP1274,Susan Miller,37,Female,PhD,Dallas,IT,Network Engineer,Full-Time,08 September 2022,2022,2,14,Excellent,1,3,No,15,14,75596,12800,4.6,No
+EMP1275,Charles Lopez,40,Male,Master's,Philadelphia,Sales,Business Development Rep,Full-Time,27 November 2023,2023,1,15,Below Average,4,1,No,12,56,64044,1900,13.3,No
+EMP1276,Richard Miller,30,Male,High School,San Diego,Sales,Sales Executive,Full-Time,06 December 2021,2021,3,3,Good,5,5,No,8,51,67192,9200,7.9,No
+EMP1277,Charles Miller,34,Male,Bachelor's,Los Angeles,Sales,Account Manager,Full-Time,09 September 2024,2024,0,5,Good,1,2,No,12,77,61429,6600,14.3,Yes
+EMP1278,Charles Martinez,46,Male,PhD,Dallas,HR,Recruiter,Full-Time,22 February 2021,2021,3,17,Good,1,4,No,3,49,53233,6400,9.1,No
+EMP1279,Richard Davis,36,Male,Master's,Los Angeles,Engineering,DevOps Engineer,Full-Time,02 January 2024,2024,0,6,Average,4,5,No,21,69,109720,6600,8.2,No
+EMP1280,Anthony Williams,44,Male,Master's,Philadelphia,HR,L&D Specialist,Full-Time,09 July 2021,2021,3,16,Average,5,1,Yes,24,80,63118,4000,3.7,No
+EMP1281,Richard Garcia,27,Male,Bachelor's,Chicago,Finance,Accountant,Full-Time,12 July 2023,2023,1,2,Good,3,1,Yes,14,54,97472,9800,11.3,No
+EMP1282,Daniel Davis,47,Male,Bachelor's,Philadelphia,Engineering,DevOps Engineer,Full-Time,13 June 2021,2021,3,19,Average,3,3,No,13,25,82809,4900,11.1,No
+EMP1283,Betty Johnson,28,Female,High School,San Jose,Finance,Controller,Full-Time,09 May 2022,2022,2,2,Average,1,5,No,16,60,81347,6000,14.5,No
+EMP1284,Matthew Johnson,38,Male,Master's,Chicago,Engineering,DevOps Engineer,Part-Time,26 September 2023,2023,1,10,Good,5,2,No,18,63,111071,12800,10.5,No
+EMP1285,Margaret Lopez,46,Female,Diploma,Phoenix,Marketing,Marketing Manager,Part-Time,21 May 2024,2024,0,18,Excellent,4,3,No,2,26,86075,15200,8.5,No
+EMP1286,William Hernandez,45,Male,Bachelor's,San Antonio,Customer Support,Support Analyst,Full-Time,22 May 2022,2022,2,20,Excellent,1,2,No,5,34,38721,6300,12.6,No
+EMP1287,Matthew Gonzalez,28,Male,High School,Los Angeles,Operations,Operations Manager,Contract,18 November 2023,2023,1,6,Average,4,3,Yes,21,11,76840,4400,13.8,No
+EMP1288,Nancy Wilson,49,Female,Diploma,Los Angeles,Sales,Business Development Rep,Full-Time,04 April 2022,2022,2,19,Average,1,3,No,10,74,79207,5700,12.3,No
+EMP1289,Nancy Brown,28,Female,Bachelor's,Los Angeles,Engineering,DevOps Engineer,Full-Time,05 April 2024,2024,0,4,Good,4,4,No,21,31,105985,11500,10.1,No
+EMP1290,Sandra Williams,38,Female,Bachelor's,Houston,Engineering,Tech Lead,Full-Time,23 August 2023,2023,1,12,Average,4,3,No,20,46,74562,5600,14.3,No
+EMP1291,Linda Wilson,39,Female,Bachelor's,San Antonio,Sales,Sales Executive,Full-Time,01 July 2024,2024,0,13,Good,3,1,No,24,62,94588,10000,13.7,No
+EMP1292,Sandra Wilson,28,Female,Master's,New York,Operations,Logistics Coordinator,Full-Time,14 December 2023,2023,1,4,Excellent,2,4,No,20,17,78183,15100,11.8,No
+EMP1293,Christopher Jones,28,Male,Bachelor's,Philadelphia,Finance,Financial Analyst,Full-Time,03 October 2023,2023,1,4,Below Average,2,3,No,5,75,101764,3500,12.2,No
+EMP1294,Linda Johnson,41,Female,Diploma,Los Angeles,Engineering,Tech Lead,Contract,06 June 2024,2024,0,13,Excellent,2,3,Yes,22,21,99423,16100,9.7,No
+EMP1295,Richard Martinez,36,Male,Diploma,San Diego,Operations,Operations Analyst,Full-Time,03 March 2023,2023,1,12,Excellent,2,2,No,8,36,52690,10600,12.3,No
+EMP1296,Richard Wilson,35,Male,Bachelor's,Houston,HR,L&D Specialist,Full-Time,07 October 2022,2022,2,10,Average,4,1,No,0,60,66773,3800,14.7,No
+EMP1297,Nancy Miller,40,Female,Bachelor's,San Jose,Engineering,Senior Engineer,Full-Time,13 December 2022,2022,2,14,Excellent,1,1,No,8,64,77700,18200,8.7,No
+EMP1298,Richard Hernandez,26,Male,Bachelor's,San Antonio,Sales,Business Development Rep,Full-Time,18 March 2023,2023,1,2,Good,1,3,No,1,16,78013,8800,8.6,Yes
+EMP1299,Margaret Jones,35,Female,Master's,San Diego,Sales,Business Development Rep,Full-Time,10 July 2023,2023,1,9,Average,2,1,Yes,7,23,73558,4800,14.9,No
+EMP1300,Robert Lopez,38,Male,Bachelor's,Philadelphia,Customer Support,Support Executive,Full-Time,04 July 2024,2024,0,16,Good,3,2,Yes,5,65,58233,6900,4.3,No
+EMP1301,Lisa Martinez,41,Female,Bachelor's,Los Angeles,Customer Support,Customer Success Manager,Full-Time,01 October 2022,2022,2,17,Good,5,1,Yes,10,19,37517,4500,4.1,No
+EMP1302,Anthony Lopez,31,Male,Bachelor's,San Jose,Marketing,Marketing Analyst,Full-Time,21 August 2024,2024,0,9,Average,1,3,No,10,7,47873,4000,6.9,No
+EMP1303,Karen Miller,31,Female,High School,Chicago,Operations,Operations Analyst,Full-Time,09 July 2021,2021,3,6,Excellent,4,4,Yes,23,39,71143,16200,5,No
+EMP1304,John Wilson,45,Male,Diploma,Chicago,HR,HR Manager,Full-Time,07 September 2023,2023,1,16,Good,4,1,No,1,65,71223,8900,4.1,No
+EMP1305,Morgan Hernandez,40,Undisclosed,Bachelor's,Phoenix,Sales,Account Manager,Part-Time,17 August 2022,2022,2,17,Excellent,5,4,No,9,72,73662,16500,6.6,No
+EMP1306,Sandra Smith,37,Female,Master's,Los Angeles,Sales,Sales Executive,Full-Time,14 September 2021,2021,3,14,Good,4,2,No,5,50,92206,10000,6.1,Yes
+EMP1307,Mark Lopez,44,Male,Master's,San Jose,Engineering,Software Engineer,Full-Time,19 June 2023,2023,1,15,Good,1,4,Yes,17,2,104743,14700,12.7,No
+EMP1308,James Williams,42,Male,Bachelor's,Chicago,Customer Support,Support Executive,Full-Time,23 August 2024,2024,0,13,Below Average,2,1,No,0,24,61644,1700,11.1,No
+EMP1309,Christopher Williams,43,Male,Bachelor's,San Diego,Operations,Operations Analyst,Contract,27 July 2022,2022,2,18,Excellent,4,1,No,14,74,75371,14600,4.4,No
+EMP1310,Charles Wilson,24,Male,Master's,Phoenix,Customer Support,Support Lead,Full-Time,11 January 2024,2024,0,1,Good,4,4,No,16,75,58366,6800,8.9,No
+EMP1311,James Rodriguez,41,Male,Bachelor's,San Diego,Customer Support,Support Analyst,Full-Time,19 July 2021,2021,3,11,Good,1,2,No,9,24,64257,8900,4.4,No
+EMP1312,Michael Rodriguez,40,Male,Bachelor's,Philadelphia,Engineering,DevOps Engineer,Full-Time,22 October 2022,2022,2,11,Average,2,5,No,6,36,108455,7300,8,No
+EMP1313,Jennifer Williams,39,Female,PhD,Philadelphia,Engineering,Software Engineer,Full-Time,20 March 2022,2022,2,16,Good,2,5,No,1,8,134713,14300,3.6,Yes
+EMP1314,Charles Brown,42,Male,High School,Dallas,Sales,Account Manager,Full-Time,08 September 2021,2021,3,16,Average,1,1,No,14,58,68281,5300,9.7,No
+EMP1315,Reese Martinez,40,Undisclosed,Bachelor's,Dallas,Operations,Operations Analyst,Full-Time,02 September 2021,2021,3,17,Average,1,2,No,20,46,52737,4300,4.9,No
+EMP1316,Patricia Wilson,26,Female,PhD,Philadelphia,Customer Support,Customer Success Manager,Full-Time,14 August 2022,2022,2,1,Good,2,2,No,24,67,50521,6100,4,No
+EMP1317,Jennifer Gonzalez,45,Female,PhD,Philadelphia,Engineering,DevOps Engineer,Full-Time,14 July 2024,2024,0,15,Below Average,2,4,Yes,1,50,117418,3400,12.2,No
+EMP1318,Lisa Williams,43,Female,Bachelor's,Dallas,HR,HR Executive,Full-Time,23 November 2021,2021,3,17,Average,2,4,No,14,26,76281,5800,6.8,No
+EMP1319,Sandra Gonzalez,25,Female,Master's,Los Angeles,Sales,Business Development Rep,Full-Time,10 April 2024,2024,0,3,Average,3,5,Yes,10,20,70558,5400,4.5,No
+EMP1320,Matthew Rodriguez,38,Male,High School,Los Angeles,Customer Support,Support Executive,Full-Time,27 April 2023,2023,1,10,Average,5,1,Yes,14,43,38618,3100,6.1,No
+EMP1321,Karen Martinez,34,Female,Master's,San Diego,Customer Support,Support Lead,Full-Time,10 June 2022,2022,2,10,Average,4,4,No,2,11,52028,3100,9.2,No
+EMP1322,Robert Davis,42,Male,Bachelor's,San Diego,IT,IT Analyst,Full-Time,03 August 2022,2022,2,12,Good,4,4,No,5,18,91632,10500,6.2,No
+EMP1323,Joseph Williams,44,Male,Bachelor's,San Jose,Operations,Operations Manager,Full-Time,07 December 2021,2021,3,15,Below Average,5,2,Yes,3,47,55278,1600,14.4,No
+EMP1324,Casey Jones,29,Undisclosed,PhD,San Diego,Customer Support,Customer Success Manager,Full-Time,26 January 2024,2024,0,5,Excellent,5,3,No,2,5,48820,11300,13.7,No
+EMP1325,William Martinez,42,Male,PhD,Chicago,Sales,Business Development Rep,Part-Time,26 June 2024,2024,0,13,Excellent,3,1,No,19,79,84695,14500,10.6,No
+EMP1326,Mark Miller,41,Male,Master's,Los Angeles,Operations,Logistics Coordinator,Full-Time,02 September 2023,2023,1,15,Average,1,2,No,19,69,55853,4000,12.6,No
+EMP1327,Sarah Brown,34,Female,Bachelor's,Los Angeles,Engineering,Software Engineer,Part-Time,01 September 2024,2024,0,4,Good,5,3,No,12,75,72486,7700,13,No
+EMP1328,Mark Smith,36,Male,Diploma,Chicago,IT,IT Analyst,Full-Time,06 July 2023,2023,1,14,Good,1,2,Yes,9,52,75799,7600,14.8,No
+EMP1329,David Williams,38,Male,Bachelor's,Houston,Operations,Operations Manager,Full-Time,02 December 2021,2021,3,10,Good,5,5,Yes,7,63,54336,6100,7.5,No
+EMP1330,Barbara Smith,37,Female,Master's,Los Angeles,Customer Support,Support Analyst,Full-Time,18 August 2023,2023,1,14,Good,5,2,No,9,72,48352,6800,3.2,No
+EMP1331,Anthony Hernandez,42,Male,PhD,San Jose,Operations,Logistics Coordinator,Full-Time,12 March 2022,2022,2,18,Below Average,2,1,No,1,61,80227,2900,9.7,Yes
+EMP1332,Margaret Hernandez,37,Female,Bachelor's,Chicago,Engineering,Tech Lead,Full-Time,27 June 2024,2024,0,7,Average,3,4,Yes,6,78,91157,6500,6.6,No
+EMP1333,Elizabeth Hernandez,34,Female,Master's,New York,Operations,Supply Chain Analyst,Full-Time,15 December 2023,2023,1,9,Good,1,1,No,21,22,66078,7800,10.2,Yes
+EMP1334,Nancy Lopez,26,Female,Master's,San Antonio,Sales,Business Development Rep,Full-Time,18 July 2024,2024,0,3,Good,1,1,No,14,47,89014,9100,14.7,No
+EMP1335,Michael Lopez,37,Male,Bachelor's,New York,Customer Support,Support Lead,Full-Time,22 May 2021,2021,3,12,Good,5,2,No,0,25,55101,7400,5.7,No
+EMP1336,William Martinez,31,Male,Bachelor's,Phoenix,Customer Support,Support Analyst,Full-Time,18 March 2024,2024,0,7,Average,1,5,No,19,32,39202,2300,14.2,No
+EMP1337,Richard Hernandez,40,Male,Bachelor's,Phoenix,Engineering,DevOps Engineer,Contract,14 June 2021,2021,3,14,Good,5,4,Yes,10,0,137933,15600,12.1,No
+EMP1338,John Anderson,37,Male,Diploma,New York,Operations,Logistics Coordinator,Full-Time,08 December 2021,2021,3,14,Excellent,3,3,No,7,13,57902,10700,10.5,Yes
+EMP1339,David Wilson,31,Male,PhD,New York,Marketing,SEO Specialist,Full-Time,17 June 2021,2021,3,8,Good,1,2,No,1,56,85603,8600,8.4,No
+EMP1340,Christopher Miller,32,Male,Bachelor's,San Jose,Engineering,Software Engineer,Full-Time,22 February 2021,2021,3,2,Good,4,4,No,13,79,119998,15100,7.9,No
+EMP1341,Christopher Gonzalez,36,Male,Bachelor's,Dallas,Operations,Operations Analyst,Full-Time,17 August 2021,2021,3,11,Good,4,4,No,23,79,45805,4500,12.5,No
+EMP1342,Robert Gonzalez,38,Male,Master's,Philadelphia,Engineering,DevOps Engineer,Full-Time,05 January 2021,2021,3,10,Good,1,5,No,18,18,116890,16200,12.3,No
+EMP1343,Anthony Wilson,32,Male,Master's,San Jose,Sales,Sales Executive,Full-Time,12 July 2021,2021,3,7,Average,5,5,No,10,78,58189,3800,11,No
+EMP1344,Robert Johnson,30,Male,Master's,Philadelphia,Sales,Account Manager,Part-Time,16 January 2024,2024,0,8,Good,4,2,No,12,23,90430,11400,5.9,No
+EMP1345,John Garcia,31,Male,Bachelor's,Chicago,Engineering,Software Engineer,Full-Time,04 September 2021,2021,3,5,Excellent,5,2,No,5,25,117174,19000,5.4,No
+EMP1346,William Anderson,33,Male,Master's,Chicago,Customer Support,Support Executive,Contract,27 January 2021,2021,3,5,Excellent,5,4,No,22,8,64000,15000,6.7,No
+EMP1347,Mark Williams,40,Male,Bachelor's,Chicago,IT,IT Analyst,Full-Time,18 April 2022,2022,2,13,Below Average,1,3,No,4,65,83150,2200,3.6,No
+EMP1348,John Gonzalez,27,Male,Master's,San Diego,Engineering,DevOps Engineer,Full-Time,20 November 2024,2024,0,3,Good,4,4,No,8,74,136736,16500,5.1,No
+EMP1349,Betty Martinez,36,Female,Diploma,Phoenix,Finance,Controller,Full-Time,08 April 2021,2021,3,7,Good,2,1,No,9,56,80945,9400,7.5,No
+EMP1350,James Davis,43,Male,Bachelor's,Philadelphia,Engineering,Tech Lead,Contract,15 July 2023,2023,1,15,Good,3,5,No,16,69,135213,15500,5.2,No
+EMP1351,Sandra Brown,34,Female,Master's,Phoenix,IT,IT Analyst,Full-Time,03 February 2021,2021,3,12,Excellent,5,2,No,24,69,76873,14300,6.6,No
+EMP1352,William Jones,41,Male,Master's,Houston,Marketing,Content Strategist,Full-Time,13 July 2023,2023,1,19,Below Average,5,5,No,17,59,78596,2800,13.4,Yes
+EMP1353,John Garcia,39,Male,Bachelor's,San Diego,IT,Systems Administrator,Part-Time,25 July 2022,2022,2,14,Excellent,3,3,No,7,53,91598,15700,13.5,No
+EMP1354,Susan Gonzalez,23,Female,Diploma,San Antonio,Sales,Business Development Rep,Contract,19 June 2023,2023,1,1,Below Average,2,4,No,2,68,55072,2000,9.8,No
+EMP1355,John Garcia,27,Male,Bachelor's,San Antonio,IT,Systems Administrator,Full-Time,10 November 2024,2024,0,3,Excellent,2,3,Yes,21,67,91235,20600,10.2,Yes
+EMP1356,David Rodriguez,42,Male,Bachelor's,Houston,Sales,Sales Executive,Full-Time,11 March 2021,2021,3,14,Excellent,2,3,No,13,60,52257,10100,11.9,No
+EMP1357,Barbara Martinez,41,Female,Bachelor's,San Jose,IT,Network Engineer,Part-Time,23 September 2022,2022,2,15,Good,4,4,No,18,5,64351,8700,10.3,No
+EMP1358,Mark Anderson,38,Male,Master's,Chicago,Engineering,Software Engineer,Full-Time,23 June 2024,2024,0,10,Good,1,4,No,22,5,92954,9700,10.4,No
+EMP1359,Jennifer Jones,36,Female,Bachelor's,Philadelphia,Sales,Sales Manager,Full-Time,03 November 2023,2023,1,7,Good,2,3,No,6,64,94929,13600,3.9,No
+EMP1360,John Hernandez,38,Male,Bachelor's,San Diego,Engineering,Software Engineer,Full-Time,11 July 2024,2024,0,13,Good,5,2,No,22,56,71407,9300,4.6,No
+EMP1361,William Wilson,24,Male,Bachelor's,Chicago,Finance,Finance Manager,Full-Time,27 March 2022,2022,2,1,Good,2,2,No,22,4,63136,7200,3.9,No
+EMP1362,James Wilson,39,Male,Bachelor's,Houston,Engineering,Senior Engineer,Full-Time,23 July 2021,2021,3,10,Excellent,4,1,No,0,43,70611,13400,5.4,No
+EMP1363,Patricia Brown,28,Female,Bachelor's,San Antonio,HR,HR Manager,Contract,06 November 2021,2021,3,6,Average,1,2,No,6,13,47057,3100,10.5,No
+EMP1364,James Miller,36,Male,Bachelor's,Phoenix,Marketing,Content Strategist,Full-Time,13 January 2023,2023,1,7,Average,4,1,Yes,22,68,88120,6500,7.4,Yes
+EMP1365,John Martinez,37,Male,Bachelor's,San Diego,Engineering,Senior Engineer,Full-Time,23 November 2023,2023,1,13,Below Average,2,5,No,18,1,111676,3600,3.8,Yes
+EMP1366,Matthew Anderson,39,Male,Master's,Houston,HR,HR Manager,Contract,08 May 2021,2021,3,14,Excellent,5,4,No,23,42,43927,8800,5.4,No
+EMP1367,Christopher Gonzalez,40,Male,PhD,Houston,Engineering,Senior Engineer,Part-Time,26 September 2021,2021,3,14,Average,2,5,No,12,66,100016,6500,5.9,No
+EMP1368,Christopher Smith,29,Male,Master's,Dallas,Finance,Accountant,Full-Time,03 August 2021,2021,3,7,Below Average,4,3,Yes,5,25,64275,1600,5.1,No
+EMP1369,Charles Brown,40,Male,Bachelor's,Dallas,Sales,Sales Manager,Full-Time,19 May 2023,2023,1,15,Excellent,4,2,No,15,2,76534,18200,7.8,No
+EMP1370,John Gonzalez,35,Male,Master's,Philadelphia,Customer Support,Support Analyst,Full-Time,18 October 2023,2023,1,5,Good,4,2,No,4,24,43430,4800,6.4,No
+EMP1371,Thomas Lopez,42,Male,High School,Los Angeles,Marketing,Marketing Analyst,Full-Time,13 August 2023,2023,1,14,Good,5,2,No,6,55,69454,7700,14.9,Yes
+EMP1372,Betty Lopez,43,Female,Master's,Philadelphia,Finance,Accountant,Full-Time,23 September 2023,2023,1,16,Good,1,2,No,8,77,97657,11400,6,No
+EMP1373,Jennifer Jones,28,Female,Bachelor's,Dallas,Operations,Logistics Coordinator,Contract,19 October 2022,2022,2,6,Good,4,2,No,13,32,51049,7100,7.8,No
+EMP1374,Thomas Hernandez,37,Male,Bachelor's,San Antonio,Finance,Accountant,Full-Time,10 October 2024,2024,0,14,Average,1,2,No,15,0,92526,6100,4.7,No
+EMP1375,Daniel Miller,38,Male,Bachelor's,Houston,Engineering,Software Engineer,Full-Time,10 November 2024,2024,0,14,Average,1,2,No,24,24,94431,5800,5.2,No
+EMP1376,Jamie Davis,29,Undisclosed,Bachelor's,Los Angeles,Sales,Account Manager,Full-Time,06 November 2021,2021,3,3,Good,3,1,No,21,74,53171,6000,10,No
+EMP1377,Thomas Gonzalez,43,Male,Diploma,Philadelphia,Finance,Financial Analyst,Part-Time,20 July 2021,2021,3,17,Average,3,4,No,12,78,86013,6300,7,No
+EMP1378,Riley Gonzalez,37,Undisclosed,Bachelor's,San Jose,Engineering,Software Engineer,Full-Time,15 January 2021,2021,3,13,Average,4,5,No,13,24,86108,5500,11.4,No
+EMP1379,Riley Smith,40,Undisclosed,Bachelor's,San Diego,Engineering,Software Engineer,Contract,26 January 2023,2023,1,11,Good,1,4,No,9,77,133509,16700,4,No
+EMP1380,Margaret Rodriguez,29,Female,PhD,Houston,Operations,Operations Manager,Full-Time,16 March 2021,2021,3,3,Below Average,1,1,No,13,3,80962,2400,13.8,No
+EMP1381,Elizabeth Anderson,38,Female,High School,Philadelphia,Finance,Finance Manager,Part-Time,08 May 2024,2024,0,9,Excellent,5,5,Yes,2,43,98948,16900,9.4,No
+EMP1382,Nancy Lopez,46,Female,PhD,Houston,Engineering,DevOps Engineer,Full-Time,21 November 2024,2024,0,18,Good,1,5,No,11,16,99301,10900,4.3,No
+EMP1383,Karen Lopez,49,Female,Bachelor's,San Jose,Engineering,Tech Lead,Full-Time,02 May 2021,2021,3,19,Below Average,1,4,No,0,68,120875,3400,7.4,No
+EMP1384,Anthony Jones,39,Male,Master's,Dallas,Engineering,DevOps Engineer,Contract,22 August 2022,2022,2,15,Average,1,3,No,22,73,89119,7100,12.9,Yes
+EMP1385,Linda Davis,29,Female,Bachelor's,Chicago,Engineering,DevOps Engineer,Part-Time,13 December 2023,2023,1,2,Average,4,3,No,21,20,97605,8000,5.7,No
+EMP1386,Elizabeth Miller,41,Female,Bachelor's,Philadelphia,Engineering,Software Engineer,Full-Time,25 June 2024,2024,0,13,Good,5,1,Yes,22,38,107098,15000,11.4,No
+EMP1387,Karen Williams,34,Female,Bachelor's,Chicago,Sales,Business Development Rep,Full-Time,16 December 2024,2024,0,10,Excellent,4,2,Yes,1,12,94045,19900,7.3,No
+EMP1388,Taylor Smith,39,Undisclosed,High School,Chicago,Engineering,Tech Lead,Full-Time,21 September 2021,2021,3,11,Good,4,1,No,24,59,122952,12500,7.8,No
+EMP1389,Christopher Davis,27,Male,Bachelor's,Phoenix,IT,Systems Administrator,Full-Time,04 January 2023,2023,1,4,Average,1,5,No,5,49,97035,6800,3.3,No
+EMP1390,Jamie Jones,33,Undisclosed,Bachelor's,Los Angeles,Finance,Controller,Full-Time,11 February 2022,2022,2,3,Average,5,5,No,22,15,108272,7300,12.8,No
+EMP1391,Jordan Williams,42,Undisclosed,Bachelor's,Los Angeles,Customer Support,Support Lead,Contract,18 January 2022,2022,2,15,Good,5,3,No,11,69,39221,5000,4.1,No
+EMP1392,Christopher Smith,43,Male,Master's,San Jose,HR,HR Manager,Full-Time,02 May 2022,2022,2,17,Excellent,2,1,No,21,5,69158,13800,6.8,No
+EMP1393,Robert Jones,43,Male,Master's,Chicago,Engineering,Senior Engineer,Full-Time,20 March 2022,2022,2,18,Excellent,1,3,No,21,54,106358,22300,3.9,No
+EMP1394,Patricia Hernandez,34,Female,Master's,San Antonio,Marketing,Marketing Manager,Full-Time,23 November 2023,2023,1,7,Average,5,2,No,2,34,87452,6400,8,No
+EMP1395,Lisa Rodriguez,30,Female,Diploma,Houston,Sales,Sales Executive,Full-Time,11 February 2024,2024,0,3,Excellent,1,1,No,5,67,62907,14100,6.3,Yes
+EMP1396,Betty Davis,45,Female,Master's,Dallas,Engineering,Tech Lead,Full-Time,12 September 2021,2021,3,19,Average,4,4,No,18,16,82984,5000,14.4,No
+EMP1397,Thomas Lopez,33,Male,Master's,San Jose,Engineering,Tech Lead,Full-Time,05 November 2022,2022,2,5,Excellent,4,2,Yes,14,45,105044,22900,14.7,No
+EMP1398,William Miller,29,Male,Bachelor's,San Jose,HR,L&D Specialist,Full-Time,21 May 2022,2022,2,3,Average,3,5,Yes,15,1,60495,4500,3.9,No
+EMP1399,Sandra Lopez,47,Female,Master's,Dallas,Finance,Controller,Full-Time,16 August 2022,2022,2,17,Excellent,2,5,No,21,77,81572,14300,13,Yes
+EMP1400,Jennifer Hernandez,36,Female,Master's,Houston,Marketing,Marketing Analyst,Part-Time,03 March 2022,2022,2,12,Good,1,3,No,9,61,48336,5500,7.5,No
+EMP1401,James Lopez,39,Male,Diploma,Philadelphia,Engineering,Tech Lead,Part-Time,10 April 2024,2024,0,17,Excellent,2,4,Yes,11,1,133998,21500,8.5,No
+EMP1402,Michael Johnson,38,Male,Bachelor's,Phoenix,Engineering,Software Engineer,Full-Time,04 July 2022,2022,2,16,Good,4,4,Yes,5,17,102785,11800,6.6,No
+EMP1403,Mary Garcia,32,Female,Bachelor's,Phoenix,Marketing,Content Strategist,Full-Time,07 February 2022,2022,2,10,Average,4,5,No,15,16,72594,5900,4.9,No
+EMP1404,Betty Anderson,37,Female,Bachelor's,New York,Customer Support,Customer Success Manager,Full-Time,24 September 2024,2024,0,13,Average,3,4,No,19,1,38534,2300,7.1,Yes
+EMP1405,William Davis,44,Male,Master's,San Antonio,Operations,Logistics Coordinator,Full-Time,08 July 2021,2021,3,20,Good,1,5,Yes,19,23,57246,7600,13.4,No
+EMP1406,Reese Hernandez,33,Undisclosed,Bachelor's,San Antonio,Sales,Sales Manager,Full-Time,04 April 2022,2022,2,5,Below Average,2,2,Yes,10,54,57594,1700,10.4,Yes
+EMP1407,Richard Hernandez,36,Male,Bachelor's,Philadelphia,Sales,Business Development Rep,Full-Time,04 May 2021,2021,3,9,Average,4,3,Yes,19,12,68004,4300,13.7,No
+EMP1408,Joseph Garcia,26,Male,Master's,Philadelphia,Marketing,SEO Specialist,Full-Time,04 May 2023,2023,1,4,Good,3,2,No,18,49,53539,7000,7.3,No
+EMP1409,Jennifer Hernandez,32,Female,Master's,Houston,Finance,Financial Analyst,Full-Time,19 January 2021,2021,3,7,Excellent,2,1,No,4,24,61464,12500,7.1,No
+EMP1410,Barbara Anderson,32,Female,Bachelor's,Chicago,Engineering,DevOps Engineer,Full-Time,15 June 2023,2023,1,4,Good,5,1,Yes,22,24,124919,17700,12.5,No
+EMP1411,Thomas Wilson,45,Male,Master's,New York,Operations,Logistics Coordinator,Part-Time,15 March 2021,2021,3,17,Good,5,4,Yes,16,67,70575,7700,5.2,No
+EMP1412,Michael Jones,31,Male,Bachelor's,New York,Operations,Supply Chain Analyst,Full-Time,04 September 2023,2023,1,6,Good,2,2,Yes,17,14,60611,7700,14.3,No
+EMP1413,Lisa Martinez,44,Female,Master's,Philadelphia,Finance,Financial Analyst,Full-Time,03 June 2023,2023,1,18,Average,3,2,Yes,8,2,81761,5300,14.8,No
+EMP1414,Nancy Miller,50,Female,Bachelor's,Chicago,Engineering,Software Engineer,Full-Time,21 November 2023,2023,1,20,Good,4,3,No,4,61,127958,13900,10,No
+EMP1415,Joseph Williams,40,Male,Master's,Chicago,Sales,Sales Executive,Full-Time,19 April 2022,2022,2,16,Good,2,4,Yes,20,51,46379,6400,12.8,No
+EMP1416,Jennifer Lopez,41,Female,Bachelor's,Chicago,Sales,Sales Executive,Contract,04 October 2021,2021,3,13,Average,5,1,Yes,0,13,45888,3400,3.5,No
+EMP1417,Patricia Brown,48,Female,PhD,Los Angeles,Engineering,Tech Lead,Full-Time,25 August 2022,2022,2,19,Good,1,1,No,17,37,110289,11400,3.7,No
+EMP1418,Anthony Miller,26,Male,Bachelor's,Los Angeles,Marketing,Marketing Analyst,Full-Time,08 January 2022,2022,2,1,Good,1,2,No,3,36,54658,6000,14.1,No
+EMP1419,David Johnson,44,Male,Bachelor's,San Jose,Operations,Supply Chain Analyst,Part-Time,02 February 2023,2023,1,20,Good,3,1,No,8,63,79765,8400,8.1,No
+EMP1420,Betty Anderson,29,Female,Bachelor's,San Antonio,Sales,Account Manager,Contract,28 January 2021,2021,3,5,Good,3,2,Yes,2,41,70598,9500,14.7,No
+EMP1421,Richard Garcia,44,Male,Master's,Dallas,Engineering,Senior Engineer,Full-Time,14 August 2023,2023,1,16,Excellent,5,5,No,7,49,113707,26800,14.1,No
+EMP1422,Susan Rodriguez,35,Female,Bachelor's,Philadelphia,HR,HR Executive,Part-Time,03 December 2022,2022,2,8,Good,2,3,No,14,18,41124,4900,4.6,No
+EMP1423,Anthony Brown,28,Male,Bachelor's,San Diego,Sales,Business Development Rep,Part-Time,05 December 2021,2021,3,4,Average,2,1,No,4,46,46726,3200,3.6,No
+EMP1424,John Smith,35,Male,Master's,New York,Finance,Finance Manager,Full-Time,25 March 2024,2024,0,6,Good,2,1,No,20,4,104027,14700,8.6,No
+EMP1425,James Miller,44,Male,Diploma,San Antonio,Marketing,Marketing Manager,Contract,15 November 2024,2024,0,18,Good,2,2,Yes,12,79,77890,8300,14.2,No
+EMP1426,Robert Wilson,43,Male,Master's,Los Angeles,Engineering,Software Engineer,Full-Time,15 December 2021,2021,3,16,Average,3,5,Yes,24,42,123097,7500,12.6,No
+EMP1427,Robert Rodriguez,42,Male,PhD,San Jose,Finance,Financial Analyst,Full-Time,07 February 2021,2021,3,20,Excellent,5,4,Yes,1,6,75258,13300,14.2,No
+EMP1428,William Smith,42,Male,Bachelor's,Dallas,Sales,Account Manager,Full-Time,13 May 2023,2023,1,17,Average,2,1,No,18,48,70601,5900,11.4,Yes
+EMP1429,Margaret Smith,38,Female,Diploma,Dallas,Operations,Logistics Coordinator,Full-Time,05 March 2023,2023,1,15,Below Average,5,5,No,24,43,51113,1400,5.6,No
+EMP1430,Elizabeth Jones,36,Female,Diploma,San Diego,Operations,Logistics Coordinator,Full-Time,28 October 2023,2023,1,14,Good,1,2,Yes,24,39,89752,9500,10.3,Yes
+EMP1431,Joseph Garcia,29,Male,Master's,Phoenix,Sales,Sales Executive,Full-Time,06 May 2022,2022,2,3,Excellent,4,2,No,3,72,68158,11900,12.3,No
+EMP1432,Anthony Jones,44,Male,Bachelor's,Phoenix,Engineering,DevOps Engineer,Part-Time,28 July 2024,2024,0,20,Average,1,5,No,20,7,137171,11300,7.5,No
+EMP1433,Sarah Smith,37,Female,Master's,Dallas,Sales,Sales Manager,Contract,10 February 2022,2022,2,13,Good,4,1,No,2,23,49782,6900,11,No
+EMP1434,Sandra Miller,34,Female,Bachelor's,Chicago,IT,IT Analyst,Contract,13 April 2024,2024,0,11,Good,2,2,Yes,10,72,94607,12300,8.7,No
+EMP1435,Jamie Smith,29,Undisclosed,Bachelor's,San Antonio,Marketing,Marketing Analyst,Full-Time,16 July 2023,2023,1,7,Below Average,4,4,Yes,16,27,46503,1500,6.2,Yes
+EMP1436,James Johnson,34,Male,Bachelor's,San Jose,Sales,Account Manager,Full-Time,25 June 2024,2024,0,10,Good,1,5,No,19,25,72466,8800,12.4,No
+EMP1437,Karen Martinez,33,Female,Bachelor's,New York,Engineering,Software Engineer,Contract,22 June 2022,2022,2,11,Below Average,2,4,Yes,20,74,130117,3900,6.8,No
+EMP1438,Daniel Brown,34,Male,Bachelor's,New York,Operations,Operations Analyst,Full-Time,18 December 2024,2024,0,6,Below Average,3,5,No,3,63,58747,2100,9.9,Yes
+EMP1439,David Garcia,34,Male,Diploma,San Antonio,Marketing,SEO Specialist,Full-Time,25 September 2024,2024,0,11,Good,5,1,No,2,13,75069,7800,10.1,No
+EMP1440,Karen Anderson,50,Female,Bachelor's,San Diego,Operations,Operations Analyst,Full-Time,16 February 2024,2024,0,20,Good,1,2,Yes,15,15,74104,10000,11,No
+EMP1441,Avery Miller,38,Undisclosed,Bachelor's,San Antonio,Finance,Accountant,Full-Time,12 January 2024,2024,0,8,Good,1,2,Yes,11,66,98167,13400,12.5,No
+EMP1442,Charles Miller,35,Male,PhD,Philadelphia,IT,IT Manager,Full-Time,13 September 2022,2022,2,7,Good,4,2,No,3,16,92870,13100,7.7,No
+EMP1443,Betty Miller,36,Female,Bachelor's,Los Angeles,HR,HR Executive,Full-Time,06 September 2023,2023,1,11,Good,1,2,No,14,80,41680,5300,10.1,Yes
+EMP1444,Christopher Anderson,43,Male,Master's,San Jose,IT,IT Manager,Part-Time,07 May 2022,2022,2,18,Average,1,4,No,19,15,79779,5900,6.3,No
+EMP1445,William Anderson,43,Male,Diploma,Los Angeles,Customer Support,Support Executive,Full-Time,03 February 2022,2022,2,16,Good,4,4,No,10,57,41814,5000,3.3,Yes
+EMP1446,James Anderson,42,Male,Bachelor's,Los Angeles,HR,HR Manager,Full-Time,19 November 2022,2022,2,20,Below Average,1,5,No,0,66,62466,1900,10.4,No
+EMP1447,David Johnson,30,Male,Bachelor's,Phoenix,Finance,Finance Manager,Full-Time,11 January 2022,2022,2,5,Below Average,4,4,No,16,51,100324,2700,8.8,No
+EMP1448,Michael Hernandez,45,Male,Bachelor's,San Jose,Marketing,Marketing Manager,Full-Time,04 July 2023,2023,1,19,Below Average,4,4,No,6,72,58489,1700,13.6,No
+EMP1449,Christopher Wilson,32,Male,Bachelor's,New York,Operations,Supply Chain Analyst,Full-Time,06 August 2021,2021,3,2,Good,3,4,No,5,45,71857,9700,10.7,No
+EMP1450,Christopher Garcia,34,Male,Bachelor's,Los Angeles,Marketing,Marketing Manager,Full-Time,25 March 2023,2023,1,11,Average,5,2,Yes,16,27,45714,2800,9.8,No
+EMP1451,Nancy Martinez,42,Female,Bachelor's,Los Angeles,Customer Support,Support Executive,Full-Time,21 October 2021,2021,3,14,Excellent,2,5,Yes,10,75,45489,7500,8.9,Yes
+EMP1452,James Jones,41,Male,Diploma,Philadelphia,Operations,Logistics Coordinator,Full-Time,26 November 2021,2021,3,19,Excellent,1,4,No,3,53,63636,15100,3.4,No
+EMP1453,Matthew Garcia,40,Male,Master's,Philadelphia,Marketing,Content Strategist,Contract,18 February 2024,2024,0,11,Good,1,1,No,7,6,70777,10100,8.9,No
+EMP1454,David Wilson,28,Male,Master's,New York,Engineering,Software Engineer,Full-Time,06 April 2024,2024,0,3,Average,3,1,Yes,8,42,118349,8400,3.1,No
+EMP1455,Robert Anderson,28,Male,Bachelor's,Los Angeles,Engineering,DevOps Engineer,Full-Time,15 October 2022,2022,2,4,Average,2,5,No,15,62,89398,7200,14.6,No
+EMP1456,Daniel Davis,33,Male,Bachelor's,San Diego,Finance,Accountant,Full-Time,09 February 2022,2022,2,10,Average,1,2,Yes,14,49,109758,8200,11.8,No
+EMP1457,David Brown,39,Male,PhD,San Antonio,Operations,Operations Manager,Full-Time,23 May 2023,2023,1,15,Below Average,3,4,No,5,39,51924,1400,7.4,No
+EMP1458,Mark Johnson,39,Male,Bachelor's,San Antonio,Marketing,Marketing Analyst,Full-Time,01 April 2021,2021,3,15,Average,4,5,Yes,13,65,76210,5200,6.2,No
+EMP1459,William Garcia,41,Male,Bachelor's,New York,HR,Recruiter,Full-Time,21 January 2021,2021,3,13,Good,1,2,No,3,6,52415,6500,9.4,No
+EMP1460,Linda Johnson,48,Female,Bachelor's,Houston,Engineering,Software Engineer,Full-Time,08 May 2021,2021,3,20,Good,3,5,Yes,9,0,83278,11300,11.3,No
+EMP1461,Mark Lopez,32,Male,Bachelor's,San Antonio,Sales,Sales Executive,Full-Time,10 December 2024,2024,0,8,Excellent,2,3,No,2,21,49551,9200,8.5,No
+EMP1462,Jessica Martinez,37,Female,Bachelor's,Chicago,Engineering,Software Engineer,Full-Time,28 August 2021,2021,3,8,Good,1,3,Yes,23,42,72279,10400,13,No
+EMP1463,David Rodriguez,36,Male,Master's,San Jose,Engineering,DevOps Engineer,Full-Time,16 November 2023,2023,1,9,Good,3,5,No,23,2,116219,13000,9.2,No
+EMP1464,Morgan Hernandez,26,Undisclosed,Master's,Phoenix,Engineering,Senior Engineer,Part-Time,16 June 2022,2022,2,1,Good,5,4,No,16,22,126455,16700,5.3,No
+EMP1465,Elizabeth Anderson,40,Female,Bachelor's,San Jose,Marketing,Content Strategist,Contract,19 July 2023,2023,1,14,Good,3,3,No,3,1,47693,6200,13,No
+EMP1466,Jennifer Davis,50,Female,Master's,San Jose,Sales,Business Development Rep,Full-Time,10 September 2022,2022,2,20,Good,4,3,Yes,0,55,64899,6400,6.5,No
+EMP1467,Mary Smith,40,Female,Master's,Phoenix,Engineering,Tech Lead,Full-Time,12 March 2023,2023,1,10,Below Average,4,3,No,7,49,90321,2900,4.7,No
+EMP1468,Mark Johnson,34,Male,Master's,San Antonio,Finance,Controller,Full-Time,20 May 2023,2023,1,10,Average,3,3,Yes,2,38,99493,7800,4.7,No
+EMP1469,Susan Gonzalez,46,Female,Master's,New York,Finance,Controller,Contract,05 February 2024,2024,0,17,Below Average,1,4,No,2,17,88018,2900,8.6,No
+EMP1470,Karen Rodriguez,44,Female,Bachelor's,New York,Sales,Account Manager,Full-Time,20 March 2023,2023,1,18,Excellent,3,1,No,10,76,70733,15100,8.6,No
+EMP1471,Karen Davis,49,Female,Master's,Chicago,Engineering,Software Engineer,Full-Time,04 January 2023,2023,1,19,Average,3,1,Yes,15,79,76949,5400,9.7,No
+EMP1472,James Williams,33,Male,Bachelor's,Chicago,Marketing,Marketing Manager,Part-Time,04 September 2021,2021,3,8,Average,5,3,No,19,56,46615,3200,3.7,No
+EMP1473,Christopher Smith,32,Male,Master's,Phoenix,Engineering,Software Engineer,Full-Time,27 March 2022,2022,2,8,Good,1,4,No,13,54,96260,10600,11,No
+EMP1474,Joseph Johnson,32,Male,Master's,Phoenix,Engineering,Senior Engineer,Full-Time,19 January 2024,2024,0,10,Excellent,2,3,No,16,64,128258,29800,14.6,No
+EMP1475,Daniel Rodriguez,30,Male,Bachelor's,San Antonio,Engineering,Senior Engineer,Full-Time,03 September 2024,2024,0,6,Good,4,4,No,15,77,114471,15700,4.7,No
+EMP1476,Sandra Rodriguez,38,Female,Master's,Los Angeles,Customer Support,Support Lead,Full-Time,23 March 2023,2023,1,11,Good,4,3,Yes,24,29,62193,6100,13.2,No
+EMP1477,Mark Williams,28,Male,Bachelor's,Los Angeles,HR,HR Manager,Full-Time,03 July 2024,2024,0,2,Good,4,2,Yes,20,73,44776,5100,10.6,Yes
+EMP1478,Joseph Davis,34,Male,PhD,New York,Finance,Finance Manager,Part-Time,07 April 2023,2023,1,6,Average,1,3,Yes,24,52,107997,6300,3.3,No
+EMP1479,Christopher Lopez,36,Male,Master's,San Antonio,Customer Support,Support Executive,Part-Time,27 April 2024,2024,0,7,Good,5,1,No,4,66,46681,5700,4.7,Yes
+EMP1480,Joseph Brown,33,Male,Bachelor's,Phoenix,Operations,Supply Chain Analyst,Full-Time,18 October 2021,2021,3,11,Below Average,5,2,No,16,78,63998,1700,11.4,Yes
+EMP1481,James Rodriguez,31,Male,Bachelor's,Philadelphia,Engineering,Tech Lead,Contract,16 October 2021,2021,3,9,Good,1,2,No,15,9,125234,14000,12.2,No
+EMP1482,John Miller,31,Male,Master's,Houston,Sales,Sales Executive,Full-Time,16 September 2021,2021,3,5,Excellent,1,1,No,24,25,51819,10400,10.8,No
+EMP1483,Nancy Smith,37,Female,Bachelor's,Philadelphia,Engineering,DevOps Engineer,Full-Time,13 January 2024,2024,0,13,Good,4,1,No,7,29,125945,12800,4.4,No
+EMP1484,Linda Miller,30,Female,Bachelor's,Phoenix,Operations,Operations Analyst,Full-Time,28 January 2021,2021,3,8,Good,4,4,No,21,15,53304,5800,6.8,No
+EMP1485,Thomas Brown,37,Male,Bachelor's,Dallas,Customer Support,Support Executive,Full-Time,24 December 2024,2024,0,12,Below Average,1,3,Yes,13,79,44919,1500,6.5,No
+EMP1486,Michael Anderson,40,Male,Bachelor's,San Diego,IT,Systems Administrator,Contract,08 September 2022,2022,2,10,Average,1,4,No,1,34,79404,6200,3.4,No
+EMP1487,Barbara Wilson,48,Female,Master's,New York,Engineering,Tech Lead,Full-Time,09 January 2021,2021,3,20,Good,1,5,No,24,44,120146,11800,5.5,No
+EMP1488,Betty Anderson,44,Female,PhD,New York,Operations,Operations Analyst,Part-Time,26 May 2023,2023,1,19,Average,5,4,No,23,36,67344,4900,13.4,No
+EMP1489,Daniel Martinez,40,Male,Bachelor's,Phoenix,Marketing,SEO Specialist,Full-Time,13 March 2023,2023,1,15,Good,4,1,No,19,35,45995,5900,6.3,No
+EMP1490,William Gonzalez,46,Male,PhD,Dallas,HR,Recruiter,Full-Time,10 February 2021,2021,3,19,Good,1,5,No,2,35,51716,5000,3.1,Yes
+EMP1491,Jessica Williams,40,Female,Bachelor's,Dallas,Engineering,Tech Lead,Part-Time,09 May 2023,2023,1,16,Excellent,5,3,Yes,1,70,92871,19500,3.6,No
+EMP1492,Daniel Jones,42,Male,Master's,Philadelphia,Engineering,Senior Engineer,Full-Time,22 January 2023,2023,1,12,Good,4,1,Yes,20,54,100762,10000,8.3,No
+EMP1493,David Martinez,41,Male,Diploma,New York,Engineering,Tech Lead,Full-Time,14 June 2023,2023,1,12,Good,2,3,No,16,65,108543,11300,3.5,No
+EMP1494,Susan Wilson,33,Female,PhD,San Jose,Sales,Account Manager,Full-Time,24 November 2021,2021,3,5,Excellent,4,5,No,23,15,87546,14500,14.2,No
+EMP1495,Lisa Rodriguez,33,Female,Diploma,Los Angeles,Engineering,Software Engineer,Full-Time,09 June 2024,2024,0,7,Good,4,4,No,11,10,113081,15000,7.3,No
+EMP1496,Patricia Anderson,45,Female,Bachelor's,San Antonio,Finance,Accountant,Full-Time,16 November 2023,2023,1,20,Good,2,5,Yes,8,36,82449,11200,14.8,No
+EMP1497,John Miller,48,Male,Master's,Dallas,Engineering,Tech Lead,Full-Time,05 September 2024,2024,0,19,Average,4,1,Yes,4,4,95965,7700,3.2,No
+EMP1498,Robert Johnson,45,Male,Diploma,Philadelphia,Sales,Business Development Rep,Full-Time,28 September 2022,2022,2,17,Excellent,5,1,No,23,5,68223,14700,5.9,No
+EMP1499,Elizabeth Davis,40,Female,PhD,Chicago,Marketing,Marketing Analyst,Part-Time,15 November 2024,2024,0,14,Average,5,5,No,11,58,53821,4100,10.1,No
+EMP1500,Robert Rodriguez,39,Male,Bachelor's,San Antonio,Sales,Business Development Rep,Full-Time,08 February 2023,2023,1,10,Good,2,2,Yes,1,26,81970,9900,9.1,No
+EMP1501,Charles Anderson,34,Male,Bachelor's,San Jose,HR,L&D Specialist,Full-Time,12 February 2023,2023,1,10,Good,2,3,Yes,4,12,57946,6200,5,No
+EMP1502,Sarah Gonzalez,32,Female,Master's,San Jose,Sales,Sales Manager,Full-Time,20 January 2022,2022,2,2,Excellent,4,5,No,4,58,57788,13100,3.3,No
+EMP1503,Nancy Lopez,42,Female,Bachelor's,Houston,Engineering,Tech Lead,Full-Time,14 August 2021,2021,3,16,Below Average,3,2,Yes,16,42,87933,2900,4.4,Yes
+EMP1504,Daniel Rodriguez,33,Male,Bachelor's,New York,HR,Recruiter,Full-Time,23 December 2021,2021,3,11,Good,5,4,Yes,7,25,74163,10100,10.9,No
+EMP1505,Joseph Wilson,34,Male,Bachelor's,Dallas,Sales,Account Manager,Full-Time,16 December 2022,2022,2,10,Below Average,2,1,Yes,13,33,50813,1700,12,Yes
+EMP1506,Linda Hernandez,32,Female,PhD,Phoenix,Finance,Controller,Full-Time,17 August 2023,2023,1,6,Average,1,3,No,13,57,74144,5200,10.6,No
+EMP1507,Richard Johnson,31,Male,Master's,Houston,Sales,Account Manager,Full-Time,11 August 2022,2022,2,4,Excellent,3,5,No,6,52,91191,21000,13.1,No
+EMP1508,Elizabeth Jones,43,Female,Bachelor's,San Antonio,Marketing,Marketing Analyst,Full-Time,13 July 2023,2023,1,15,Good,2,5,No,6,80,48580,6400,7.1,No
+EMP1509,Karen Martinez,40,Female,High School,Dallas,Sales,Sales Executive,Full-Time,20 March 2023,2023,1,18,Average,1,5,No,6,46,46383,2700,11.5,No
+EMP1510,Quinn Miller,33,Undisclosed,Bachelor's,Dallas,Engineering,Senior Engineer,Full-Time,26 May 2022,2022,2,6,Good,4,4,No,1,20,98261,10600,3.2,No
+EMP1511,Michael Hernandez,32,Male,Master's,San Antonio,Engineering,Tech Lead,Full-Time,09 January 2022,2022,2,4,Average,5,5,No,4,12,87195,7000,13.3,Yes
+EMP1512,Charles Wilson,39,Male,Bachelor's,Los Angeles,Engineering,DevOps Engineer,Full-Time,14 June 2023,2023,1,17,Good,4,5,Yes,8,61,130149,14100,10.9,No
+EMP1513,Sarah Rodriguez,44,Female,High School,San Diego,Operations,Supply Chain Analyst,Full-Time,01 July 2022,2022,2,16,Average,5,1,No,20,39,80820,5500,9.9,Yes
+EMP1514,Christopher Johnson,36,Male,Master's,Houston,Engineering,Tech Lead,Full-Time,06 September 2021,2021,3,7,Excellent,4,3,No,13,39,80995,17000,8.7,No
+EMP1515,Mary Garcia,37,Female,PhD,Dallas,Operations,Supply Chain Analyst,Part-Time,09 January 2024,2024,0,7,Good,1,1,No,13,9,80755,11500,5.8,No
+EMP1516,James Williams,38,Male,Bachelor's,San Antonio,Operations,Logistics Coordinator,Full-Time,07 March 2021,2021,3,15,Good,3,1,No,13,37,72799,9200,9.3,No
+EMP1517,Karen Anderson,30,Female,Bachelor's,Houston,Engineering,Tech Lead,Contract,21 October 2023,2023,1,6,Average,2,2,No,16,60,96799,8000,7.5,No
+EMP1518,Robert Williams,35,Male,Bachelor's,Philadelphia,Sales,Sales Executive,Full-Time,01 February 2024,2024,0,10,Good,2,3,Yes,20,1,51150,5700,3.7,No
+EMP1519,Anthony Anderson,37,Male,Master's,Los Angeles,Sales,Sales Manager,Full-Time,24 October 2024,2024,0,10,Below Average,3,2,No,8,72,71428,2200,10.7,Yes
+EMP1520,Thomas Martinez,45,Male,High School,Los Angeles,Marketing,Marketing Analyst,Contract,19 June 2024,2024,0,19,Average,5,2,No,4,21,85362,5900,5,No
+EMP1521,Elizabeth Johnson,43,Female,Master's,San Diego,IT,Systems Administrator,Full-Time,17 March 2021,2021,3,15,Good,5,3,No,16,10,76436,10100,5.9,No
+EMP1522,Lisa Wilson,44,Female,Bachelor's,Philadelphia,Engineering,Senior Engineer,Part-Time,05 December 2023,2023,1,14,Average,3,4,Yes,6,78,102838,7400,8.2,No
+EMP1523,Robert Anderson,42,Male,Bachelor's,San Jose,Finance,Finance Manager,Full-Time,15 April 2021,2021,3,12,Good,3,4,No,12,5,93416,9400,7.4,No
+EMP1524,James Martinez,49,Male,Master's,San Jose,Operations,Supply Chain Analyst,Part-Time,16 December 2021,2021,3,20,Average,2,2,No,4,10,76027,5600,9.5,No
+EMP1525,Patricia Smith,29,Female,Bachelor's,Philadelphia,Finance,Controller,Part-Time,23 November 2024,2024,0,2,Good,2,5,No,23,46,90657,12400,10.9,No
+EMP1526,Susan Miller,41,Female,Master's,New York,Operations,Operations Analyst,Full-Time,07 February 2021,2021,3,17,Excellent,5,3,No,3,43,50502,8300,10.3,No
+EMP1527,Nancy Johnson,27,Female,Master's,Philadelphia,IT,Systems Administrator,Full-Time,04 February 2024,2024,0,3,Good,2,3,Yes,21,24,67167,8500,3.2,No
+EMP1528,Richard Lopez,32,Male,Bachelor's,Los Angeles,Sales,Sales Manager,Full-Time,09 March 2023,2023,1,5,Good,5,3,No,11,66,57336,6100,14.8,No
+EMP1529,Lisa Wilson,47,Female,Bachelor's,Houston,Sales,Business Development Rep,Full-Time,27 January 2022,2022,2,19,Good,5,5,No,23,34,82271,10700,7.2,No
+EMP1530,Michael Jones,25,Male,Master's,San Jose,Sales,Sales Executive,Contract,09 August 2022,2022,2,2,Excellent,3,1,No,20,45,86360,14800,10,No
+EMP1531,Joseph Garcia,33,Male,Bachelor's,San Antonio,Sales,Sales Executive,Full-Time,04 November 2023,2023,1,6,Good,4,2,No,8,47,75594,10000,8.3,No
+EMP1532,Richard Jones,40,Male,Bachelor's,Phoenix,Finance,Accountant,Part-Time,25 April 2021,2021,3,17,Good,5,2,Yes,18,17,105729,13100,10.1,No
+EMP1533,Betty Smith,32,Female,Master's,Chicago,HR,HR Manager,Full-Time,26 May 2021,2021,3,5,Good,2,4,No,2,31,50835,6500,5.4,No
+EMP1534,Margaret Gonzalez,33,Female,Bachelor's,Los Angeles,Engineering,Senior Engineer,Full-Time,16 January 2023,2023,1,6,Average,3,2,No,12,41,121648,9900,11,No
+EMP1535,Nancy Wilson,41,Female,Bachelor's,Philadelphia,Finance,Accountant,Full-Time,13 October 2024,2024,0,18,Average,5,1,No,19,76,98901,7200,5.7,No
+EMP1536,Lisa Brown,27,Female,Bachelor's,San Diego,Operations,Logistics Coordinator,Full-Time,07 August 2022,2022,2,2,Good,4,2,No,5,50,51085,6500,8.1,No
+EMP1537,John Garcia,35,Male,Bachelor's,San Antonio,Sales,Sales Executive,Full-Time,28 November 2021,2021,3,13,Good,1,3,No,13,33,53437,6100,8.5,No
+EMP1538,Betty Anderson,43,Female,PhD,Los Angeles,HR,HR Executive,Full-Time,12 September 2024,2024,0,16,Excellent,3,5,No,8,25,63911,11100,8.1,No
+EMP1539,Joseph Jones,45,Male,Bachelor's,Dallas,Operations,Logistics Coordinator,Full-Time,28 February 2021,2021,3,16,Average,3,3,No,13,2,84277,5300,7,No
+EMP1540,Christopher Smith,32,Male,Master's,Phoenix,Sales,Business Development Rep,Full-Time,24 June 2021,2021,3,2,Excellent,4,5,No,7,67,61294,12400,4.5,No
+EMP1541,David Garcia,32,Male,Master's,Phoenix,Operations,Logistics Coordinator,Full-Time,20 March 2021,2021,3,4,Good,1,4,Yes,3,24,50161,6300,6.6,No
+EMP1542,Reese Rodriguez,29,Undisclosed,Master's,New York,IT,IT Manager,Full-Time,26 December 2022,2022,2,2,Average,2,3,Yes,8,0,69103,4700,12,No
+EMP1543,Matthew Miller,42,Male,Bachelor's,San Diego,Sales,Business Development Rep,Full-Time,09 May 2022,2022,2,15,Excellent,5,3,No,17,49,59734,11100,3.8,No
+EMP1544,Mary Garcia,39,Female,Master's,San Jose,Sales,Business Development Rep,Contract,12 June 2023,2023,1,15,Good,4,5,No,11,10,93665,11400,5,No
+EMP1545,Sarah Garcia,40,Female,Master's,New York,Engineering,Senior Engineer,Full-Time,25 May 2023,2023,1,11,Excellent,3,5,No,23,62,73875,15300,10.5,No
+EMP1546,Thomas Williams,27,Male,Bachelor's,San Antonio,Finance,Finance Manager,Full-Time,28 October 2024,2024,0,4,Below Average,3,2,No,13,76,68848,2100,5.1,Yes
+EMP1547,David Hernandez,41,Male,Master's,Chicago,IT,IT Manager,Contract,22 November 2021,2021,3,11,Good,2,4,No,9,0,80701,9300,12.1,No
+EMP1548,Lisa Williams,42,Female,Bachelor's,San Antonio,Engineering,Tech Lead,Contract,19 July 2021,2021,3,14,Good,3,5,No,7,21,73806,7600,10.4,No
+EMP1549,Elizabeth Smith,31,Female,Master's,Phoenix,Finance,Controller,Full-Time,17 September 2024,2024,0,7,Average,1,2,No,18,59,102386,6200,14.2,No
+EMP1550,Charles Davis,40,Male,PhD,New York,Sales,Business Development Rep,Full-Time,15 March 2022,2022,2,17,Average,4,5,Yes,15,49,66709,5400,5.9,No
+EMP1551,Barbara Anderson,50,Female,Master's,New York,Finance,Financial Analyst,Full-Time,25 December 2021,2021,3,20,Good,5,4,No,13,15,83738,11000,6.5,No
+EMP1552,William Gonzalez,40,Male,Master's,Los Angeles,HR,HR Executive,Full-Time,06 December 2021,2021,3,12,Below Average,4,2,No,24,33,49302,1700,5.5,Yes
+EMP1553,Joseph Garcia,45,Male,Master's,Phoenix,Sales,Account Manager,Full-Time,09 December 2024,2024,0,19,Excellent,2,5,No,20,39,94894,19100,3.3,No
+EMP1554,Lisa Jones,29,Female,Master's,New York,Operations,Logistics Coordinator,Full-Time,26 December 2022,2022,2,5,Good,5,5,Yes,12,61,70180,7500,13.2,No
+EMP1555,Taylor Martinez,42,Undisclosed,Master's,Philadelphia,Customer Support,Support Lead,Full-Time,12 September 2023,2023,1,13,Good,2,2,No,4,35,63533,6600,13.8,Yes
+EMP1556,Elizabeth Davis,31,Female,Diploma,Phoenix,HR,HR Executive,Full-Time,21 October 2024,2024,0,1,Good,5,5,No,2,7,53273,5200,10.5,No
+EMP1557,Linda Brown,33,Female,Master's,Los Angeles,Sales,Business Development Rep,Contract,06 December 2023,2023,1,8,Excellent,2,5,No,9,7,74888,17800,6.2,No
+EMP1558,Charles Gonzalez,40,Male,Bachelor's,San Jose,IT,Network Engineer,Full-Time,04 August 2024,2024,0,18,Excellent,4,3,Yes,18,1,96543,19100,8.3,No
+EMP1559,Patricia Lopez,48,Female,High School,Dallas,Operations,Logistics Coordinator,Full-Time,07 November 2024,2024,0,19,Average,3,3,No,17,31,61498,4500,8.9,No
+EMP1560,Thomas Rodriguez,28,Male,Master's,Phoenix,Engineering,Tech Lead,Full-Time,15 November 2023,2023,1,4,Average,4,3,No,20,68,111839,7900,8.9,No
+EMP1561,John Gonzalez,43,Male,Bachelor's,Philadelphia,Engineering,Senior Engineer,Full-Time,10 April 2022,2022,2,17,Good,4,2,No,5,78,139520,18000,14.1,No
+EMP1562,Thomas Davis,34,Male,Master's,Phoenix,Engineering,Senior Engineer,Full-Time,09 December 2024,2024,0,8,Good,4,4,No,0,51,109795,12200,11.7,No
+EMP1563,Riley Hernandez,31,Undisclosed,PhD,San Antonio,Marketing,Marketing Analyst,Full-Time,25 August 2022,2022,2,9,Good,5,2,No,6,79,58252,7600,6.5,No
+EMP1564,Patricia Johnson,45,Female,High School,San Jose,Engineering,DevOps Engineer,Full-Time,11 March 2022,2022,2,16,Average,1,1,Yes,1,43,76029,5100,14.5,No
+EMP1565,Jessica Anderson,28,Female,Bachelor's,San Diego,Operations,Supply Chain Analyst,Full-Time,16 February 2023,2023,1,5,Average,5,5,No,24,33,72117,5800,10.1,No
+EMP1566,Jennifer Gonzalez,38,Female,Diploma,Houston,Operations,Supply Chain Analyst,Full-Time,23 December 2021,2021,3,11,Average,3,3,No,19,2,74218,4600,6.9,No
+EMP1567,Richard Miller,32,Male,Bachelor's,Philadelphia,Sales,Sales Manager,Full-Time,26 August 2024,2024,0,2,Good,4,3,No,18,42,78571,9700,14.9,No
+EMP1568,Karen Johnson,40,Female,Master's,Phoenix,IT,IT Analyst,Full-Time,06 September 2021,2021,3,17,Good,2,3,No,2,23,85700,12300,12,No
+EMP1569,Matthew Lopez,45,Male,Bachelor's,San Jose,Finance,Accountant,Full-Time,13 January 2024,2024,0,19,Good,3,5,No,14,25,109278,10500,6.9,No
+EMP1570,Nancy Wilson,30,Female,Bachelor's,Los Angeles,Operations,Supply Chain Analyst,Full-Time,25 April 2022,2022,2,5,Excellent,3,2,No,21,26,51612,10700,13.1,No
+EMP1571,Richard Jones,34,Male,Bachelor's,Houston,Finance,Finance Manager,Full-Time,25 April 2022,2022,2,12,Excellent,4,4,No,12,25,83812,19800,3.3,No
+EMP1572,Karen Wilson,47,Female,Bachelor's,Houston,Engineering,Senior Engineer,Full-Time,06 February 2021,2021,3,17,Excellent,1,5,No,11,61,97477,19400,10.3,No
+EMP1573,Joseph Smith,42,Male,High School,Phoenix,Operations,Supply Chain Analyst,Full-Time,26 July 2021,2021,3,14,Good,1,4,No,15,2,51557,7300,13,No
+EMP1574,Sandra Garcia,32,Female,Master's,Houston,IT,IT Manager,Part-Time,28 March 2021,2021,3,8,Good,3,3,No,19,53,63385,6500,8.6,Yes
+EMP1575,Robert Anderson,33,Male,Diploma,Phoenix,Engineering,Senior Engineer,Full-Time,26 December 2022,2022,2,6,Average,1,1,No,10,3,84338,4800,5.4,No
+EMP1576,Anthony Williams,43,Male,Bachelor's,San Diego,Operations,Logistics Coordinator,Full-Time,18 January 2024,2024,0,13,Excellent,4,5,Yes,14,17,51561,12000,4.1,No
+EMP1577,Joseph Anderson,45,Male,High School,Houston,Marketing,Marketing Analyst,Full-Time,11 March 2023,2023,1,18,Average,2,2,Yes,21,10,88806,6200,12,No
+EMP1578,Barbara Anderson,33,Female,Master's,Phoenix,Marketing,Marketing Analyst,Full-Time,08 April 2021,2021,3,9,Good,2,3,No,13,47,64733,9200,11,No
+EMP1579,Sandra Wilson,35,Female,PhD,New York,Engineering,Senior Engineer,Full-Time,26 December 2021,2021,3,13,Excellent,4,3,No,6,80,93877,19800,13,No
+EMP1580,Michael Davis,30,Male,Master's,San Diego,Operations,Logistics Coordinator,Full-Time,15 September 2023,2023,1,4,Below Average,4,1,No,21,43,78717,2200,13.7,Yes
+EMP1581,David Miller,29,Male,High School,Dallas,Engineering,Tech Lead,Contract,05 September 2021,2021,3,4,Excellent,1,5,No,5,50,84566,18400,4.5,No
+EMP1582,Christopher Brown,42,Male,Master's,Dallas,Customer Support,Support Lead,Full-Time,24 April 2021,2021,3,12,Good,2,1,No,21,21,39973,4900,3.6,No
+EMP1583,Betty Lopez,39,Female,Bachelor's,Chicago,Operations,Operations Manager,Full-Time,20 September 2022,2022,2,14,Good,3,1,No,2,32,71271,9900,14.7,No
+EMP1584,Daniel Martinez,38,Male,Bachelor's,San Antonio,Sales,Account Manager,Full-Time,25 January 2021,2021,3,14,Average,2,2,No,11,9,55502,4400,14.4,No
+EMP1585,Casey Williams,43,Undisclosed,Bachelor's,Los Angeles,Customer Support,Support Lead,Full-Time,24 February 2024,2024,0,19,Average,5,4,No,7,56,39666,3100,3.1,No
+EMP1586,Sarah Lopez,37,Female,Diploma,San Diego,Engineering,Tech Lead,Full-Time,03 March 2024,2024,0,11,Good,2,5,No,3,11,75370,10500,4.4,No
+EMP1587,Anthony Hernandez,36,Male,Master's,Phoenix,Marketing,Content Strategist,Contract,14 December 2024,2024,0,14,Average,1,1,No,3,62,63363,4800,13.9,No
+EMP1588,Linda Martinez,33,Female,Master's,San Jose,HR,HR Manager,Part-Time,09 November 2024,2024,0,4,Good,1,5,No,3,15,77068,9300,14.1,No
+EMP1589,Christopher Lopez,29,Male,Master's,San Antonio,Engineering,Senior Engineer,Full-Time,23 July 2024,2024,0,2,Average,1,2,No,18,23,127703,9200,9.3,No
+EMP1590,Elizabeth Johnson,30,Female,PhD,New York,Sales,Sales Executive,Full-Time,26 July 2023,2023,1,1,Good,3,2,Yes,6,71,61614,7900,7.2,No
+EMP1591,Betty Garcia,30,Female,Bachelor's,Los Angeles,Customer Support,Customer Success Manager,Full-Time,28 August 2022,2022,2,3,Average,3,5,Yes,15,23,52636,4200,5.7,No
+EMP1592,Anthony Lopez,42,Male,PhD,Dallas,Sales,Business Development Rep,Full-Time,11 June 2024,2024,0,15,Good,5,5,No,5,50,56045,5700,10,No
+EMP1593,John Lopez,41,Male,Bachelor's,San Jose,Engineering,Software Engineer,Contract,05 May 2024,2024,0,11,Below Average,3,2,Yes,14,5,87436,2200,14.5,No
+EMP1594,Lisa Jones,33,Female,Diploma,San Jose,Operations,Operations Manager,Full-Time,08 August 2021,2021,3,8,Good,4,4,Yes,17,70,73859,7900,3.1,No
+EMP1595,Anthony Rodriguez,39,Male,Master's,Philadelphia,Engineering,Senior Engineer,Full-Time,19 November 2024,2024,0,13,Average,1,2,No,10,31,117706,7500,7.4,No
+EMP1596,Mark Gonzalez,29,Male,Master's,New York,Customer Support,Support Lead,Full-Time,11 September 2024,2024,0,4,Average,4,4,Yes,18,55,58513,4900,12.9,No
+EMP1597,Jennifer Smith,29,Female,Master's,New York,Finance,Financial Analyst,Full-Time,21 September 2024,2024,0,2,Excellent,4,4,No,22,17,101288,21700,3.8,No
+EMP1598,Joseph Jones,49,Male,Diploma,New York,Engineering,DevOps Engineer,Full-Time,08 June 2023,2023,1,19,Average,3,5,No,3,9,88904,7400,10,No
+EMP1599,Nancy Williams,30,Female,Bachelor's,San Antonio,Sales,Sales Executive,Part-Time,20 April 2022,2022,2,6,Average,4,4,No,4,43,77438,5100,4.1,No
+EMP1600,David Williams,27,Male,Bachelor's,Dallas,IT,Network Engineer,Full-Time,16 May 2024,2024,0,3,Good,5,1,No,17,7,68146,9800,10.6,No
+EMP1601,James Rodriguez,39,Male,Bachelor's,Chicago,Sales,Account Manager,Full-Time,11 January 2021,2021,3,13,Good,3,1,No,21,19,82229,11300,14.5,No
+EMP1602,Sandra Davis,37,Female,Master's,Los Angeles,Finance,Accountant,Full-Time,05 September 2022,2022,2,15,Average,2,5,No,16,21,90231,7100,4.4,No
+EMP1603,Charles Williams,46,Male,PhD,San Diego,Marketing,Marketing Analyst,Full-Time,22 August 2023,2023,1,18,Average,4,1,No,11,7,52627,3000,6,No
+EMP1604,Sandra Hernandez,41,Female,Master's,Houston,Operations,Logistics Coordinator,Full-Time,03 September 2021,2021,3,11,Good,4,4,Yes,13,48,79860,10600,10.7,No
+EMP1605,Joseph Johnson,48,Male,Bachelor's,Los Angeles,Finance,Financial Analyst,Full-Time,16 September 2023,2023,1,20,Average,5,5,Yes,17,22,106534,8300,11.4,No
+EMP1606,Sarah Smith,34,Female,High School,Dallas,Finance,Accountant,Full-Time,13 May 2021,2021,3,7,Average,1,2,No,3,58,58436,4400,8.2,No
+EMP1607,Nancy Garcia,41,Female,Master's,New York,Marketing,Marketing Manager,Contract,07 December 2021,2021,3,16,Excellent,3,2,No,12,29,85174,19900,5.5,No
+EMP1608,Susan Smith,34,Female,Diploma,Phoenix,Operations,Supply Chain Analyst,Full-Time,20 March 2022,2022,2,8,Average,1,4,No,13,48,72711,5500,13.8,No
+EMP1609,Linda Wilson,29,Female,Bachelor's,San Diego,Sales,Account Manager,Full-Time,20 May 2024,2024,0,1,Excellent,5,3,Yes,5,32,74434,16000,3.8,No
+EMP1610,William Jones,32,Male,PhD,San Diego,Engineering,DevOps Engineer,Full-Time,25 February 2023,2023,1,4,Below Average,1,2,No,1,49,96493,3000,9,Yes
+EMP1611,Daniel Gonzalez,47,Male,Bachelor's,Houston,Finance,Finance Manager,Full-Time,14 April 2021,2021,3,20,Good,1,5,No,0,19,64355,8600,11,No
+EMP1612,Barbara Anderson,29,Female,Bachelor's,New York,Engineering,Tech Lead,Part-Time,15 June 2022,2022,2,7,Below Average,1,2,No,19,67,90066,2700,5.7,No
+EMP1613,Jennifer Rodriguez,31,Female,Master's,Los Angeles,HR,Recruiter,Full-Time,04 January 2023,2023,1,3,Good,1,4,Yes,0,72,41144,4300,14.2,No
+EMP1614,Betty Martinez,32,Female,Bachelor's,San Antonio,Marketing,Marketing Analyst,Full-Time,25 April 2021,2021,3,2,Average,2,4,No,19,32,87523,6100,9.9,No
+EMP1615,Avery Davis,37,Undisclosed,Bachelor's,New York,Marketing,Content Strategist,Full-Time,18 August 2022,2022,2,12,Average,3,2,Yes,1,58,86752,7200,7.7,No
+EMP1616,Sarah Wilson,37,Female,Diploma,Philadelphia,Engineering,DevOps Engineer,Full-Time,05 July 2022,2022,2,12,Average,4,2,No,23,67,125199,8600,8.4,No
+EMP1617,Daniel Brown,47,Male,Diploma,San Diego,Operations,Operations Manager,Full-Time,22 December 2022,2022,2,20,Average,4,3,No,24,79,80927,6300,7.5,No
+EMP1618,Michael Garcia,45,Male,Bachelor's,San Jose,Engineering,DevOps Engineer,Full-Time,13 November 2022,2022,2,17,Excellent,4,5,No,6,19,128062,22600,9.8,No
+EMP1619,Michael Wilson,50,Male,Master's,New York,Finance,Controller,Full-Time,11 August 2022,2022,2,20,Average,1,3,No,11,25,57313,4500,4,Yes
+EMP1620,Barbara Wilson,40,Female,Master's,San Antonio,Engineering,Senior Engineer,Full-Time,20 June 2021,2021,3,11,Good,5,4,Yes,5,71,92966,9400,9.7,No
+EMP1621,Barbara Lopez,34,Female,Bachelor's,Philadelphia,Engineering,DevOps Engineer,Contract,22 February 2022,2022,2,5,Excellent,5,5,Yes,5,57,75161,14300,7.6,No
+EMP1622,Reese Garcia,27,Undisclosed,Bachelor's,Houston,Sales,Sales Executive,Contract,12 February 2023,2023,1,3,Average,3,3,No,22,10,64667,5300,4.3,No
+EMP1623,Betty Davis,38,Female,Bachelor's,Chicago,Sales,Account Manager,Full-Time,19 October 2021,2021,3,14,Excellent,2,3,No,8,57,61561,11200,9.2,No
+EMP1624,William Lopez,41,Male,Bachelor's,San Antonio,Sales,Business Development Rep,Full-Time,03 November 2024,2024,0,11,Excellent,3,4,No,10,46,85905,17700,6.6,No
+EMP1625,David Williams,43,Male,Master's,Dallas,Marketing,SEO Specialist,Part-Time,09 December 2023,2023,1,18,Excellent,1,2,No,24,13,62476,12200,11.1,No
+EMP1626,David Johnson,31,Male,Diploma,San Jose,Operations,Operations Manager,Full-Time,26 October 2022,2022,2,8,Average,4,3,Yes,21,13,45632,3500,7.1,No
+EMP1627,Robert Brown,25,Male,Bachelor's,San Diego,Sales,Sales Executive,Part-Time,03 March 2021,2021,3,3,Good,4,5,No,22,23,89931,8800,4,No
+EMP1628,Christopher Martinez,39,Male,Bachelor's,Los Angeles,Engineering,DevOps Engineer,Full-Time,06 August 2021,2021,3,17,Good,3,2,Yes,5,50,95915,13300,9.9,No
+EMP1629,Sarah Hernandez,36,Female,Master's,New York,Marketing,Content Strategist,Full-Time,14 April 2023,2023,1,9,Excellent,3,1,Yes,19,55,79770,18400,11.2,No
+EMP1630,Sandra Lopez,30,Female,Master's,Philadelphia,Finance,Financial Analyst,Full-Time,24 January 2024,2024,0,3,Average,4,3,No,15,38,78689,5700,14.5,No
+EMP1631,Daniel Brown,29,Male,Bachelor's,San Diego,IT,Systems Administrator,Full-Time,06 October 2022,2022,2,2,Good,2,4,No,13,3,85254,11400,14.3,No
+EMP1632,Susan Wilson,29,Female,PhD,San Diego,Marketing,Marketing Manager,Full-Time,12 July 2022,2022,2,1,Below Average,3,2,Yes,0,63,88369,2300,14.4,Yes
+EMP1633,Anthony Wilson,45,Male,Bachelor's,San Diego,Engineering,DevOps Engineer,Full-Time,07 April 2023,2023,1,16,Good,2,2,No,16,63,90948,11600,7.2,No
+EMP1634,James Jones,38,Male,Master's,Philadelphia,Sales,Sales Manager,Full-Time,21 June 2022,2022,2,10,Excellent,4,1,No,0,57,84263,15400,11.7,No
+EMP1635,Michael Garcia,42,Male,Master's,San Jose,Sales,Account Manager,Contract,21 June 2022,2022,2,16,Average,2,5,No,19,30,82828,6300,13.8,No
+EMP1636,Joseph Anderson,32,Male,PhD,Phoenix,Engineering,Senior Engineer,Full-Time,17 June 2021,2021,3,4,Excellent,4,2,No,24,35,112159,22400,10.2,No
+EMP1637,Matthew Smith,28,Male,Bachelor's,San Jose,Sales,Sales Manager,Part-Time,08 April 2024,2024,0,1,Good,2,2,No,19,77,85675,8800,6.3,No
+EMP1638,James Lopez,43,Male,Bachelor's,New York,Sales,Sales Executive,Full-Time,26 September 2022,2022,2,17,Good,4,1,Yes,11,59,69642,9400,3.1,No
+EMP1639,Richard Rodriguez,34,Male,Diploma,New York,Marketing,Marketing Manager,Full-Time,15 October 2022,2022,2,11,Good,3,5,Yes,15,47,74880,9700,8.4,No
+EMP1640,Daniel Miller,39,Male,Bachelor's,Chicago,Engineering,Senior Engineer,Full-Time,14 November 2021,2021,3,11,Good,1,2,No,4,13,74526,8300,12.1,Yes
+EMP1641,Linda Johnson,31,Female,Bachelor's,Chicago,IT,Network Engineer,Full-Time,11 June 2023,2023,1,3,Good,1,2,No,14,20,59559,7300,9.3,No
+EMP1642,Margaret Jones,40,Female,Bachelor's,Chicago,HR,HR Executive,Full-Time,02 April 2022,2022,2,18,Good,3,4,No,24,50,54779,5400,12.1,No
+EMP1643,William Davis,44,Male,Bachelor's,San Jose,Finance,Financial Analyst,Part-Time,23 November 2021,2021,3,14,Good,5,2,No,12,27,68115,7200,10,Yes
+EMP1644,Sandra Hernandez,42,Female,Bachelor's,Phoenix,Sales,Sales Manager,Full-Time,18 May 2023,2023,1,12,Average,4,5,No,20,65,58211,3700,5.3,No
+EMP1645,John Smith,32,Male,PhD,Philadelphia,Customer Support,Support Analyst,Full-Time,24 February 2024,2024,0,7,Average,2,5,No,8,27,59107,4700,11.1,No
+EMP1646,Michael Wilson,44,Male,Master's,Houston,Marketing,Marketing Analyst,Full-Time,07 June 2022,2022,2,16,Below Average,1,1,Yes,0,79,75007,2300,5,No
+EMP1647,Barbara Anderson,37,Female,Bachelor's,San Antonio,Customer Support,Support Executive,Full-Time,15 May 2021,2021,3,13,Good,3,1,Yes,3,38,47060,4900,8.1,No
+EMP1648,Mark Anderson,30,Male,Bachelor's,Phoenix,HR,HR Manager,Full-Time,21 February 2022,2022,2,1,Excellent,5,4,No,2,19,47378,8500,13.4,No
+EMP1649,Christopher Miller,43,Male,Bachelor's,Phoenix,Marketing,Marketing Manager,Full-Time,16 January 2021,2021,3,14,Good,2,3,Yes,0,34,45869,4500,3.8,No
+EMP1650,Joseph Gonzalez,47,Male,Master's,Philadelphia,Engineering,Senior Engineer,Full-Time,02 November 2021,2021,3,19,Average,4,5,Yes,5,47,134032,10200,11.9,No
+EMP1651,Sarah Williams,40,Female,Bachelor's,San Diego,Sales,Account Manager,Full-Time,21 December 2023,2023,1,12,Good,4,3,No,13,11,71331,10200,12.2,No
+EMP1652,Elizabeth Anderson,45,Female,Diploma,Philadelphia,Sales,Account Manager,Full-Time,15 November 2023,2023,1,15,Average,2,5,Yes,4,26,55766,3700,14,No
+EMP1653,Richard Anderson,32,Male,Bachelor's,Philadelphia,IT,Systems Administrator,Full-Time,18 September 2021,2021,3,2,Good,3,3,No,17,50,55264,6800,14.3,No
+EMP1654,David Lopez,29,Male,Master's,Dallas,Marketing,SEO Specialist,Full-Time,25 December 2024,2024,0,4,Excellent,4,2,No,2,39,74730,16100,12,No
+EMP1655,Barbara Wilson,29,Female,Bachelor's,San Diego,Operations,Operations Manager,Contract,21 September 2022,2022,2,4,Good,4,3,Yes,21,51,47038,5000,12.9,No
+EMP1656,Barbara Garcia,38,Female,Master's,Philadelphia,Engineering,Software Engineer,Full-Time,07 June 2024,2024,0,10,Good,4,4,No,24,68,132710,16500,11.1,No
+EMP1657,Charles Martinez,29,Male,Bachelor's,Los Angeles,Sales,Sales Executive,Full-Time,16 November 2023,2023,1,1,Average,3,2,Yes,19,60,76945,4500,6,Yes
+EMP1658,Thomas Gonzalez,37,Male,Bachelor's,Chicago,HR,HR Executive,Full-Time,20 April 2024,2024,0,14,Good,5,4,Yes,17,6,48413,6200,3.3,No
+EMP1659,Nancy Rodriguez,34,Female,Bachelor's,San Diego,Sales,Account Manager,Full-Time,15 March 2024,2024,0,10,Good,4,2,Yes,24,48,84395,8500,4.9,No
+EMP1660,Michael Garcia,38,Male,Bachelor's,San Antonio,Sales,Sales Executive,Full-Time,23 April 2024,2024,0,15,Excellent,5,3,No,20,69,54122,12900,10.3,Yes
+EMP1661,James Jones,37,Male,Bachelor's,Chicago,HR,HR Executive,Full-Time,23 September 2024,2024,0,14,Average,2,1,Yes,18,23,57221,4300,8.7,No
+EMP1662,Thomas Garcia,34,Male,Bachelor's,New York,Engineering,Senior Engineer,Full-Time,03 August 2023,2023,1,6,Good,1,1,Yes,16,34,75210,7800,4.6,No
+EMP1663,Matthew Williams,41,Male,Bachelor's,Los Angeles,IT,IT Analyst,Full-Time,28 April 2023,2023,1,16,Good,2,5,No,4,8,86113,9200,5.1,No
+EMP1664,John Martinez,41,Male,Diploma,Houston,Sales,Business Development Rep,Full-Time,21 April 2022,2022,2,14,Good,3,4,No,14,77,62201,8200,3.5,No
+EMP1665,Jennifer Davis,31,Female,Master's,Chicago,Operations,Operations Manager,Full-Time,28 November 2024,2024,0,6,Good,1,3,No,8,50,63849,6400,10.2,No
+EMP1666,Matthew Anderson,45,Male,Diploma,San Jose,HR,Recruiter,Full-Time,27 May 2023,2023,1,18,Good,5,2,No,15,43,70796,8100,13.5,No
+EMP1667,Elizabeth Rodriguez,35,Female,Diploma,Philadelphia,Operations,Operations Analyst,Contract,21 May 2021,2021,3,9,Good,2,3,No,16,52,83956,9300,13.9,No
+EMP1668,Richard Hernandez,31,Male,Bachelor's,Los Angeles,Engineering,Tech Lead,Full-Time,26 October 2022,2022,2,5,Average,3,2,No,6,76,117380,8400,5.5,No
+EMP1669,Christopher Gonzalez,42,Male,Master's,San Antonio,Marketing,Content Strategist,Part-Time,08 June 2024,2024,0,13,Good,4,1,Yes,2,24,82236,9200,6.1,Yes
+EMP1670,Jessica Anderson,39,Female,Bachelor's,Chicago,Marketing,Content Strategist,Full-Time,19 September 2023,2023,1,14,Good,3,1,No,1,8,73030,8700,4.3,No
+EMP1671,Thomas Jones,39,Male,Bachelor's,Houston,Engineering,Tech Lead,Full-Time,24 February 2022,2022,2,14,Excellent,5,5,No,24,34,77848,14600,10.5,No
+EMP1672,Jennifer Smith,38,Female,Master's,Los Angeles,Customer Support,Customer Success Manager,Full-Time,06 April 2023,2023,1,13,Below Average,4,2,No,7,58,35571,900,11.9,No
+EMP1673,Sandra Brown,34,Female,Bachelor's,San Diego,IT,Network Engineer,Full-Time,01 February 2023,2023,1,8,Average,4,5,No,24,48,94303,6500,5.8,No
+EMP1674,Barbara Brown,44,Female,Bachelor's,Los Angeles,Engineering,Software Engineer,Full-Time,26 July 2024,2024,0,17,Good,4,2,Yes,12,26,135409,15500,8.3,No
+EMP1675,Richard Jones,36,Male,Master's,New York,HR,HR Manager,Full-Time,10 December 2022,2022,2,8,Below Average,3,3,No,12,2,70783,2300,9.8,Yes
+EMP1676,Joseph Anderson,36,Male,Bachelor's,Dallas,HR,L&D Specialist,Full-Time,14 February 2024,2024,0,9,Below Average,2,1,No,12,46,64025,1700,4.9,Yes
+EMP1677,Patricia Lopez,40,Female,Bachelor's,Houston,Operations,Operations Analyst,Full-Time,20 February 2022,2022,2,18,Below Average,2,5,No,2,29,79423,2300,6.5,No
+EMP1678,Karen Hernandez,44,Female,Diploma,Phoenix,IT,IT Analyst,Part-Time,18 May 2022,2022,2,16,Excellent,2,5,No,3,59,70482,16700,10.2,Yes
+EMP1679,Jennifer Rodriguez,28,Female,Diploma,New York,Engineering,Tech Lead,Full-Time,26 April 2022,2022,2,1,Good,2,2,Yes,19,47,105695,10300,9.1,Yes
+EMP1680,Joseph Williams,28,Male,Bachelor's,Dallas,Engineering,Tech Lead,Full-Time,08 December 2021,2021,3,6,Excellent,4,5,No,14,66,119469,21900,9.3,No
+EMP1681,Karen Lopez,38,Female,Master's,Los Angeles,Finance,Accountant,Full-Time,17 May 2024,2024,0,14,Excellent,4,4,No,12,38,87750,14300,3.9,No
+EMP1682,Joseph Brown,34,Male,Diploma,Houston,Sales,Account Manager,Contract,14 April 2021,2021,3,5,Average,3,4,Yes,12,59,94725,7000,6.6,No
+EMP1683,Michael Davis,32,Male,Diploma,San Antonio,Sales,Business Development Rep,Full-Time,02 July 2022,2022,2,8,Good,3,3,No,16,70,51637,5100,8.6,No
+EMP1684,Anthony Wilson,36,Male,Bachelor's,New York,Sales,Business Development Rep,Full-Time,12 February 2024,2024,0,11,Excellent,5,3,Yes,0,57,78208,18700,4.8,No
+EMP1685,Charles Davis,37,Male,Bachelor's,Dallas,Sales,Business Development Rep,Full-Time,11 October 2023,2023,1,10,Good,5,5,No,2,19,78881,10900,12.1,No
+EMP1686,Daniel Davis,30,Male,Master's,San Jose,Marketing,SEO Specialist,Full-Time,05 March 2023,2023,1,7,Good,2,4,Yes,17,72,63072,6200,6.6,No
+EMP1687,Morgan Smith,28,Undisclosed,Master's,San Diego,HR,Recruiter,Part-Time,28 March 2021,2021,3,2,Good,3,5,Yes,23,47,44331,6200,5,No
+EMP1688,Barbara Martinez,41,Female,Bachelor's,San Antonio,Engineering,DevOps Engineer,Full-Time,22 November 2023,2023,1,11,Average,3,5,No,9,63,138163,10900,12.3,No
+EMP1689,Charles Jones,35,Male,Bachelor's,Dallas,Engineering,DevOps Engineer,Full-Time,27 February 2023,2023,1,5,Average,4,4,No,18,42,98698,6200,13.9,No
+EMP1690,Robert Martinez,33,Male,Bachelor's,Phoenix,Finance,Accountant,Full-Time,03 November 2024,2024,0,11,Good,4,4,No,18,27,108415,12600,14.7,No
+EMP1691,Michael Jones,33,Male,Bachelor's,Chicago,Finance,Controller,Full-Time,26 October 2022,2022,2,6,Good,4,1,No,22,19,76439,10500,4.2,Yes
+EMP1692,Robert Smith,39,Male,Master's,New York,Marketing,Marketing Analyst,Full-Time,27 May 2022,2022,2,12,Excellent,2,2,No,12,62,50735,11700,7,Yes
+EMP1693,William Martinez,28,Male,Master's,Phoenix,Finance,Financial Analyst,Full-Time,10 October 2021,2021,3,5,Excellent,3,2,Yes,22,60,72038,16000,9.2,No
+EMP1694,Thomas Jones,41,Male,PhD,Chicago,Customer Support,Support Analyst,Full-Time,23 November 2023,2023,1,13,Average,1,5,No,3,18,42704,3400,11,No
+EMP1695,Taylor Williams,38,Undisclosed,Master's,San Jose,Operations,Operations Analyst,Full-Time,25 May 2021,2021,3,11,Good,2,4,No,20,4,76561,7800,10.7,No
+EMP1696,Michael Garcia,37,Male,Bachelor's,Philadelphia,HR,Recruiter,Full-Time,02 January 2021,2021,3,9,Good,4,3,No,24,72,72611,10300,12.4,No
+EMP1697,Matthew Williams,43,Male,Bachelor's,San Antonio,Finance,Finance Manager,Full-Time,03 July 2023,2023,1,16,Good,1,3,No,22,43,64197,8000,14.5,No
+EMP1698,John Davis,41,Male,Bachelor's,New York,IT,IT Manager,Full-Time,05 April 2022,2022,2,11,Average,5,5,No,9,68,80604,6800,10.3,No
+EMP1699,David Smith,32,Male,PhD,San Jose,Engineering,DevOps Engineer,Full-Time,21 October 2024,2024,0,3,Below Average,3,3,No,20,4,124689,4400,10.3,Yes
+EMP1700,Karen Jones,42,Female,Bachelor's,Dallas,Marketing,Marketing Manager,Part-Time,01 May 2024,2024,0,17,Good,5,4,No,0,64,74442,7200,3.6,Yes
+EMP1701,Lisa Smith,48,Female,Bachelor's,Houston,Finance,Accountant,Full-Time,07 October 2024,2024,0,18,Average,4,1,Yes,10,31,62593,5100,7.7,No
+EMP1702,Robert Anderson,36,Male,Bachelor's,Dallas,Customer Support,Support Analyst,Full-Time,22 March 2023,2023,1,10,Good,1,1,Yes,4,15,64686,8500,7.3,No
+EMP1703,Patricia Gonzalez,42,Female,Bachelor's,Los Angeles,Operations,Operations Analyst,Full-Time,04 March 2023,2023,1,15,Good,4,2,Yes,17,32,80035,8200,11,No
+EMP1704,Karen Gonzalez,32,Female,Bachelor's,San Antonio,Sales,Sales Executive,Full-Time,06 February 2021,2021,3,5,Good,4,1,Yes,16,51,90189,10700,14.1,No
+EMP1705,Charles Hernandez,28,Male,PhD,New York,Sales,Sales Manager,Full-Time,24 October 2024,2024,0,3,Good,1,5,No,11,2,77399,9100,6.9,No
+EMP1706,Susan Lopez,38,Female,Bachelor's,Dallas,Engineering,Tech Lead,Full-Time,28 June 2021,2021,3,15,Good,3,1,No,19,4,82579,10200,4.4,No
+EMP1707,Thomas Wilson,26,Male,Diploma,Philadelphia,Operations,Supply Chain Analyst,Part-Time,02 May 2024,2024,0,4,Below Average,1,5,Yes,11,9,88569,2300,6.1,Yes
+EMP1708,William Miller,35,Male,Master's,Phoenix,HR,L&D Specialist,Full-Time,10 January 2021,2021,3,11,Below Average,3,1,Yes,5,73,49006,1500,13.2,Yes
+EMP1709,Patricia Brown,48,Female,Diploma,Dallas,Engineering,Senior Engineer,Full-Time,10 May 2021,2021,3,18,Average,1,4,Yes,24,5,80441,5700,9.9,No
+EMP1710,Susan Johnson,26,Female,Bachelor's,Los Angeles,Sales,Account Manager,Full-Time,24 May 2023,2023,1,2,Excellent,5,5,No,7,10,83555,19300,3.5,No
+EMP1711,Christopher Anderson,30,Male,Bachelor's,San Antonio,Finance,Accountant,Full-Time,26 November 2021,2021,3,1,Excellent,5,3,Yes,18,24,101410,22200,12.9,No
+EMP1712,Mary Miller,38,Female,PhD,Houston,Finance,Controller,Full-Time,22 October 2022,2022,2,13,Good,1,4,Yes,8,77,74182,8600,10.1,No
+EMP1713,John Miller,29,Male,PhD,New York,IT,Systems Administrator,Full-Time,09 December 2022,2022,2,5,Excellent,4,2,No,6,35,93024,19900,4.6,Yes
+EMP1714,Lisa Brown,37,Female,Bachelor's,San Antonio,Marketing,Marketing Analyst,Full-Time,01 December 2021,2021,3,14,Excellent,5,3,No,14,25,74299,16200,12.4,No
+EMP1715,David Brown,37,Male,Bachelor's,Dallas,Marketing,Marketing Manager,Full-Time,16 August 2022,2022,2,9,Good,4,1,No,9,18,45200,4700,12.4,No
+EMP1716,Richard Gonzalez,40,Male,Master's,San Antonio,Sales,Account Manager,Full-Time,26 August 2021,2021,3,17,Good,4,2,No,14,17,67796,7200,5.4,No
+EMP1717,Lisa Davis,41,Female,Bachelor's,Phoenix,Sales,Sales Executive,Full-Time,18 April 2024,2024,0,17,Good,1,1,No,18,13,92267,10000,4.2,No
+EMP1718,Barbara Gonzalez,50,Female,Diploma,Dallas,Engineering,Senior Engineer,Full-Time,18 November 2022,2022,2,20,Below Average,3,1,No,15,24,135147,3200,14.5,Yes
+EMP1719,William Lopez,34,Male,Master's,Philadelphia,Engineering,Senior Engineer,Full-Time,23 May 2024,2024,0,9,Excellent,2,5,Yes,10,63,116777,23100,5.4,No
+EMP1720,Thomas Smith,30,Male,Bachelor's,Dallas,Engineering,Senior Engineer,Full-Time,19 February 2021,2021,3,5,Good,2,2,No,23,27,75751,8800,15,Yes
+EMP1721,James Jones,30,Male,Master's,Phoenix,Sales,Sales Manager,Full-Time,14 October 2021,2021,3,4,Average,5,2,Yes,1,60,74480,4400,14.1,No
+EMP1722,Lisa Gonzalez,35,Female,Diploma,Philadelphia,IT,IT Manager,Contract,27 August 2021,2021,3,7,Excellent,4,5,No,22,21,61559,12700,14.1,No
+EMP1723,Lisa Martinez,31,Female,PhD,San Diego,Operations,Operations Analyst,Full-Time,09 November 2021,2021,3,7,Average,4,2,Yes,19,17,60349,4600,5.4,No
+EMP1724,Mark Lopez,38,Male,Bachelor's,Chicago,HR,HR Executive,Full-Time,21 June 2022,2022,2,10,Average,4,1,Yes,2,20,44146,2700,7.5,No
+EMP1725,Richard Johnson,32,Male,Master's,San Jose,IT,Network Engineer,Contract,23 April 2024,2024,0,6,Good,4,2,No,19,68,101774,13100,14.4,No
+EMP1726,Susan Williams,34,Female,Diploma,San Jose,IT,Network Engineer,Full-Time,11 May 2024,2024,0,9,Excellent,2,1,Yes,7,68,56312,10300,12.3,No
+EMP1727,Susan Anderson,36,Female,Diploma,Houston,Finance,Financial Analyst,Full-Time,17 January 2022,2022,2,6,Excellent,1,3,No,16,68,107359,25000,9.1,No
+EMP1728,David Rodriguez,43,Male,Diploma,San Diego,Engineering,Software Engineer,Full-Time,02 March 2022,2022,2,14,Excellent,5,1,Yes,23,41,96909,21600,11.4,Yes
+EMP1729,William Wilson,23,Male,PhD,San Jose,Sales,Business Development Rep,Full-Time,02 January 2023,2023,1,1,Excellent,2,4,No,3,56,90277,20300,3.4,No
+EMP1730,Christopher Lopez,39,Male,Bachelor's,Dallas,Operations,Supply Chain Analyst,Part-Time,05 December 2021,2021,3,12,Average,5,5,Yes,17,61,52546,3700,6.5,No
+EMP1731,Mark Gonzalez,40,Male,Master's,New York,Marketing,Content Strategist,Full-Time,06 March 2021,2021,3,10,Good,3,2,Yes,12,44,47782,5700,9.1,No
+EMP1732,Daniel Rodriguez,41,Male,Master's,New York,Finance,Accountant,Full-Time,05 September 2023,2023,1,13,Good,2,5,No,12,5,70453,9500,9.1,No
+EMP1733,Mary Miller,50,Female,Master's,Dallas,Customer Support,Support Executive,Full-Time,14 April 2022,2022,2,20,Average,1,1,No,8,6,46635,2600,10.5,No
+EMP1734,Barbara Wilson,27,Female,Master's,Houston,Sales,Sales Executive,Full-Time,17 September 2021,2021,3,1,Below Average,2,5,Yes,20,8,61951,2000,9.6,No
+EMP1735,Robert Hernandez,39,Male,Master's,Houston,HR,L&D Specialist,Part-Time,23 March 2021,2021,3,13,Good,2,3,Yes,23,67,74191,9500,11.8,No
+EMP1736,William Gonzalez,30,Male,Bachelor's,New York,Finance,Controller,Full-Time,15 February 2023,2023,1,2,Good,2,3,No,10,69,96394,10900,12,No
+EMP1737,Anthony Anderson,44,Male,Bachelor's,New York,Marketing,Marketing Manager,Full-Time,03 November 2021,2021,3,16,Average,1,3,No,7,71,63336,4500,14.5,No
+EMP1738,Barbara Garcia,29,Female,Bachelor's,Philadelphia,Sales,Sales Manager,Full-Time,20 August 2022,2022,2,2,Good,5,3,Yes,18,40,90011,12900,6.5,No
+EMP1739,Michael Gonzalez,33,Male,Master's,Houston,Engineering,Software Engineer,Full-Time,03 February 2022,2022,2,4,Good,2,4,No,20,41,86223,10800,5.4,No
+EMP1740,Richard Wilson,33,Male,Master's,Dallas,Engineering,Senior Engineer,Part-Time,03 December 2021,2021,3,3,Below Average,1,2,No,6,3,112918,2800,14.5,No
+EMP1741,Elizabeth Gonzalez,35,Female,Diploma,San Jose,Finance,Financial Analyst,Full-Time,18 February 2024,2024,0,5,Average,4,1,No,19,27,71016,4600,10.6,No
+EMP1742,Matthew Garcia,33,Male,PhD,San Antonio,Customer Support,Support Analyst,Full-Time,03 January 2022,2022,2,10,Good,3,1,Yes,18,17,63535,8500,6.4,No
+EMP1743,Anthony Lopez,50,Male,Bachelor's,Phoenix,Engineering,DevOps Engineer,Full-Time,20 April 2022,2022,2,20,Good,5,4,No,23,5,101475,11400,8,Yes
+EMP1744,Betty Gonzalez,41,Female,Bachelor's,New York,Finance,Accountant,Contract,16 April 2023,2023,1,13,Average,2,1,No,16,26,106821,7500,4.2,No
+EMP1745,Mark Martinez,34,Male,Bachelor's,San Antonio,Engineering,Tech Lead,Full-Time,13 January 2021,2021,3,5,Excellent,2,4,No,18,13,97899,17000,5.6,No
+EMP1746,Jessica Miller,43,Female,Bachelor's,Houston,IT,Systems Administrator,Full-Time,07 October 2022,2022,2,17,Excellent,2,4,No,21,70,57643,10600,9.7,No
+EMP1747,Michael Brown,26,Male,Bachelor's,San Jose,Operations,Operations Manager,Full-Time,24 October 2023,2023,1,4,Good,1,3,No,9,73,69285,9000,10.3,Yes
+EMP1748,Nancy Davis,34,Female,PhD,Phoenix,HR,HR Manager,Part-Time,26 October 2023,2023,1,6,Good,5,5,No,23,58,77538,9800,12.2,No
+EMP1749,Barbara Williams,44,Female,Bachelor's,Houston,Marketing,Marketing Analyst,Contract,13 October 2023,2023,1,19,Excellent,2,1,No,5,28,82050,13300,9,No
+EMP1750,Betty Miller,30,Female,Master's,New York,Engineering,Tech Lead,Full-Time,18 October 2024,2024,0,2,Below Average,2,2,No,9,71,73009,2200,7.8,Yes
+EMP1751,Michael Garcia,41,Male,Master's,Los Angeles,Engineering,Senior Engineer,Contract,08 November 2023,2023,1,17,Average,5,5,No,13,43,72293,6000,12.9,No
+EMP1752,Margaret Gonzalez,42,Female,Master's,Los Angeles,IT,IT Analyst,Contract,19 July 2022,2022,2,12,Average,2,1,No,17,61,83452,4900,9.6,No
+EMP1753,Anthony Hernandez,44,Male,Master's,Phoenix,Engineering,DevOps Engineer,Part-Time,26 April 2022,2022,2,17,Good,3,1,Yes,0,21,85753,9000,6.2,No
+EMP1754,Mary Smith,36,Female,High School,San Jose,Marketing,SEO Specialist,Full-Time,13 October 2024,2024,0,13,Average,1,1,No,2,48,52653,4100,9,Yes
+EMP1755,Barbara Johnson,30,Female,Bachelor's,San Antonio,IT,IT Analyst,Full-Time,20 November 2023,2023,1,3,Average,1,3,No,7,35,81724,6600,9.3,No
+EMP1756,Joseph Davis,37,Male,Bachelor's,Chicago,Finance,Accountant,Full-Time,10 October 2024,2024,0,13,Average,5,1,Yes,23,62,84427,6400,12.2,No
+EMP1757,Sandra Smith,43,Female,PhD,Houston,Marketing,SEO Specialist,Full-Time,23 October 2022,2022,2,20,Excellent,2,1,No,4,40,62271,14600,11.1,No
+EMP1758,Jennifer Brown,45,Female,Diploma,San Jose,Engineering,Tech Lead,Full-Time,04 July 2023,2023,1,15,Excellent,4,1,Yes,7,54,130850,29800,13.8,No
+EMP1759,Lisa Garcia,45,Female,Bachelor's,New York,Sales,Sales Manager,Full-Time,16 August 2022,2022,2,18,Good,2,5,Yes,10,6,57477,5700,11,No
+EMP1760,Barbara Rodriguez,35,Female,High School,Chicago,Engineering,Senior Engineer,Contract,14 February 2021,2021,3,9,Good,4,5,No,5,23,100999,13000,13,No
+EMP1761,Robert Hernandez,49,Male,PhD,Philadelphia,Operations,Operations Analyst,Full-Time,27 August 2021,2021,3,19,Good,4,5,No,14,29,51706,5600,14.2,No
+EMP1762,Linda Wilson,41,Female,Master's,San Diego,HR,L&D Specialist,Full-Time,28 February 2022,2022,2,17,Good,5,5,No,23,54,60869,6800,9.9,No
+EMP1763,Patricia Davis,42,Female,Bachelor's,San Antonio,Operations,Logistics Coordinator,Full-Time,02 December 2024,2024,0,13,Good,1,2,No,5,28,71547,9600,13.3,Yes
+EMP1764,Robert Johnson,34,Male,PhD,Chicago,Engineering,Tech Lead,Full-Time,28 November 2024,2024,0,12,Below Average,5,2,Yes,10,72,128626,4100,7.9,Yes
+EMP1765,Reese Smith,50,Undisclosed,Bachelor's,New York,Marketing,SEO Specialist,Contract,14 April 2023,2023,1,20,Average,2,5,No,13,76,80830,6700,4.5,No
+EMP1766,William Hernandez,41,Male,Master's,New York,Customer Support,Customer Success Manager,Full-Time,20 May 2022,2022,2,11,Good,4,1,No,11,22,37163,4100,8.4,No
+EMP1767,Susan Davis,42,Female,Bachelor's,San Diego,Engineering,Senior Engineer,Full-Time,07 August 2024,2024,0,18,Good,5,4,No,12,69,129245,17200,14.6,Yes
+EMP1768,Karen Anderson,29,Female,Bachelor's,Dallas,Finance,Finance Manager,Full-Time,16 September 2024,2024,0,5,Excellent,2,2,No,11,6,92801,22200,3.5,No
+EMP1769,Lisa Anderson,47,Female,Master's,Philadelphia,Sales,Account Manager,Part-Time,13 July 2023,2023,1,20,Excellent,3,3,Yes,5,67,82302,17600,5,No
+EMP1770,Richard Brown,46,Male,Bachelor's,San Antonio,IT,Systems Administrator,Part-Time,27 June 2022,2022,2,20,Good,2,2,Yes,17,73,71162,7300,9.4,No
+EMP1771,Robert Jones,35,Male,Master's,San Jose,HR,HR Executive,Full-Time,22 November 2021,2021,3,11,Average,5,2,No,22,28,62143,5100,5.1,No
+EMP1772,Betty Hernandez,40,Female,Master's,Dallas,Engineering,Tech Lead,Full-Time,08 February 2023,2023,1,17,Good,5,3,No,24,62,121277,11800,10.7,No
+EMP1773,Linda Smith,43,Female,Diploma,Chicago,Sales,Account Manager,Full-Time,21 May 2022,2022,2,20,Average,5,3,No,18,30,78574,4600,13,No
+EMP1774,Patricia Wilson,33,Female,Bachelor's,San Jose,HR,Recruiter,Part-Time,13 April 2023,2023,1,10,Excellent,4,4,Yes,23,67,69732,15800,5.4,No
+EMP1775,Richard Davis,46,Male,High School,New York,HR,HR Executive,Full-Time,01 January 2023,2023,2,20,Average,2,4,No,12,78,49809,3700,4.3,No
+EMP1776,Sarah Davis,34,Female,Bachelor's,Chicago,Sales,Sales Executive,Part-Time,24 October 2021,2021,3,5,Excellent,3,5,No,24,54,68657,15600,9.3,No
+EMP1777,David Wilson,41,Male,Bachelor's,Phoenix,IT,Systems Administrator,Full-Time,18 August 2024,2024,0,15,Excellent,3,5,No,13,46,65983,14300,9.1,No
+EMP1778,Margaret Martinez,31,Female,High School,New York,Customer Support,Customer Success Manager,Part-Time,17 March 2023,2023,1,5,Excellent,1,2,Yes,9,47,64834,10800,11.3,No
+EMP1779,Sandra Brown,31,Female,Diploma,San Antonio,Marketing,Marketing Manager,Full-Time,05 April 2021,2021,3,4,Good,2,1,No,9,38,49537,5500,8.8,No
+EMP1780,Sarah Martinez,49,Female,Bachelor's,San Antonio,Sales,Account Manager,Full-Time,19 July 2024,2024,0,20,Below Average,1,2,No,11,65,90243,2400,8.4,No
+EMP1781,Barbara Brown,36,Female,PhD,New York,Operations,Operations Manager,Full-Time,07 September 2021,2021,3,6,Average,5,1,Yes,1,48,51937,3200,3.8,No
+EMP1782,Sarah Brown,31,Female,Master's,San Diego,Marketing,Marketing Analyst,Full-Time,16 May 2024,2024,0,6,Good,2,3,No,15,59,75355,9200,12.2,No
+EMP1783,David Rodriguez,37,Male,Diploma,San Diego,Finance,Accountant,Full-Time,05 August 2023,2023,1,13,Good,5,2,No,23,13,57142,7200,9.1,No
+EMP1784,Anthony Williams,40,Male,Bachelor's,Chicago,Marketing,SEO Specialist,Contract,21 February 2024,2024,0,16,Excellent,1,3,No,5,22,59094,13200,11.7,No
+EMP1785,Karen Anderson,29,Female,Master's,Houston,Engineering,Senior Engineer,Part-Time,14 December 2022,2022,2,6,Average,3,3,No,22,31,112854,8200,10.7,No
+EMP1786,William Jones,44,Male,Bachelor's,San Diego,Operations,Operations Manager,Full-Time,16 February 2024,2024,0,15,Good,1,2,Yes,14,77,70761,10000,9.9,No
+EMP1787,Charles Williams,29,Male,Bachelor's,Philadelphia,IT,Systems Administrator,Full-Time,06 February 2024,2024,0,2,Good,5,5,No,7,16,94052,11400,9,No
+EMP1788,Christopher Gonzalez,40,Male,Master's,San Jose,Engineering,Senior Engineer,Part-Time,26 March 2021,2021,3,12,Good,4,5,No,16,64,77115,8000,13.6,No
+EMP1789,Michael Lopez,36,Male,Bachelor's,New York,HR,L&D Specialist,Full-Time,17 November 2023,2023,1,12,Good,3,3,No,7,49,75061,7400,13.1,No
+EMP1790,Margaret Gonzalez,30,Female,PhD,San Jose,Engineering,Software Engineer,Full-Time,15 February 2023,2023,1,3,Below Average,5,3,No,21,3,91365,3100,9.8,Yes
+EMP1791,Joseph Jones,29,Male,Master's,San Antonio,Customer Support,Support Executive,Full-Time,20 January 2022,2022,2,7,Excellent,2,2,Yes,3,26,50404,10800,9,No
+EMP1792,Christopher Anderson,27,Male,Bachelor's,Los Angeles,Marketing,Marketing Manager,Full-Time,15 July 2024,2024,0,5,Excellent,1,4,Yes,4,43,89134,15100,7.8,No
+EMP1793,Linda Anderson,44,Female,Bachelor's,Phoenix,Customer Support,Support Analyst,Full-Time,10 January 2022,2022,2,19,Good,1,2,No,24,36,46053,4500,5.1,No
+EMP1794,William Smith,32,Male,Diploma,San Jose,Customer Support,Support Lead,Full-Time,17 November 2024,2024,0,5,Average,3,3,Yes,23,48,53888,4500,4.8,No
+EMP1795,Nancy Hernandez,46,Female,Bachelor's,Houston,Engineering,Software Engineer,Full-Time,23 April 2021,2021,3,19,Average,3,5,Yes,10,69,135084,10500,5.7,No
+EMP1796,Matthew Anderson,27,Male,Diploma,Chicago,Operations,Supply Chain Analyst,Full-Time,28 April 2022,2022,2,1,Excellent,5,4,No,8,7,55234,13200,14.2,No
+EMP1797,Mary Davis,41,Female,Bachelor's,Phoenix,Engineering,Senior Engineer,Contract,14 July 2021,2021,3,19,Excellent,2,1,No,7,36,87037,15900,10.8,No
+EMP1798,John Smith,48,Male,Bachelor's,Phoenix,IT,IT Analyst,Full-Time,16 July 2023,2023,1,19,Good,2,2,No,8,61,75202,8600,10.1,No
+EMP1799,Matthew Jones,26,Male,Master's,San Antonio,Marketing,Marketing Analyst,Full-Time,01 July 2024,2024,0,4,Average,1,4,No,12,35,52766,3700,3.5,Yes
+EMP1800,Richard Rodriguez,40,Male,PhD,Philadelphia,Operations,Operations Analyst,Full-Time,01 September 2021,2021,3,17,Good,4,1,Yes,6,65,88921,9000,10.1,No
+EMP1801,John Brown,35,Male,Bachelor's,Houston,Engineering,Software Engineer,Part-Time,23 August 2021,2021,3,8,Average,2,1,No,22,25,76265,4900,14.6,No
+EMP1802,Richard Williams,44,Male,Bachelor's,Houston,Engineering,Software Engineer,Full-Time,28 September 2023,2023,1,17,Good,2,4,No,8,55,126293,15100,5.5,No
+EMP1803,Robert Johnson,42,Male,PhD,Philadelphia,HR,L&D Specialist,Full-Time,03 October 2023,2023,1,17,Excellent,1,1,Yes,3,6,71129,11700,6.2,No
+EMP1804,Lisa Davis,27,Female,Master's,Phoenix,IT,Systems Administrator,Full-Time,02 May 2021,2021,3,1,Average,3,2,No,21,8,90643,6500,12.8,No
+EMP1805,Mary Jones,49,Female,Diploma,San Diego,Marketing,Content Strategist,Full-Time,10 October 2021,2021,3,20,Average,1,4,Yes,12,77,70886,5000,8.9,No
+EMP1806,Mark Miller,42,Male,High School,Chicago,Sales,Account Manager,Full-Time,07 March 2021,2021,3,16,Good,5,5,No,19,37,76786,8400,5.8,No
+EMP1807,Avery Gonzalez,33,Undisclosed,Diploma,Chicago,Marketing,Marketing Analyst,Full-Time,23 February 2021,2021,3,9,Excellent,4,1,No,5,3,88274,15600,3.6,No
+EMP1808,Mark Anderson,50,Male,Master's,Dallas,Engineering,Tech Lead,Full-Time,12 April 2021,2021,3,20,Below Average,3,5,No,0,9,128796,4500,4,Yes
+EMP1809,Barbara Rodriguez,33,Female,Diploma,Philadelphia,HR,L&D Specialist,Full-Time,25 March 2022,2022,2,4,Good,1,5,No,5,7,63334,8300,5.8,No
+EMP1810,James Miller,27,Male,PhD,Chicago,Marketing,Marketing Analyst,Full-Time,16 June 2024,2024,0,3,Good,4,5,No,8,21,69920,7700,7.8,No
+EMP1811,Sarah Williams,42,Female,Master's,Los Angeles,Marketing,SEO Specialist,Full-Time,25 December 2024,2024,0,13,Good,4,1,No,11,54,48278,6000,5.8,No
+EMP1812,Thomas Hernandez,40,Male,Master's,San Antonio,Engineering,Software Engineer,Full-Time,16 March 2022,2022,2,10,Average,1,5,No,13,36,113687,7500,12.3,No
+EMP1813,Michael Lopez,27,Male,Master's,Chicago,Sales,Business Development Rep,Contract,14 October 2023,2023,1,1,Excellent,3,5,No,24,31,65473,12800,4.8,No
+EMP1814,Thomas Williams,34,Male,Master's,San Antonio,Finance,Controller,Full-Time,19 September 2021,2021,3,8,Average,5,4,No,19,73,89911,5600,3.5,No
+EMP1815,Charles Wilson,28,Male,High School,San Jose,HR,HR Executive,Full-Time,10 February 2021,2021,3,3,Good,2,2,No,22,52,47402,6300,11.7,No
+EMP1816,Joseph Lopez,31,Male,Bachelor's,Chicago,Engineering,Software Engineer,Full-Time,11 January 2024,2024,0,6,Good,3,3,No,15,18,103359,12500,7.8,No
+EMP1817,John Miller,33,Male,Bachelor's,Los Angeles,Operations,Supply Chain Analyst,Full-Time,02 November 2023,2023,1,7,Good,2,3,No,19,68,82173,11200,8.6,No
+EMP1818,Sandra Lopez,42,Female,Bachelor's,Philadelphia,Sales,Sales Executive,Full-Time,15 July 2021,2021,3,18,Good,4,4,Yes,8,69,50217,5800,13.2,No
+EMP1819,Sarah Martinez,43,Female,Bachelor's,Phoenix,Operations,Logistics Coordinator,Contract,19 December 2022,2022,2,13,Good,1,1,No,3,78,78208,8700,13.7,Yes
+EMP1820,Lisa Williams,43,Female,Bachelor's,New York,Finance,Finance Manager,Full-Time,25 November 2021,2021,3,16,Average,5,5,No,24,71,80001,4600,4.4,No
+EMP1821,David Brown,28,Male,Master's,San Jose,Operations,Logistics Coordinator,Full-Time,21 December 2024,2024,0,5,Good,2,3,Yes,16,74,62033,7700,7.5,Yes
+EMP1822,William Anderson,39,Male,Master's,Phoenix,Engineering,Tech Lead,Full-Time,22 July 2024,2024,0,9,Good,3,4,Yes,24,56,126536,12500,12.5,No
+EMP1823,Mary Martinez,36,Female,Bachelor's,San Antonio,Finance,Accountant,Part-Time,25 May 2024,2024,0,11,Average,2,2,No,24,53,88188,5000,4.6,No
+EMP1824,Mary Johnson,47,Female,Bachelor's,Chicago,Operations,Supply Chain Analyst,Full-Time,11 November 2024,2024,0,20,Excellent,4,4,Yes,15,60,48519,11400,8.1,No
+EMP1825,Matthew Garcia,27,Male,Bachelor's,Dallas,IT,IT Manager,Full-Time,01 July 2021,2021,3,4,Below Average,1,1,Yes,24,68,101474,2500,13.9,No
+EMP1826,Charles Rodriguez,46,Male,Bachelor's,New York,Marketing,Marketing Analyst,Contract,23 August 2024,2024,0,16,Excellent,3,4,No,4,52,50186,10400,14.3,No
+EMP1827,Lisa Gonzalez,28,Female,Bachelor's,San Jose,Sales,Account Manager,Full-Time,05 February 2024,2024,0,4,Good,5,1,No,14,70,79652,10500,13.6,No
+EMP1828,Taylor Garcia,34,Undisclosed,Bachelor's,Phoenix,Marketing,Content Strategist,Full-Time,06 September 2023,2023,1,10,Average,4,3,No,9,47,81535,5100,6.9,No
+EMP1829,Elizabeth Lopez,26,Female,Bachelor's,San Diego,HR,Recruiter,Full-Time,28 April 2022,2022,2,3,Excellent,5,1,No,14,56,52684,11400,8.4,No
+EMP1830,Linda Hernandez,35,Female,Bachelor's,San Diego,Customer Support,Support Analyst,Full-Time,21 November 2023,2023,1,6,Average,1,5,Yes,1,8,41279,3000,7.6,No
+EMP1831,Alex Jones,29,Undisclosed,Bachelor's,Philadelphia,Customer Support,Support Analyst,Part-Time,21 December 2023,2023,1,7,Below Average,3,1,No,1,13,60979,1700,9.5,No
+EMP1832,Susan Davis,40,Female,PhD,New York,Engineering,Software Engineer,Part-Time,10 September 2024,2024,0,17,Below Average,2,5,Yes,11,8,115264,3200,6.1,No
+EMP1833,Linda Davis,36,Female,Master's,San Antonio,Marketing,SEO Specialist,Part-Time,21 January 2021,2021,3,11,Excellent,5,5,No,13,75,53082,10400,9,No
+EMP1834,Betty Lopez,40,Female,PhD,Los Angeles,Marketing,Marketing Manager,Part-Time,11 May 2021,2021,3,16,Good,5,5,Yes,23,48,51858,6100,4.7,No
+EMP1835,Robert Anderson,37,Male,Bachelor's,Dallas,Finance,Accountant,Full-Time,21 September 2022,2022,2,8,Good,4,2,No,18,26,70431,9400,4.8,No
+EMP1836,Thomas Anderson,43,Male,Bachelor's,Los Angeles,Engineering,Senior Engineer,Full-Time,19 December 2021,2021,3,18,Excellent,4,4,Yes,13,48,85876,14500,5.2,No
+EMP1837,James Rodriguez,26,Male,Master's,Houston,Finance,Financial Analyst,Part-Time,13 December 2024,2024,0,4,Good,3,3,No,20,31,108597,12400,12.6,No
+EMP1838,Betty Smith,42,Female,Bachelor's,New York,Sales,Sales Executive,Full-Time,14 May 2024,2024,0,18,Good,1,4,Yes,24,51,65272,9300,6.8,No
+EMP1839,Anthony Wilson,47,Male,Bachelor's,San Antonio,Marketing,Marketing Manager,Full-Time,24 June 2023,2023,1,19,Good,1,1,No,0,50,49884,7000,3.6,No
+EMP1840,John Lopez,34,Male,Bachelor's,San Jose,IT,IT Manager,Full-Time,27 December 2021,2021,3,8,Good,5,5,No,0,47,84295,8500,10.4,No
+EMP1841,Thomas Brown,43,Male,Master's,Dallas,Engineering,Senior Engineer,Full-Time,05 September 2023,2023,1,13,Excellent,5,1,No,15,67,123117,25700,12.4,No
+EMP1842,Patricia Garcia,47,Female,Bachelor's,Chicago,Finance,Controller,Full-Time,26 June 2021,2021,3,19,Average,1,2,No,13,45,84722,6100,13.8,Yes
+EMP1843,Lisa Rodriguez,33,Female,Master's,San Diego,Finance,Controller,Full-Time,01 July 2022,2022,2,10,Average,5,3,No,3,58,55383,4600,9.9,No
+EMP1844,Daniel Johnson,37,Male,PhD,San Jose,Customer Support,Support Analyst,Full-Time,10 August 2022,2022,2,13,Good,2,4,Yes,8,22,38164,5100,10.7,No
+EMP1845,Joseph Garcia,36,Male,Bachelor's,New York,Customer Support,Support Lead,Full-Time,02 August 2021,2021,3,9,Excellent,5,2,No,0,73,39321,8000,11.2,No
+EMP1846,Anthony Garcia,41,Male,Diploma,New York,Customer Support,Support Lead,Full-Time,23 January 2024,2024,0,19,Excellent,2,2,No,8,60,36631,7000,14.1,No
+EMP1847,Mark Rodriguez,31,Male,Bachelor's,San Diego,Engineering,Senior Engineer,Full-Time,26 December 2023,2023,1,9,Good,2,4,No,2,49,133632,18900,12.8,No
+EMP1848,John Smith,25,Male,Bachelor's,Los Angeles,Engineering,Tech Lead,Full-Time,21 September 2023,2023,1,2,Below Average,4,1,No,23,5,118732,3700,13.1,No
+EMP1849,Anthony Wilson,43,Male,Bachelor's,San Diego,Finance,Accountant,Full-Time,27 January 2024,2024,0,19,Good,1,5,Yes,18,39,57151,7700,10.1,No
+EMP1850,Linda Gonzalez,43,Female,Master's,San Diego,Operations,Supply Chain Analyst,Full-Time,17 October 2022,2022,2,15,Good,4,1,Yes,19,65,82557,11300,7.1,No
+EMP1851,Morgan Gonzalez,30,Undisclosed,Bachelor's,Chicago,Customer Support,Support Lead,Full-Time,03 September 2023,2023,1,7,Excellent,3,2,Yes,23,46,45888,8600,9.7,No
+EMP1852,Matthew Anderson,33,Male,Master's,San Jose,Sales,Business Development Rep,Full-Time,28 June 2022,2022,2,5,Average,3,3,No,17,64,71583,6000,8.2,No
+EMP1853,Jennifer Garcia,38,Female,Diploma,New York,Sales,Sales Manager,Full-Time,26 July 2022,2022,2,10,Excellent,4,5,Yes,10,45,80402,15000,8.3,No
+EMP1854,Richard Williams,23,Male,Master's,San Jose,Finance,Financial Analyst,Full-Time,06 October 2022,2022,2,1,Below Average,2,1,Yes,2,12,76843,2100,3.5,No
+EMP1855,Susan Johnson,39,Female,Master's,Houston,Customer Support,Support Analyst,Full-Time,11 March 2021,2021,3,10,Average,3,1,No,21,22,36768,2200,10.6,No
+EMP1856,Lisa Williams,46,Female,Diploma,Philadelphia,IT,IT Analyst,Full-Time,11 August 2022,2022,2,19,Excellent,2,2,Yes,11,75,58900,13500,12.1,No
+EMP1857,Mark Martinez,32,Male,High School,New York,Operations,Supply Chain Analyst,Contract,15 January 2023,2023,1,10,Excellent,5,3,No,20,3,77264,15100,5.3,No
+EMP1858,Margaret Johnson,35,Female,High School,New York,Engineering,Senior Engineer,Part-Time,13 January 2021,2021,3,10,Good,4,1,Yes,16,78,71599,10000,4.4,No
+EMP1859,Thomas Jones,35,Male,High School,New York,Sales,Account Manager,Full-Time,21 April 2021,2021,3,11,Good,1,1,No,1,52,68538,9000,13.9,No
+EMP1860,Karen Smith,44,Female,Bachelor's,San Diego,Finance,Controller,Full-Time,19 July 2021,2021,3,14,Good,2,2,No,21,24,90830,10600,6.2,No
+EMP1861,Daniel Garcia,42,Male,Master's,New York,Customer Support,Customer Success Manager,Full-Time,01 January 2022,2022,3,13,Average,2,4,No,10,32,59863,3600,6.9,No
+EMP1862,Jennifer Jones,33,Female,Master's,Philadelphia,Engineering,Senior Engineer,Part-Time,18 August 2021,2021,3,9,Average,1,1,Yes,23,4,94480,6800,12.3,No
+EMP1863,Sandra Miller,31,Female,Master's,San Antonio,Finance,Financial Analyst,Full-Time,08 June 2021,2021,3,1,Good,2,5,Yes,0,36,82132,8800,4.8,No
+EMP1864,Sandra Anderson,49,Female,PhD,San Jose,Customer Support,Customer Success Manager,Full-Time,25 June 2024,2024,0,19,Good,3,2,No,12,5,52794,7200,13.3,Yes
+EMP1865,Linda Miller,34,Female,Bachelor's,Chicago,Sales,Sales Manager,Full-Time,23 January 2022,2022,2,5,Excellent,4,1,No,2,44,79122,14300,14.8,No
+EMP1866,Matthew Rodriguez,38,Male,Bachelor's,Dallas,Operations,Operations Manager,Full-Time,07 March 2021,2021,3,14,Average,4,1,No,21,46,84845,5200,7.2,No
+EMP1867,Matthew Johnson,39,Male,Master's,Chicago,Engineering,Software Engineer,Full-Time,18 April 2024,2024,0,12,Average,1,4,No,17,66,80689,6500,9.8,No
+EMP1868,Betty Gonzalez,43,Female,Bachelor's,Dallas,Engineering,Software Engineer,Full-Time,16 April 2023,2023,1,18,Good,3,1,Yes,21,12,119209,12300,13.9,No
+EMP1869,Matthew Davis,36,Male,Bachelor's,Chicago,Sales,Sales Manager,Full-Time,02 January 2022,2022,2,6,Good,1,3,No,8,62,64303,8100,13.1,No
+EMP1870,Nancy Williams,37,Female,Master's,New York,Marketing,Content Strategist,Full-Time,14 February 2021,2021,3,12,Excellent,2,2,Yes,4,16,89114,18700,3.2,Yes
+EMP1871,Anthony Anderson,35,Male,Master's,San Antonio,HR,L&D Specialist,Full-Time,04 December 2022,2022,2,8,Average,2,1,No,21,7,42715,3300,9,No
+EMP1872,Karen Brown,40,Female,Diploma,San Jose,Operations,Supply Chain Analyst,Full-Time,15 August 2024,2024,0,12,Good,1,4,No,9,48,51288,5500,12.2,No
+EMP1873,Jennifer Martinez,27,Female,Bachelor's,Los Angeles,Sales,Sales Executive,Part-Time,26 February 2022,2022,2,1,Good,2,1,Yes,13,62,93619,10200,10.4,No
+EMP1874,David Miller,42,Male,High School,San Antonio,Sales,Sales Executive,Full-Time,27 July 2023,2023,1,13,Good,1,3,No,18,36,47659,6200,14.2,Yes
+EMP1875,James Davis,35,Male,Master's,Chicago,Customer Support,Customer Success Manager,Part-Time,07 July 2024,2024,0,10,Good,4,2,No,13,15,53597,5200,10.8,No
+EMP1876,Robert Jones,32,Male,Diploma,New York,HR,HR Executive,Full-Time,22 July 2022,2022,2,5,Average,4,5,No,21,79,76359,4800,4.8,No
+EMP1877,Sandra Miller,33,Female,Master's,Phoenix,Engineering,Software Engineer,Contract,08 November 2022,2022,2,10,Good,2,3,Yes,21,7,119842,12700,7.1,No
+EMP1878,Linda Brown,27,Female,Bachelor's,Phoenix,Customer Support,Customer Success Manager,Full-Time,27 April 2023,2023,1,2,Average,4,4,No,22,72,58147,4600,9.3,No
+EMP1879,Matthew Davis,36,Male,Diploma,San Jose,Sales,Account Manager,Full-Time,23 October 2024,2024,0,9,Below Average,4,1,No,13,26,68625,2000,9.8,No
+EMP1880,Robert Garcia,40,Male,Master's,San Jose,Marketing,Content Strategist,Full-Time,01 June 2023,2023,1,18,Below Average,3,5,No,12,50,85522,2400,4.1,Yes
+EMP1881,Jennifer Johnson,33,Female,Bachelor's,Phoenix,Engineering,Tech Lead,Full-Time,15 January 2022,2022,2,9,Good,5,2,No,7,20,85553,9800,14.2,No
+EMP1882,Barbara Gonzalez,31,Female,Master's,New York,Engineering,DevOps Engineer,Full-Time,07 May 2023,2023,1,2,Average,1,4,No,16,45,98837,6800,4.3,No
+EMP1883,John Johnson,38,Male,Diploma,Chicago,Sales,Sales Manager,Full-Time,18 December 2023,2023,1,15,Good,5,4,Yes,8,34,81502,8400,7.4,No
+EMP1884,Joseph Brown,31,Male,Bachelor's,San Jose,Operations,Logistics Coordinator,Full-Time,27 November 2022,2022,2,1,Average,3,4,No,6,24,67376,5300,5.7,No
+EMP1885,William Anderson,29,Male,PhD,Dallas,Customer Support,Support Analyst,Full-Time,27 November 2021,2021,3,2,Good,1,1,No,0,19,61662,7500,3.3,No
+EMP1886,Jennifer Lopez,33,Female,Master's,Los Angeles,Finance,Controller,Full-Time,10 February 2022,2022,2,6,Excellent,2,4,No,16,80,67770,11000,6.6,No
+EMP1887,Robert Anderson,35,Male,Master's,Chicago,Sales,Sales Executive,Full-Time,04 April 2021,2021,3,7,Average,4,2,Yes,11,16,68007,4800,7.7,No
+EMP1888,Riley Wilson,30,Undisclosed,Master's,Phoenix,Engineering,Tech Lead,Full-Time,05 April 2022,2022,2,6,Good,4,2,Yes,11,28,128024,16100,13.7,No
+EMP1889,Richard Johnson,36,Male,Diploma,Dallas,Engineering,Senior Engineer,Part-Time,16 January 2023,2023,1,13,Excellent,2,4,Yes,1,12,130177,22800,10.3,No
+EMP1890,Robert Miller,43,Male,Diploma,San Antonio,HR,HR Executive,Contract,21 June 2021,2021,3,18,Average,3,5,No,8,51,76587,5600,5.2,Yes
+EMP1891,Joseph Gonzalez,32,Male,High School,San Jose,Finance,Controller,Full-Time,05 March 2023,2023,1,7,Excellent,2,3,Yes,17,72,65011,11200,11.5,Yes
+EMP1892,Lisa Hernandez,40,Female,Bachelor's,San Antonio,Engineering,Senior Engineer,Full-Time,24 March 2022,2022,2,12,Average,4,2,No,2,14,93991,6900,14.9,No
+EMP1893,Christopher Gonzalez,30,Male,Master's,Chicago,Engineering,Software Engineer,Full-Time,04 May 2024,2024,0,8,Good,1,2,No,24,49,111321,13700,6.7,No
+EMP1894,James Rodriguez,37,Male,Master's,San Jose,Operations,Operations Manager,Full-Time,13 November 2023,2023,1,8,Excellent,2,1,No,11,11,70304,15400,12.5,Yes
+EMP1895,Casey Johnson,38,Undisclosed,Bachelor's,San Jose,Sales,Business Development Rep,Full-Time,25 October 2021,2021,3,11,Good,5,4,No,11,23,46108,5900,9.9,No
+EMP1896,James Gonzalez,34,Male,High School,Chicago,Engineering,Software Engineer,Full-Time,09 January 2022,2022,2,6,Excellent,2,5,No,7,55,71954,16500,9,No
+EMP1897,Charles Hernandez,49,Male,Master's,Chicago,Marketing,SEO Specialist,Full-Time,02 July 2024,2024,0,19,Excellent,4,1,No,14,43,49862,9900,8.8,Yes
+EMP1898,Susan Garcia,45,Female,Bachelor's,San Jose,Engineering,DevOps Engineer,Full-Time,07 November 2022,2022,2,19,Good,2,2,No,3,18,82018,9400,6.7,Yes
+EMP1899,Charles Johnson,41,Male,PhD,New York,HR,HR Executive,Full-Time,25 January 2023,2023,1,12,Below Average,5,4,No,12,39,57844,1800,8.5,No
+EMP1900,Betty Miller,48,Female,Master's,New York,HR,Recruiter,Full-Time,10 July 2024,2024,0,19,Average,3,1,No,0,52,60284,3500,12.8,No
+EMP1901,Daniel Brown,47,Male,High School,San Jose,IT,Network Engineer,Full-Time,02 April 2024,2024,0,19,Good,2,5,No,22,48,92030,9700,8.6,Yes
+EMP1902,James Lopez,25,Male,Bachelor's,Los Angeles,Engineering,Senior Engineer,Part-Time,15 October 2023,2023,1,1,Excellent,5,3,Yes,16,79,84433,14600,8,No
+EMP1903,Elizabeth Anderson,39,Female,Bachelor's,Phoenix,IT,IT Manager,Full-Time,22 July 2023,2023,1,14,Average,3,5,Yes,3,50,76653,6200,14.3,No
+EMP1904,Linda Wilson,41,Female,Bachelor's,Dallas,Finance,Finance Manager,Full-Time,19 May 2023,2023,1,15,Average,2,1,No,18,42,72671,4600,9.3,No
+EMP1905,Daniel Davis,48,Male,Master's,San Diego,Engineering,DevOps Engineer,Full-Time,22 October 2022,2022,2,18,Excellent,2,1,No,15,5,105338,18200,14.6,No
+EMP1906,Mark Wilson,41,Male,Bachelor's,San Jose,HR,L&D Specialist,Full-Time,10 April 2023,2023,1,14,Excellent,3,4,No,2,18,78378,17400,3.4,Yes
+EMP1907,Margaret Smith,35,Female,Bachelor's,San Jose,Finance,Finance Manager,Full-Time,28 December 2022,2022,2,12,Good,3,5,No,10,80,62523,8600,7,No
+EMP1908,Quinn Miller,30,Undisclosed,Bachelor's,Los Angeles,Operations,Logistics Coordinator,Full-Time,20 October 2021,2021,3,7,Good,5,5,Yes,11,6,68625,7200,11.3,No
+EMP1909,Robert Brown,27,Male,Diploma,Phoenix,Sales,Sales Manager,Full-Time,22 March 2024,2024,0,5,Good,4,5,Yes,13,64,57773,6400,6.2,No
+EMP1910,Sarah Wilson,35,Female,Master's,San Diego,HR,L&D Specialist,Full-Time,18 January 2021,2021,3,11,Good,3,1,No,14,33,58388,7200,3.6,No
+EMP1911,Casey Brown,38,Undisclosed,PhD,Chicago,Marketing,Marketing Manager,Full-Time,05 January 2023,2023,1,8,Below Average,3,2,No,6,25,69026,1800,12.8,No
+EMP1912,Jennifer Martinez,25,Female,Bachelor's,Phoenix,Customer Support,Support Lead,Full-Time,05 January 2022,2022,2,1,Below Average,4,1,Yes,23,15,53796,1400,13.5,Yes
+EMP1913,Elizabeth Anderson,38,Female,PhD,Philadelphia,Engineering,DevOps Engineer,Full-Time,28 August 2021,2021,3,14,Average,1,2,Yes,7,74,115530,7500,13.8,Yes
+EMP1914,Jennifer Brown,27,Female,Bachelor's,New York,Operations,Supply Chain Analyst,Full-Time,09 April 2021,2021,3,5,Good,2,2,No,21,16,64398,9100,12.6,No
+EMP1915,David Smith,39,Male,Master's,San Antonio,HR,Recruiter,Full-Time,14 December 2024,2024,0,9,Average,5,2,No,8,6,46657,3200,10.6,No
+EMP1916,Thomas Brown,40,Male,Bachelor's,Philadelphia,Engineering,DevOps Engineer,Full-Time,26 March 2024,2024,0,16,Excellent,5,3,No,22,32,78400,14500,3.5,No
+EMP1917,Jessica Brown,27,Female,Bachelor's,Philadelphia,Finance,Finance Manager,Contract,19 August 2022,2022,2,3,Excellent,5,4,Yes,23,78,60540,9900,9.4,No
+EMP1918,Sandra Anderson,31,Female,Bachelor's,San Jose,HR,HR Executive,Full-Time,28 August 2021,2021,3,2,Average,3,2,No,19,40,42362,3500,10.2,No
+EMP1919,Robert Williams,34,Male,Bachelor's,Chicago,Finance,Financial Analyst,Full-Time,13 August 2022,2022,2,9,Excellent,3,3,Yes,18,48,84779,13700,13.3,No
+EMP1920,Nancy Lopez,32,Female,High School,San Diego,Finance,Finance Manager,Full-Time,18 December 2021,2021,3,7,Good,5,3,No,0,34,74295,10300,13,No
+EMP1921,Robert Smith,43,Male,Master's,San Jose,Finance,Controller,Full-Time,22 October 2023,2023,1,13,Good,2,4,No,13,26,59677,8200,5.3,No
+EMP1922,Karen Lopez,33,Female,Master's,San Antonio,Operations,Operations Manager,Full-Time,08 July 2023,2023,1,9,Good,4,3,Yes,17,10,77637,10400,4.9,No
+EMP1923,Jennifer Smith,30,Female,Master's,Chicago,HR,HR Manager,Full-Time,24 October 2023,2023,1,6,Excellent,3,5,Yes,12,29,47669,11200,14.5,No
+EMP1924,Christopher Lopez,32,Male,Master's,Dallas,Customer Support,Support Analyst,Full-Time,14 November 2022,2022,2,6,Excellent,2,2,No,23,13,40894,7800,7,No
+EMP1925,Betty Wilson,49,Female,Diploma,Los Angeles,Finance,Finance Manager,Contract,09 January 2021,2021,3,19,Average,2,1,No,11,37,69709,4200,12.8,Yes
+EMP1926,Sarah Williams,47,Female,High School,Dallas,Engineering,Software Engineer,Full-Time,14 September 2024,2024,0,18,Average,3,3,Yes,24,17,109053,6400,10,No
+EMP1927,Richard Williams,46,Male,Bachelor's,San Antonio,Engineering,Software Engineer,Full-Time,21 August 2024,2024,0,17,Good,1,5,Yes,13,16,111114,14800,14.5,No
+EMP1928,Robert Johnson,29,Male,Bachelor's,Houston,HR,HR Manager,Full-Time,14 December 2022,2022,2,5,Excellent,1,3,Yes,23,62,51994,11200,3.5,No
+EMP1929,Anthony Martinez,40,Male,Master's,New York,Operations,Operations Analyst,Full-Time,27 March 2024,2024,0,14,Excellent,4,4,No,13,2,79527,13700,11.4,No
+EMP1930,Mary Smith,36,Female,Bachelor's,Chicago,Sales,Sales Manager,Full-Time,24 April 2023,2023,1,6,Good,5,2,No,17,0,80649,11100,3,No
+EMP1931,Jennifer Anderson,41,Female,Bachelor's,Houston,Engineering,Tech Lead,Full-Time,06 October 2024,2024,0,19,Good,5,2,No,16,78,122180,14300,12.9,No
+EMP1932,Sandra Brown,33,Female,Bachelor's,Chicago,Operations,Logistics Coordinator,Full-Time,14 August 2022,2022,2,3,Average,1,2,No,13,70,52474,4400,14,No
+EMP1933,Jordan Smith,41,Undisclosed,Bachelor's,Houston,Sales,Account Manager,Full-Time,05 April 2021,2021,3,17,Average,2,4,No,23,76,59785,3600,11.1,No
+EMP1934,Elizabeth Lopez,44,Female,Bachelor's,Dallas,Sales,Sales Executive,Full-Time,16 July 2021,2021,3,16,Good,3,2,Yes,24,9,47847,6000,7.4,No
+EMP1935,Joseph Miller,31,Male,High School,San Diego,Marketing,Marketing Manager,Full-Time,17 August 2021,2021,3,4,Good,1,2,No,22,50,72459,8800,6,No
+EMP1936,Anthony Miller,35,Male,Bachelor's,Philadelphia,IT,Systems Administrator,Full-Time,20 March 2024,2024,0,12,Good,3,4,Yes,20,1,84374,10600,10.1,No
+EMP1937,Sandra Williams,40,Female,PhD,San Antonio,Marketing,SEO Specialist,Full-Time,09 August 2021,2021,3,16,Good,5,1,No,17,76,72001,10300,6.7,No
+EMP1938,Christopher Davis,46,Male,Bachelor's,Houston,Customer Support,Support Analyst,Full-Time,12 September 2023,2023,1,20,Below Average,4,5,No,20,43,37466,1000,10.3,No
+EMP1939,Charles Rodriguez,49,Male,Bachelor's,New York,Operations,Operations Manager,Full-Time,10 July 2021,2021,3,19,Good,2,1,No,1,20,64006,8600,5,No
+EMP1940,Joseph Smith,40,Male,Bachelor's,Dallas,Engineering,DevOps Engineer,Part-Time,10 July 2024,2024,0,18,Good,5,5,Yes,6,5,93480,12700,7.3,No
+EMP1941,Christopher Wilson,42,Male,PhD,San Diego,Operations,Supply Chain Analyst,Full-Time,20 October 2022,2022,2,16,Good,1,1,No,0,27,51945,6000,13.4,Yes
+EMP1942,Nancy Miller,47,Female,Master's,San Jose,Marketing,Marketing Analyst,Full-Time,19 February 2024,2024,0,20,Below Average,4,5,Yes,21,37,46132,1600,7.6,Yes
+EMP1943,James Rodriguez,34,Male,Master's,Philadelphia,Operations,Logistics Coordinator,Part-Time,01 December 2024,2024,0,4,Average,1,1,Yes,7,34,72161,5700,3.4,No
+EMP1944,William Williams,36,Male,High School,San Antonio,Operations,Supply Chain Analyst,Full-Time,16 July 2021,2021,3,9,Below Average,2,1,No,10,44,81610,2400,14,Yes
+EMP1945,Jennifer Garcia,29,Female,Master's,Phoenix,Engineering,DevOps Engineer,Full-Time,06 March 2024,2024,0,6,Good,4,4,No,9,69,113487,16000,10.8,No
+EMP1946,Elizabeth Garcia,35,Female,Bachelor's,Philadelphia,Sales,Account Manager,Full-Time,14 October 2022,2022,2,11,Good,2,1,Yes,5,76,60188,6700,8.9,Yes
+EMP1947,Michael Miller,26,Male,Diploma,San Antonio,IT,IT Analyst,Full-Time,06 November 2022,2022,2,3,Good,5,5,No,23,31,85952,11500,4.7,No
+EMP1948,Nancy Hernandez,30,Female,Master's,Los Angeles,Sales,Account Manager,Contract,11 September 2023,2023,1,6,Excellent,3,4,Yes,11,78,65006,14800,4.7,No
+EMP1949,James Garcia,29,Male,Bachelor's,Houston,IT,IT Analyst,Full-Time,28 September 2021,2021,3,2,Good,2,3,No,14,67,61078,7200,6.2,No
+EMP1950,Matthew Wilson,45,Male,Master's,Houston,Customer Support,Customer Success Manager,Full-Time,12 February 2024,2024,0,19,Good,5,1,Yes,7,24,53713,5800,13.2,No
+EMP1951,Susan Johnson,38,Female,Diploma,Dallas,Finance,Financial Analyst,Full-Time,07 December 2021,2021,3,8,Good,2,4,Yes,17,60,66941,6500,8.7,No
+EMP1952,Anthony Rodriguez,30,Male,Bachelor's,Houston,IT,Network Engineer,Full-Time,11 March 2024,2024,0,3,Average,5,1,No,3,65,84174,5700,13,No
+EMP1953,Christopher Davis,42,Male,Bachelor's,Los Angeles,IT,IT Analyst,Contract,09 May 2022,2022,2,13,Good,2,2,No,12,17,86404,9900,5,No
+EMP1954,Lisa Gonzalez,24,Female,Master's,Houston,Operations,Supply Chain Analyst,Part-Time,11 May 2024,2024,0,2,Excellent,3,2,Yes,3,10,52350,10900,7.1,No
+EMP1955,Barbara Anderson,38,Female,Bachelor's,San Diego,Engineering,DevOps Engineer,Full-Time,21 March 2023,2023,1,10,Average,4,2,No,17,47,137449,8800,12,No
+EMP1956,Daniel Martinez,40,Male,PhD,Los Angeles,Operations,Logistics Coordinator,Part-Time,05 September 2023,2023,1,17,Excellent,3,5,No,17,24,48364,8000,11.9,No
+EMP1957,Jessica Smith,36,Female,Diploma,Dallas,Sales,Business Development Rep,Contract,17 October 2023,2023,1,10,Average,5,1,No,2,23,51480,4000,5.5,No
+EMP1958,Linda Rodriguez,41,Female,PhD,Philadelphia,Marketing,Marketing Manager,Full-Time,28 July 2023,2023,1,18,Good,1,5,Yes,21,73,82887,11900,8.9,No
+EMP1959,Jessica Davis,35,Female,Diploma,Philadelphia,Marketing,Marketing Manager,Full-Time,11 June 2021,2021,3,5,Good,5,1,No,24,59,72719,7800,12.5,Yes
+EMP1960,Lisa Garcia,35,Female,Master's,Dallas,Finance,Financial Analyst,Full-Time,22 March 2022,2022,2,13,Excellent,5,4,No,9,17,62965,11300,10,Yes
+EMP1961,Michael Lopez,32,Male,Bachelor's,Chicago,Finance,Accountant,Full-Time,19 January 2024,2024,0,2,Average,4,2,No,12,8,90062,7200,11.6,Yes
+EMP1962,Betty Gonzalez,37,Female,Diploma,Philadelphia,HR,Recruiter,Full-Time,13 April 2024,2024,0,13,Good,5,1,Yes,22,0,45168,5100,11.6,No
+EMP1963,Margaret Gonzalez,39,Female,Master's,Chicago,Operations,Supply Chain Analyst,Full-Time,12 February 2024,2024,0,10,Average,1,1,No,12,37,50632,4100,12.8,No
+EMP1964,Christopher Martinez,42,Male,Master's,San Antonio,IT,Network Engineer,Full-Time,05 November 2021,2021,3,17,Good,3,2,No,9,22,66908,9200,9.5,No
+EMP1965,William Jones,37,Male,Bachelor's,Philadelphia,Sales,Sales Executive,Full-Time,22 December 2021,2021,3,14,Good,3,4,No,8,5,51870,6700,14.5,No
+EMP1966,Alex Brown,29,Undisclosed,Bachelor's,Phoenix,Engineering,Tech Lead,Full-Time,16 March 2021,2021,3,7,Good,4,1,Yes,16,74,133780,15600,14.2,No
+EMP1967,Betty Brown,41,Female,Bachelor's,New York,Sales,Sales Manager,Full-Time,14 October 2021,2021,3,19,Good,2,5,No,17,35,71354,9400,14,No
+EMP1968,Margaret Garcia,35,Female,Master's,San Antonio,Customer Support,Support Analyst,Part-Time,28 February 2023,2023,1,8,Good,5,1,Yes,3,49,64253,8800,4.5,No
+EMP1969,Betty Wilson,37,Female,PhD,Dallas,HR,Recruiter,Full-Time,10 April 2021,2021,3,7,Good,2,2,No,12,36,44260,4700,8.6,No
+EMP1970,Anthony Jones,23,Male,Master's,Dallas,Customer Support,Support Analyst,Full-Time,23 April 2021,2021,3,1,Below Average,2,3,Yes,8,21,38693,1100,9.2,No
+EMP1971,Patricia Hernandez,42,Female,Master's,San Diego,Engineering,Software Engineer,Full-Time,03 April 2022,2022,2,20,Good,3,1,Yes,18,27,116674,12000,6.2,No
+EMP1972,Matthew Brown,42,Male,Bachelor's,Dallas,Sales,Sales Manager,Full-Time,20 January 2021,2021,3,16,Below Average,4,3,No,18,52,86568,2200,6.3,Yes
+EMP1973,David Johnson,29,Male,Bachelor's,Dallas,Operations,Operations Manager,Part-Time,26 May 2024,2024,0,5,Average,1,1,Yes,6,39,62368,4700,11.1,No
+EMP1974,Patricia Lopez,38,Female,Bachelor's,New York,Customer Support,Support Analyst,Full-Time,02 April 2024,2024,0,16,Good,2,4,No,13,17,48086,6100,3.7,No
+EMP1975,Linda Miller,44,Female,Master's,New York,Engineering,Software Engineer,Full-Time,11 January 2021,2021,3,15,Excellent,4,2,No,19,59,73935,14800,4.6,No
+EMP1976,Matthew Smith,26,Male,Bachelor's,Chicago,Engineering,Software Engineer,Full-Time,06 March 2024,2024,0,3,Good,1,3,No,10,35,119895,15800,8.7,Yes
+EMP1977,Jessica Johnson,32,Female,PhD,Phoenix,Sales,Business Development Rep,Full-Time,26 September 2022,2022,2,3,Good,2,2,No,11,18,74804,8100,3.6,No
+EMP1978,Mary Williams,45,Female,PhD,San Diego,IT,IT Analyst,Full-Time,07 March 2023,2023,1,19,Below Average,4,2,Yes,12,78,64300,2200,11,Yes
+EMP1979,Robert Miller,32,Male,Master's,Chicago,Engineering,Software Engineer,Full-Time,04 June 2023,2023,1,8,Average,3,3,No,18,69,80341,5900,6.6,No
+EMP1980,James Williams,31,Male,High School,Phoenix,Marketing,Content Strategist,Full-Time,19 February 2021,2021,3,4,Good,5,4,No,8,61,80194,10900,5,No
+EMP1981,Sandra Rodriguez,43,Female,High School,San Diego,Sales,Business Development Rep,Part-Time,07 March 2024,2024,0,15,Good,5,1,No,18,14,45633,5000,8.5,Yes
+EMP1982,Charles Wilson,32,Male,Bachelor's,Houston,Customer Support,Support Executive,Full-Time,14 February 2022,2022,2,10,Average,2,2,No,10,29,53719,4200,14.2,No
+EMP1983,Sarah Miller,41,Female,Bachelor's,New York,Sales,Account Manager,Full-Time,02 August 2023,2023,1,17,Below Average,2,2,No,23,62,82623,2400,6.3,Yes
+EMP1984,Elizabeth Anderson,29,Female,Bachelor's,San Diego,Marketing,Marketing Manager,Full-Time,07 January 2023,2023,1,7,Good,1,5,No,0,0,46191,5300,12.5,No
+EMP1985,John Miller,31,Male,Master's,San Jose,Finance,Financial Analyst,Full-Time,19 January 2021,2021,3,3,Good,5,4,No,23,79,103587,14000,4.7,No
+EMP1986,Thomas Gonzalez,33,Male,Bachelor's,San Jose,Operations,Operations Analyst,Full-Time,18 May 2023,2023,1,3,Good,2,2,No,13,15,61909,6100,3.3,No
+EMP1987,Linda Davis,30,Female,Bachelor's,Phoenix,IT,IT Analyst,Full-Time,17 February 2021,2021,3,3,Good,1,2,No,20,33,94592,10800,6.1,No
+EMP1988,Michael Garcia,36,Male,Bachelor's,San Antonio,Engineering,Software Engineer,Full-Time,14 May 2022,2022,2,14,Below Average,1,1,No,1,70,119160,3700,6,No
+EMP1989,Christopher Lopez,41,Male,Master's,Chicago,Operations,Operations Manager,Contract,23 March 2021,2021,3,18,Below Average,4,2,No,1,67,54975,1700,9.2,No
+EMP1990,John Davis,34,Male,Bachelor's,San Diego,Sales,Account Manager,Full-Time,11 December 2023,2023,1,5,Good,3,1,Yes,5,79,68495,7200,6.7,No
+EMP1991,Quinn Williams,32,Undisclosed,Diploma,San Antonio,Engineering,Software Engineer,Full-Time,18 February 2023,2023,1,4,Average,1,1,No,14,77,93159,7800,7.2,Yes
+EMP1992,William Miller,27,Male,Master's,Houston,Sales,Sales Manager,Contract,02 January 2024,2024,0,3,Excellent,2,5,No,23,80,79234,13200,4.1,No
+EMP1993,John Williams,45,Male,Bachelor's,Phoenix,Marketing,SEO Specialist,Full-Time,09 November 2021,2021,3,18,Good,1,3,No,20,22,73140,8200,14.5,No
+EMP1994,Jamie Brown,24,Undisclosed,Master's,Phoenix,Engineering,Senior Engineer,Full-Time,27 July 2023,2023,1,1,Good,2,3,No,7,44,113633,12900,11.6,No
+EMP1995,Richard Rodriguez,28,Male,PhD,San Antonio,IT,Systems Administrator,Contract,11 March 2022,2022,2,4,Below Average,4,2,No,4,35,98789,2800,14.8,No
+EMP1996,Karen Anderson,47,Female,Master's,New York,Sales,Sales Executive,Full-Time,28 July 2024,2024,0,18,Average,3,1,Yes,1,52,62666,4000,8.6,Yes
+EMP1997,Barbara Rodriguez,30,Female,Bachelor's,San Antonio,Engineering,Software Engineer,Full-Time,05 May 2024,2024,0,5,Average,1,2,No,2,43,105635,6800,6.7,No
+EMP1998,Karen Lopez,33,Female,Bachelor's,Los Angeles,Engineering,DevOps Engineer,Full-Time,12 March 2023,2023,1,9,Average,5,4,No,24,25,122385,7800,6.4,No
+EMP1999,Jessica Brown,34,Female,Bachelor's,Los Angeles,IT,IT Analyst,Full-Time,14 November 2021,2021,3,8,Good,3,5,Yes,13,68,99378,10900,13.5,No
+EMP2000,Jamie Jones,27,Undisclosed,High School,Los Angeles,Customer Support,Support Executive,Part-Time,28 June 2021,2021,3,4,Excellent,2,2,No,0,15,40955,9200,7.5,No
